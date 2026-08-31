@@ -220,7 +220,7 @@ export default function RestaurantPageClient({ restaurant }: { restaurant: Front
           <div className="flex items-center gap-1.5 rounded-xl bg-card px-4 py-2 shadow-sm"><Clock3 className="size-4 text-primary" /><span>20-35 min</span></div>
           <div className="flex items-center gap-1.5 rounded-xl bg-card px-4 py-2 shadow-sm"><Truck className="size-4 text-primary" /><span>{restaurant.deliveryFee != null ? `${restaurant.deliveryFee.toFixed(2)} MAD` : 'Gratuit'}</span></div>
           <div className="flex items-center gap-1.5 rounded-xl bg-card px-4 py-2 shadow-sm"><MapPin className="size-4 text-primary" /><span>{restaurant.address}</span></div>
-          <div className={`flex items-center gap-1.5 rounded-xl px-4 py-2 shadow-sm ${restaurant.open ? 'bg-green-50 text-green-700' : 'bg-red-50 text-red-700'}`}><div className={`size-2 rounded-full ${restaurant.open ? 'bg-green-500' : 'bg-red-500'}`} /><span className="font-semibold text-xs">{restaurant.open ? 'Ouvert' : 'Ferme'}</span></div>
+          <div className={`flex items-center gap-1.5 rounded-xl px-4 py-2 shadow-sm ${restaurant.open ? 'bg-emerald-950/60 text-emerald-300' : 'bg-red-950/60 text-red-300'}`}><div className={`size-2 rounded-full ${restaurant.open ? 'bg-emerald-500' : 'bg-red-500'}`} /><span className="font-semibold text-xs">{restaurant.open ? 'Ouvert' : 'Ferme'}</span></div>
         </div>
       </section>
 

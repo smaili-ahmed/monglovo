@@ -61,13 +61,13 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
           <span className="text-xl font-black tracking-tight">Oujda <span className="text-gradient-glovo">Food</span></span>
         </a>
         <div className="flex items-center gap-3">
-          <button onClick={() => setAddressOpen(true)} className="flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2 text-sm font-bold shadow-sm transition-all hover:shadow-md">
-            <MapPin className="size-4 text-primary" /> Oujda <ChevronDown className="size-3.5" />
+          <button onClick={() => setAddressOpen(true)} className="flex items-center gap-2 rounded-full border border-border bg-white/5 px-4 py-2 text-sm font-bold backdrop-blur-sm transition-all hover:bg-white/10">
+            <MapPin className="size-4 text-[#ff2442]" /> Oujda <ChevronDown className="size-3.5" />
           </button>
-          <button onClick={() => setLoginOpen(true)} className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/30">
+          <button onClick={() => setLoginOpen(true)} className="flex items-center gap-2 rounded-full bg-[#ff2442] px-5 py-2.5 text-sm font-bold text-white transition-all hover:bg-[#d4001c] hover:shadow-lg hover:shadow-[#ff2442]/30">
             <CircleUserRound className="size-4" /> Connexion
           </button>
-          <button onClick={() => setCartOpen(true)} className="relative rounded-full border border-border bg-card p-2.5 shadow-sm transition-all hover:shadow-md" aria-label="Panier">
+          <button onClick={() => setCartOpen(true)} className="relative rounded-full border border-border bg-white/5 p-2.5 backdrop-blur-sm transition-all hover:bg-white/10" aria-label="Panier">
             <ShoppingBag className="size-5" />
           </button>
         </div>
@@ -87,15 +87,15 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
       </header>
 
       <section className="relative z-10 mx-auto max-w-6xl px-4 pt-6 sm:px-6">
-        <div className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-primary via-[#ff5c8a] to-accent px-8 py-14 text-white shadow-2xl shadow-primary/20 sm:px-14 sm:py-20">
+        <div className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-[#ff2442] via-[#8a0013] to-black px-8 py-14 text-white shadow-2xl shadow-[#ff2442]/30 ring-1 ring-white/10 sm:px-14 sm:py-20">
           <div className="absolute -right-10 -top-10 size-64 rounded-full bg-white/10 blur-3xl" />
           <div className="absolute right-14 bottom-0 hidden size-40 rounded-full border-2 border-white/20 sm:block animate-glow-pulse" />
           <div className="relative">
-            <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-sm font-semibold backdrop-blur-sm">
+            <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-black/30 px-4 py-1.5 text-sm font-semibold backdrop-blur-sm ring-1 ring-white/20">
               🛵 Livraison en 20-35 min
             </div>
             <h1 className="text-4xl font-black leading-[1.05] tracking-tight sm:text-6xl">
-              Votre repas prefere<br />livre a <span className="underline decoration-accent decoration-8 underline-offset-4">Oujda</span>
+              Votre repas prefere<br />livre a <span className="underline decoration-white decoration-8 underline-offset-4">Oujda</span>
             </h1>
             <p className="mt-5 max-w-lg text-base text-white/85 sm:text-lg">
               Decouvrez les meilleurs restaurants de la ville et faites livrer vos plats favoris directement chez vous.
@@ -106,12 +106,12 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Rechercher un restaurant ou un plat..."
-                className="h-15 w-full rounded-2xl bg-white pl-13 pr-4 text-base text-foreground shadow-2xl outline-none placeholder:text-muted-foreground focus:ring-4 focus:ring-white/30"
+                className="h-15 w-full rounded-2xl bg-white pl-13 pr-4 text-base text-foreground shadow-2xl outline-none placeholder:text-muted-foreground focus:ring-4 focus:ring-[#ff5c8a]/40"
               />
             </div>
             <div className="mt-5 flex flex-wrap gap-2.5">
-              <button onClick={() => { setQuery(''); setActiveCategory('Tous') }} className="rounded-full bg-white font-bold px-5 py-2 text-sm text-primary shadow-lg transition-transform hover:scale-105">Tous les restaurants</button>
-              <button onClick={() => { setTopRated(!topRated) }} className={`rounded-full px-5 py-2 text-sm font-semibold backdrop-blur-sm transition-all ${topRated ? 'bg-white text-primary' : 'bg-white/15 text-white hover:bg-white/25'}`}>⭐ Meilleures notes</button>
+              <button onClick={() => { setQuery(''); setActiveCategory('Tous') }} className="rounded-full bg-white font-bold px-5 py-2 text-sm text-[#b3001b] shadow-lg transition-transform hover:scale-105">Tous les restaurants</button>
+              <button onClick={() => { setTopRated(!topRated) }} className={`rounded-full px-5 py-2 text-sm font-semibold backdrop-blur-sm transition-all ${topRated ? 'bg-white text-[#b3001b]' : 'bg-black/30 text-white ring-1 ring-white/20 hover:bg-black/50'}`}>⭐ Meilleures notes</button>
             </div>
           </div>
         </div>

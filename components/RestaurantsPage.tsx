@@ -41,10 +41,10 @@ export default function RestaurantsPage({ restaurants }: { restaurants: (FrontRe
           <span className="text-xl font-black tracking-tight">Oujda <span className="text-gradient-glovo">Food</span></span>
         </a>
         <div className="flex items-center gap-3">
-          <button className="flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2 text-sm font-bold shadow-sm transition-all hover:shadow-md">
-            <MapPin className="size-4 text-primary" /> Oujda <ChevronDown className="size-3.5" />
+          <button className="flex items-center gap-2 rounded-full border border-border bg-white/5 px-4 py-2 text-sm font-bold backdrop-blur-sm transition-all hover:bg-white/10">
+            <MapPin className="size-4 text-[#ff2442]" /> Oujda <ChevronDown className="size-3.5" />
           </button>
-          <a href="/" className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/30">
+          <a href="/" className="flex items-center gap-2 rounded-full bg-[#ff2442] px-5 py-2.5 text-sm font-bold text-white transition-all hover:bg-[#d4001c] hover:shadow-lg hover:shadow-[#ff2442]/30">
             <CircleUserRound className="size-4" /> Connexion
           </a>
         </div>
