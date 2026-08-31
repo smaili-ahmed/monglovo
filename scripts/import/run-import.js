@@ -73,6 +73,7 @@ async function importStore(storeData) {
             image: p.image ?? null,
             available: p.available !== false,
             position: prodPos,
+            optionGroups: p.optionGroups || p.option_groups || [],
           },
         },
         { new: true, upsert: true, setDefaultsOnInsert: true }

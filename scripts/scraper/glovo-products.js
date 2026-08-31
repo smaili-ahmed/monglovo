@@ -74,6 +74,46 @@ function firstStoreLogo(html) {
   return m ? m[1] : null;
 }
 
+function parseAttributeGroups(elements) {
+  if (!Array.isArray(elements)) return [];
+  const optionGroups = [];
+  let pos = 0;
+
+  for (const el of elements) {
+    if (el && el.type === 'ATTRIBUTES_GROUP' && el.data) {
+      const d = el.data;
+      const options = [];
+      let optPos = 0;
+
+      for (const attrEl of d.elements || []) {
+        if (attrEl && attrEl.type === 'ATTRIBUTE' && attrEl.data) {
+          const ad = attrEl.data;
+          options.push({
+            optionId: String(ad.attributeId || ad.id || optPos),
+            name: (ad.name || '').trim(),
+            price: typeof ad.price === 'number' ? ad.price : 0,
+            available: ad.isEnabled !== false,
+            position: optPos++,
+          });
+        }
+      }
+
+      optionGroups.push({
+        groupId: String(d.attributeGroupId || d.groupId || pos),
+        name: (d.title || '').trim(),
+        description: (d.subtitle || '').trim(),
+        required: !!(d.requiredText || (d.min && d.min > 0)),
+        min: typeof d.min === 'number' ? d.min : 0,
+        max: typeof d.max === 'number' ? d.max : 1,
+        position: pos++,
+        options,
+      });
+    }
+  }
+
+  return optionGroups;
+}
+
 function parseStorePage(html) {
   const joined = joinNextF(html);
   if (!joined) return { store: null, logoUrl: null, categories: [] };
@@ -130,6 +170,7 @@ function parseStorePage(html) {
     }
 
     const outOfStock = JSON.stringify(e.actions || '').includes('"isOutOfStock":"true"');
+    const optionGroups = parseAttributeGroups(r.customizations || r.attributeGroups || e.elements || []);
 
     return {
       name,
@@ -139,6 +180,7 @@ function parseStorePage(html) {
       discount: discount && discount > 0 ? discount : null,
       image: dhImageUrl(r.imageId),
       available: !outOfStock,
+      optionGroups,
     };
   };
 
@@ -175,4 +217,5 @@ function parseStorePage(html) {
   return { store, logoUrl, categories };
 }
 
-module.exports = { joinNextF, parseStorePage, dhImageUrl };
+module.exports = { joinNextF, parseStorePage, dhImageUrl, parseAttributeGroups };
+

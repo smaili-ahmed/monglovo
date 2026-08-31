@@ -1,4 +1,4 @@
-﻿'use client'
+'use client'
 
 import { useMemo, useState } from 'react'
 import { ChevronDown, ChevronLeft, Clock3, MapPin, Minus, Plus, Search, ShoppingBag, Star, Truck, X, ArrowRight } from 'lucide-react'
@@ -35,6 +35,33 @@ function ProductModal({ product, onClose, onAdd }: { product: FrontProduct; onCl
           </div>
           {product.description && (
             <p className="mt-4 text-sm leading-relaxed text-muted-foreground">{product.description}</p>
+          )}
+
+          {product.optionGroups && product.optionGroups.length > 0 && (
+            <div className="mt-5 space-y-3 max-h-52 overflow-y-auto pr-1 border-t border-border pt-4">
+              {product.optionGroups.map((og) => (
+                <div key={og.id} className="rounded-2xl border border-border bg-muted/40 p-3.5">
+                  <div className="flex items-center justify-between">
+                    <span className="text-xs font-extrabold uppercase tracking-wider">{og.name}</span>
+                    {og.required && (
+                      <span className="text-[10px] font-bold text-primary bg-primary/10 px-2 py-0.5 rounded-full">Obligatoire</span>
+                    )}
+                  </div>
+                  {og.description && <p className="text-[11px] text-muted-foreground mt-0.5">{og.description}</p>}
+                  <div className="mt-2.5 space-y-1.5">
+                    {og.options.map((opt) => (
+                      <label key={opt.id} className="flex items-center justify-between text-xs p-2 rounded-xl bg-background/60 hover:bg-background cursor-pointer transition-colors border border-border/50">
+                        <div className="flex items-center gap-2.5">
+                          <input type={og.max === 1 ? 'radio' : 'checkbox'} name={`group_${og.id}`} className="accent-primary size-3.5" />
+                          <span className="font-medium">{opt.name}</span>
+                        </div>
+                        <span className="font-bold text-muted-foreground">{opt.price > 0 ? `+${opt.price.toFixed(2)} MAD` : 'Gratuit'}</span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
           )}
           <div className="mt-8 flex items-center justify-between">
             <div className="flex items-center gap-4 rounded-2xl border border-border bg-muted">
