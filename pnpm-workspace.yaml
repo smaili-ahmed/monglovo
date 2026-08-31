@@ -1,2 +1,8 @@
 allowBuilds:
   msw: set this to true or false
+
+onlyBuiltDependencies:
+  - msw
+
+overrides:
+  hono: 4.12.25
