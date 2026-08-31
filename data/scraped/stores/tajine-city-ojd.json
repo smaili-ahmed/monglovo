@@ -1,0 +1,534 @@
+{
+  "slug": "tajine-city-ojd",
+  "name": "Tajine City",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/tajine-city-ojd",
+  "rating": "91%",
+  "reviews": "72",
+  "cuisines": [
+    "Moroccan"
+  ],
+  "image": "/restaurants/tajine-city-ojd/cover.webp",
+  "logoUrl": "/restaurants/tajine-city-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Tajine poulet au tride",
+          "description": "1/4 poulet",
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__top-sellers__tajine-poulet-au-tride.webp",
+          "available": true
+        },
+        {
+          "name": "Rfissa",
+          "description": "Rfissa",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__top-sellers__rfissa.webp",
+          "available": true
+        },
+        {
+          "name": "Pastilla Au Poulet",
+          "description": "Pastilla Petite pour 1 personne",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__top-sellers__pastilla-au-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nouveautés",
+      "products": [
+        {
+          "name": "Rfissa",
+          "description": "Rfissa",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__nouveautes__rfissa.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Niçoise",
+          "description": "Salade Niçoise",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__salades__salade-nicoise.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Variée",
+          "description": "Salade Variée",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__salades__salade-variee.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Marocaine",
+          "description": "Salade Marocaine onion",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__salades__salade-marocaine.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Marocaine Au Thon",
+          "description": "Salade Marocaine Au Thon",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__salades__salade-marocaine-au-thon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Assortiments, Marocaine",
+      "products": [
+        {
+          "name": "Tajine Pilpil",
+          "description": "crevettes",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__tajine-pilpil.webp",
+          "available": true
+        },
+        {
+          "name": "Soupe Marocaine",
+          "description": "Soupe marocain",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__soupe-marocaine.webp",
+          "available": true
+        },
+        {
+          "name": "Taktouka",
+          "description": "Taktoka",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__taktouka.webp",
+          "available": true
+        },
+        {
+          "name": "Zaalouk",
+          "description": "zaelouk",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__zaalouk.webp",
+          "available": true
+        },
+        {
+          "name": "Frites",
+          "description": "Ration Frites",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__frites.webp",
+          "available": true
+        },
+        {
+          "name": "Olives Marinées",
+          "description": "Olives vertes",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__assortiments-marocaine__olives-marinees.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tajine Viande",
+      "products": [
+        {
+          "name": "Tajine De Viande Aux Fruits Secs",
+          "description": "viande aux fruits secs, 500g",
+          "price": 172,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-viande__tajine-de-viande-aux-fruits-secs.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine De Viande Aux Poires Sucrées",
+          "description": "Tajine De Viande Aux Poires Sucrées",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-viande__tajine-de-viande-aux-poires-sucrees.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine Viande Hachée",
+          "description": "Viande Hachée 250 g",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-viande__tajine-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tajine poulet",
+      "products": [
+        {
+          "name": "Tajine poulet au tride",
+          "description": "1/4 poulet",
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-poulet__tajine-poulet-au-tride.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine poulet aux olives messlalla",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-poulet__tajine-poulet-aux-olives-messlalla.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine poulet au citron",
+          "description": "deghmira",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__tajine-poulet__tajine-poulet-au-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pastilla 1 Personne",
+      "products": [
+        {
+          "name": "Pastilla Fruits De Mer",
+          "description": "Pastilla Petite pour 1 personne",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__pastilla-1-personne__pastilla-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pastilla Au Poulet",
+          "description": "Pastilla Petite pour 1 personne",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__pastilla-1-personne__pastilla-au-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "products": [
+        {
+          "name": "Salade de fruits",
+          "description": null,
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__dessert__salade-de-fruits.webp",
+          "available": true
+        },
+        {
+          "name": "Jawhara",
+          "description": null,
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__dessert__jawhara.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "products": [
+        {
+          "name": "Coca Cola Maxi",
+          "description": "45cl",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__soda__coca-cola-maxi.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali 1.5l",
+          "description": "Eau Minérale",
+          "price": 13,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__soda__sidi-ali-1-5l.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali 50cl",
+          "description": "Eau Minérale",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__soda__sidi-ali-50cl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus classique",
+      "products": [
+        {
+          "name": "Fraise",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__fraise.webp",
+          "available": true
+        },
+        {
+          "name": "Ananas",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__ananas.webp",
+          "available": true
+        },
+        {
+          "name": "Mangue",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__mangue.webp",
+          "available": true
+        },
+        {
+          "name": "Kiwi",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__kiwi.webp",
+          "available": true
+        },
+        {
+          "name": "Banane base d’orange",
+          "description": null,
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Avocat",
+          "description": null,
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Orange",
+          "description": null,
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__orange.webp",
+          "available": true
+        },
+        {
+          "name": "Citron",
+          "description": null,
+          "price": 21,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__citron.webp",
+          "available": true
+        },
+        {
+          "name": "Banane",
+          "description": null,
+          "price": 21,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__jus-classique__banane.webp",
+          "available": true
+        },
+        {
+          "name": "Pommes",
+          "description": null,
+          "price": 21,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Milk Shake",
+      "products": [
+        {
+          "name": "Kinder buenos",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__milk-shake__kinder-buenos.webp",
+          "available": true
+        },
+        {
+          "name": "Milka chocolat",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__milk-shake__milka-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Banane shake",
+          "description": null,
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Apple Shake",
+          "description": null,
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Fraise Shake",
+          "description": null,
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__milk-shake__fraise-shake.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smothies",
+      "products": [
+        {
+          "name": "Adrénaline",
+          "description": "Lait . Mangue. Ananas . Yaourt . Raisins secs",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__smothies__adrenaline.webp",
+          "available": true
+        },
+        {
+          "name": "Mémorise",
+          "description": "Kiwi . Ananas . Yaourt. Orange",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Fitness",
+          "description": "Fraise. Orange. Banane. Avoine",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cocktail",
+      "products": [
+        {
+          "name": "Za3za3",
+          "description": null,
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Cocktail city",
+          "description": "Mangue. Kiwi . Fraise",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__cocktail__cocktail-city.webp",
+          "available": true
+        },
+        {
+          "name": "Bora bora",
+          "description": "Ananas . Fruit de passion",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__cocktail__bora-bora.webp",
+          "available": true
+        },
+        {
+          "name": "Pina colada",
+          "description": "Lait de coco ananas coco",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__cocktail__pina-colada.webp",
+          "available": true
+        },
+        {
+          "name": "Cocktail fruits",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/tajine-city-ojd/products/tajine-city-ojd__cocktail__cocktail-fruits.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 440294,
+  "scrapedAt": "2026-08-24T10:44:47.751Z"
+}

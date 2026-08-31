@@ -1,0 +1,584 @@
+{
+  "slug": "palermos-snack-pizzeria-ojd",
+  "name": "Palermo’s Snack & Pizzeria",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/palermos-snack-pizzeria-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Pizza",
+    "Sandwich",
+    "Tacos"
+  ],
+  "image": "/restaurants/palermos-snack-pizzeria-ojd/cover.webp",
+  "logoUrl": "/restaurants/palermos-snack-pizzeria-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Les Salades",
+      "products": [
+        {
+          "name": "Salade Munite",
+          "description": "Ananas, dinde, dinde fumée, maïs, salade verte, sauce brazil",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-salades__salade-munite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Palermo's",
+          "description": "Garniture signature palermo's, pain",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-palermos.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Cordon Bleu",
+          "description": "Cordon bleu de poulet, fromage, pain",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Fruits De Mer",
+          "description": "Fruits de mer, pain",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Mixte",
+          "description": "Mélange de garnitures, pain",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Dinde",
+          "description": "Dinde, pain",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Viande Hachée",
+          "description": "Pain, viande hachée, salade, tomate, may contain allergens",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Tenders",
+          "description": "Lanières de poulet panées, pain, sauces",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Nuggets",
+          "description": "Nuggets de poulet, pain",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-sandwichs__sandwich-nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs Chesse Nann",
+      "products": [
+        {
+          "name": "Chesse Nann Fruit De Mer",
+          "description": "Pain chesse nann, tomate, laitue, fromage, fruit d mer",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__sandwichs-chesse-nann__chesse-nann-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Chesse Nann Steak Viande",
+          "description": "Pain chesse nann, laitue, tomate, fromage, steak viande",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__sandwichs-chesse-nann__chesse-nann-steak-viande.webp",
+          "available": true
+        },
+        {
+          "name": "Chesse Nann Tenders",
+          "description": "Pain chesse nann, tomate, laitue, fromage, tendres",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__sandwichs-chesse-nann__chesse-nann-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Chesse Nann Dinde",
+          "description": "Dinde, tomate, laitue, fromage, pain de chesse nann",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__sandwichs-chesse-nann__chesse-nann-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Panzerottis",
+      "products": [
+        {
+          "name": "Panzarotti Palermos",
+          "description": "Pain panzarotti, 4 viandes au choix, pepperoni, fromage",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzarotti-palermos.webp",
+          "available": true
+        },
+        {
+          "name": "Panzarotii Fruit De Mer",
+          "description": "Pain panzarotti, fruit de mer, fromage",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzarotii-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Panzaroti Mixte",
+          "description": "Pain panzarotti, deux viandes aux choix, fromage",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzaroti-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panzaroti Tenders",
+          "description": "Pain panzarotti, tenders, fromage",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzaroti-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Panzarotti Viande Hachée",
+          "description": "Pain de panzarotti, viande hachée, fromage",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzarotti-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Panzarotti Dinde",
+          "description": "Pain de panzarotti, dinde, fromage, sauce au choix",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__panzerottis__panzarotti-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Big Burger",
+          "description": "Steak viande, steak chicken, tomate, laitue, double fromage, sauce burger",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__burgers__big-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Steak viande, tomate, laitue, cheddar, sauce burger",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__burgers__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Steak chicken, cheddar, tomate, laitue, sauce burger",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__burgers__chicken-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Palermo's",
+          "description": "Garniture spéciale palermo's, fromage, tortilla",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-palermos.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Fruits De Mer",
+          "description": "Fruits de mer, fromage, tortilla",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Tender's",
+          "description": "Tenders de poulet, fromage, tortilla",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "Cordon bleu, fromage, tortilla",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Mélange de viandes, fromage, tortilla",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Dinde, fromage, tortilla",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Viande hachée, fromage, tortilla",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Kababe",
+          "description": "Kabab, fromage, tortilla",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-kababe.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets de poulet, fromage, tortilla",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza Palermo's",
+          "description": "Ingrédients spéciaux de la maison, base tomate, fromage",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-palermos.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Fruits de mer frais, base tomate, fromage",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Oriental",
+          "description": "Ingrédients orientaux épicés, base tomate, fromage",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-oriental.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Charcuterie",
+          "description": "Assortiment de charcuteries fines, base tomate, fromage",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Mista",
+          "description": "Mélange de garnitures variées+dind, base tomate, fromage",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-mista.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Al Thonnelle",
+          "description": "Base tomate, thon, oignons, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-al-thonnelle.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Sauce tomate fraîche, mozzarella, basilic frais",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pizzas__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcios",
+      "products": [
+        {
+          "name": "Pasticcio Palermo's",
+          "description": "Garniture signature palermo's, pâtes, sauce, fromage",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-palermos.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Fruits De Mer",
+          "description": "Fruits de mer, pâtes, sauce, fromage",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "Dinde, sauce, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Viande Hachée",
+          "description": "Viande hachée, , sauce, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Tenders",
+          "description": "Tenders de poulet, pâtes, sauce, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Mixte",
+          "description": "Mélange de garnitures, pâtes, sauce, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Nuggets",
+          "description": "Nuggets de poulet, sauce, fromage",
+          "price": 41,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__pasticcios__pasticcio-nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les Jus",
+      "products": [
+        {
+          "name": "Coktail Fruit",
+          "description": "Cocktail des fruits",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__coktail-fruit.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Kiwi",
+          "description": "Base orange ou citrons, kiwi",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__jus-de-kiwi.webp",
+          "available": true
+        },
+        {
+          "name": "Jus Ananas",
+          "description": "Base orange où citron",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__jus-ananas.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Mangue",
+          "description": "Base orange ou citron, mangue",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__jus-de-mangue.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Banane",
+          "description": "A base du lait ou orange",
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__jus-de-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'orange",
+          "description": "Orange 100%",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__les-jus__jus-dorange.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Classique  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__coca-cola-classique-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__hawai-tropical-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__fanta-orange-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (33 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__sprite-classique-33-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__poms-pomme-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali -   ( 33cl ) Bouteille",
+          "description": "Eau minérale",
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/palermos-snack-pizzeria-ojd/products/palermos-snack-pizzeria-ojd__boissons__sidi-ali-33cl-bouteille.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 529130,
+  "scrapedAt": "2026-08-24T10:39:30.013Z"
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "snack-slaoui-ojd",
+  "name": "Snack Slaoui",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/snack-slaoui-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Oriental"
+  ],
+  "image": "/restaurants/snack-slaoui-ojd/cover.webp",
+  "logoUrl": "/restaurants/snack-slaoui-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Fruits De Mer",
+          "description": "Salade, fromage, maïs, thon, tomate, olive, sauce, fruits de mer",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__salades__salade-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Slaoui",
+          "description": "Salade, fromage, maïs, thon, tomate, olive, sauce, shawarma",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__salades__salade-slaoui.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Variée",
+          "description": "Salade, fromage, maïs, thon, tomate, olive, sauce",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__salades__salade-variee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Shawarmas",
+      "products": [
+        {
+          "name": "Shawarma Big",
+          "description": "Viande, salade, tomate, fromage, sauce toumia, frites",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__shawarmas__shawarma-big.webp",
+          "available": true
+        },
+        {
+          "name": "Shawarma Grec",
+          "description": "Viande, salade, tomate, fromage, sauce toumia, frites",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__shawarmas__shawarma-grec.webp",
+          "available": true
+        },
+        {
+          "name": "Shawarma Slaoui",
+          "description": "Viande, salade, tomate, fromage, sauce toumia, frites",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__shawarmas__shawarma-slaoui.webp",
+          "available": true
+        },
+        {
+          "name": "Shawarma Simple",
+          "description": "Viande, salade, tomate, fromage, sauce toumia, frites",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__shawarmas__shawarma-simple.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Plat Shawarma",
+          "description": "Viande, salade, fromage, maïs, thon, tomate, olive, sauce",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__plats__plat-shawarma.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nuggets",
+      "products": [
+        {
+          "name": "Nuggets",
+          "description": "6 Pièces de nuggets",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__nuggets__nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sides",
+      "products": [
+        {
+          "name": "Aquafina 50cl",
+          "description": "Eau minérale",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__sides__aquafina-50cl.webp",
+          "available": true
+        },
+        {
+          "name": "Frites",
+          "description": "Portion frites",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-slaoui-ojd/products/snack-slaoui-ojd__sides__frites.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 436227,
+  "scrapedAt": "2026-08-24T10:34:54.992Z"
+}

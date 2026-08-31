@@ -1,0 +1,555 @@
+{
+  "slug": "bbq-ojd",
+  "name": "BBQ",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/bbq-ojd",
+  "rating": "94%",
+  "reviews": "25",
+  "cuisines": [
+    "Burgers",
+    "Grill",
+    "Tacos"
+  ],
+  "image": "/restaurants/bbq-ojd/cover.webp",
+  "logoUrl": null,
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Brochettes Viande Hachée",
+          "description": "Avec salade et frites",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__top-sellers__brochettes-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Brochettes Mixte",
+          "description": "Avec salade et frites",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__top-sellers__brochettes-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Shawarma",
+          "description": "Viande shawarma, sauce, légumes",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__top-sellers__plat-shawarma.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Promotion spéciale",
+      "products": [
+        {
+          "name": "Pack poulet grillé complet",
+          "description": "Poulet entier. Salade varié gr. Soda 1l . Daghmira. 3das. rouz. frit",
+          "price": 220,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__promotion-speciale__pack-poulet-grille-complet.webp",
+          "available": true
+        },
+        {
+          "name": "Pack poulet roti complet",
+          "description": "Poulet entier. Salade varié gr. Soda 1l . Daghmira. 3das. rouz. frit",
+          "price": 220,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__promotion-speciale__pack-poulet-roti-complet.webp",
+          "available": true
+        },
+        {
+          "name": "Pack demi poulet grillé",
+          "description": "Demi poulet grillé. Salade varié gr. Soda 1l . Daghmira. 3das. rouz. frit",
+          "price": 135,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__promotion-speciale__pack-demi-poulet-grille.webp",
+          "available": true
+        },
+        {
+          "name": "Pack demi poulet roti",
+          "description": "Demi poulet roti. Salade varié gr. Soda 1l \nDaghmira .3das. Frites.  Rouz",
+          "price": 135,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__promotion-speciale__pack-demi-poulet-roti.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Pêcheur",
+          "description": "Crevettes, calamars, poissons",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__salades__salade-pecheur.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise",
+          "description": "Légumes.  Rouz. Salade verte. \nThon . Les pâte.  Thon. Sauce vinaigre",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__salades__salade-nicoise.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Marocaine",
+          "description": "Tomate, oignon,",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__salades__salade-marocaine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Kebab",
+          "description": "Kebab, frites, sauce fromagère,sauce au choix",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos__tacos-kebab.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Kefta",
+          "description": "Kefta, frites, sauce fromagère, sauce au choix",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos__tacos-kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Dinde, frites, sauce fromagère,sauce au choix",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos Gratiné",
+      "products": [
+        {
+          "name": "Tacos Gratiné Fruits De Mer",
+          "description": "Fruits de mer, frites, fromage gratiné, sauce au choix",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos-gratine__tacos-gratine-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné viande haché",
+          "description": "Viandehaché, frites, fromage gratiné, sauce au choix",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos-gratine__tacos-gratine-viande-hache.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné dinde",
+          "description": "Dinde, frites, fromage gratiné, sauce au choix",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__tacos-gratine__tacos-gratine-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwiches Pain Au Lait",
+      "products": [
+        {
+          "name": "Kefta",
+          "description": "Kefta, sauce, légumes",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__sandwiches-pain-au-lait__kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Mixte",
+          "description": "Poulet, kefta, sauce, légumes",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__sandwiches-pain-au-lait__mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Poulet",
+          "description": "Poulet, sauce, légumes",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__sandwiches-pain-au-lait__poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats Du Chef",
+      "products": [
+        {
+          "name": "Émincé De Poulet Sauce Champignon",
+          "description": "Émincé de poulet et champignons à la sauce crème",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-du-chef__emince-de-poulet-sauce-champignon.webp",
+          "available": true
+        },
+        {
+          "name": "Cordon Bleu",
+          "description": "Escalope de poulet farcie de fromage et jambon de dinde",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-du-chef__cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Shawarma",
+          "description": "Viande shawarma, sauce, légumes",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-du-chef__plat-shawarma.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats Chewaya",
+      "products": [
+        {
+          "name": "Brochettes Viande Hachée",
+          "description": "Avec salade et frites",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-chewaya__brochettes-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Brochettes Mixte",
+          "description": "Avec salade et frites",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-chewaya__brochettes-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Brochettes Dinde",
+          "description": "Avec salade et frites",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__plats-chewaya__brochettes-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcios",
+      "products": [
+        {
+          "name": "Pasticcio Fruits De Mer",
+          "description": "Frites, fruits de mer, sauce béchamel, fromage",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pasticcios__pasticcio-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Kefta",
+          "description": "Frites, kefta, sauce béchamel, fromage",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pasticcios__pasticcio-kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "frites, dinde, sauce béchamel, fromage",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pasticcios__pasticcio-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poulet Grillé",
+      "products": [
+        {
+          "name": "Poulet Complet Grillé",
+          "description": "Avec daghmira et rouz et frites",
+          "price": 195,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-grille__poulet-complet-grille.webp",
+          "available": true
+        },
+        {
+          "name": "1/2 De Poulet Grillé",
+          "description": "Avec daghmira et rouz et frites",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-grille__1-2-de-poulet-grille.webp",
+          "available": true
+        },
+        {
+          "name": "1/4 de poulet grillé",
+          "description": "Avec daghmira et rouz et frites",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-grille__1-4-de-poulet-grille.webp",
+          "available": true
+        },
+        {
+          "name": "1/4 De Poulet Grillé régime",
+          "description": "Avec salade et rouz et frites",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-grille__1-4-de-poulet-grille-regime.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poulet Rôti",
+      "products": [
+        {
+          "name": "Poulet Complet Rôti",
+          "description": "Poulet entier rôti",
+          "price": 190,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-roti__poulet-complet-roti.webp",
+          "available": true
+        },
+        {
+          "name": "1/2 De Poulet Rôti",
+          "description": "Avec daghmira et rouz et frites",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-roti__1-2-de-poulet-roti.webp",
+          "available": true
+        },
+        {
+          "name": "1/4 de poulet rôti régime",
+          "description": "Avec salade et rouz et frites",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-roti__1-4-de-poulet-roti-regime.webp",
+          "available": true
+        },
+        {
+          "name": "1/4 De Poulet Rôti",
+          "description": "Avec daghmira et rouz et frites",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__poulet-roti__1-4-de-poulet-roti.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Chewaya (Au Kilo)",
+      "products": [
+        {
+          "name": "Viande Hachée 1kg",
+          "description": "Viande hachée (1kg)",
+          "price": 290,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__chewaya-au-kilo__viande-hachee-1kg.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza (Moyenne)",
+      "products": [
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Ingrédients : fromage, mozzarella, sauce tomate, champignons, crevettes, calamars, surimi. Olive noir",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pizza-moyenne__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Bolognaise",
+          "description": "Ingrédients : fromage, mozzarella, sauce tomate, champignons, viande hachée, origan, olive",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pizza-moyenne__pizza-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Ingrédients : fromage, mozzarella, sauce tomate, origan,",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__pizza-moyenne__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "products": [
+        {
+          "name": "Tiramisu",
+          "description": "Crème mascarpone, biscuits,",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__desserts__tiramisu.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Fruits",
+          "description": "Fruits frais coupés",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__desserts__salade-fruits.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Jus D'orange",
+          "description": "Jus d'orange frais",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Jus De Banane",
+          "description": "L'ait et banane",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__jus-de-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (25 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__sprite-classique-25-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Citron  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__fanta-citron-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__poms-pomme-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Eau 50 Cl",
+          "description": "Bouteille d'eau minérale 50 cl",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/bbq-ojd/products/bbq-ojd__boissons__eau-50-cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 540759,
+  "scrapedAt": "2026-08-24T10:45:37.903Z"
+}

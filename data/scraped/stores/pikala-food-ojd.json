@@ -1,0 +1,1170 @@
+{
+  "slug": "pikala-food-ojd",
+  "name": "Pikala Food",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/pikala-food-ojd",
+  "rating": "96%",
+  "reviews": "17",
+  "cuisines": [
+    "Pizza"
+  ],
+  "image": "/restaurants/pikala-food-ojd/cover.webp",
+  "logoUrl": "/restaurants/pikala-food-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Plat Emincé de Poulet",
+          "description": "Emincé de poulet, sauce champignon, laitue, tomate, riz, légumes sautés, frites",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__top-sellers__plat-emince-de-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwishs Avec Frites",
+      "products": [
+        {
+          "name": "Sandwich Fruits de Mer",
+          "description": "Fruits de mer, fromage, laitue, tomate, olive, sauce",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Pikala",
+          "description": "Viande hachée, charcuterie, fomage cheddar, cornichon, sauce fromagère, laitue, tomate, olive, sauce",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-pikala.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Nuggets",
+          "description": "Nuggets, fromage, laitue, tomate, olive, sauce",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Mixed",
+          "description": "2 viandes au choix viande hachée, poulet ou merguez, fromage, laitue, tomate, olive, sauce",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-mixed.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Cordon Bleu",
+          "description": "Cordon bleu, fromage, laitue, tomate, olive, sauce",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Viande Hachée",
+          "description": "Viande hachée, fromage, laitue, tomate, olive, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Thon",
+          "description": "Thon, fromage, laitue, tomate, olive, sauce",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Kebab",
+          "description": "Kebab, fromage, laitue, tomate, olive, sauce",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-kebab.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Dinde",
+          "description": "Dinde, fromage, laitue, tomate, olive, sauce",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Omelette",
+          "description": "Œuf, fromage, laitue, tomate, olive, sauce",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__sandwishs-avec-frites__sandwich-omelette.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers Avec Frites",
+      "products": [
+        {
+          "name": "Burger Double Viande Hachée",
+          "description": "Double viande hachée, double fromage cheddar, laitue, tomate, sauce",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__burger-double-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Double Chicken",
+          "description": "Double chicken, double fromage cheddar, laitue, tomate, sauce",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__burger-double-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Pikala",
+          "description": "Viande hachée, charcuterie, fromage cheddar, oignon caramélisé, sauce fromagère, cornichon, laitue, tomate",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__burger-pikala.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Viande hachée, fromage cheddar, laitue, tomate, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Chicken, fromage cheddar, laitue, tomate, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Cordon Bleu",
+          "description": "Cordon bleu, fromage cheddar, laitue, tomate, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__burgers-avec-frites__burger-cordon-bleu.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Plat Cordon Bleu",
+          "description": "Cordon bleu, laitue, tomate, riz, légumes sautés, frites",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__plats__plat-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Emincé de Poulet",
+          "description": "Emincé de poulet, sauce champignon, laitue, tomate, riz, légumes sautés, frites",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__plats__plat-emince-de-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Mixed Grill",
+          "description": "Brochette de viande hachée, brochette de merguez, brochette de dinde, laitue, tomate, riz, légumes sautés, frites",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__plats__plat-mixed-grill.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pâtes",
+      "products": [
+        {
+          "name": "Tagliatelle Fruits de Mer",
+          "description": "Crevettes, Calamar, Surimi, Fromage râpé, Champignons, Sauce Blanche",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pates__tagliatelle-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tagliatelle Charcuterie",
+          "description": "Charcuterie, Fromage râpé, Champignons, Sauce Blanche",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pates__tagliatelle-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Tagliatelle Bolognaise",
+          "description": "Viande Hachée Fromage râpé, Sauce Bolognaise",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pates__tagliatelle-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Spaghetti ou Macaroni Thon",
+          "description": "Thon, Fromage Râpé, Sauce Tomate",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pates__spaghetti-ou-macaroni-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Spaghetti ou Macaroni Bolognaise",
+          "description": "Viande Hachée, Fromage Râpé, Sauce Bolognaise",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pates__spaghetti-ou-macaroni-bolognaise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wraps Avec Frites",
+      "products": [
+        {
+          "name": "Wrap Tenders",
+          "description": "Laitue, tomate, fromage, sauce",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__wraps-avec-frites__wrap-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Wrap Nugget",
+          "description": "Nuggets, laitue, tomate, fromage, sauce",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__wraps-avec-frites__wrap-nugget.webp",
+          "available": true
+        },
+        {
+          "name": "Wrap Poulet",
+          "description": "Nuggets, laitue, tomate, fromage, sauce",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__wraps-avec-frites__wrap-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Twisters Avec Frites",
+      "products": [
+        {
+          "name": "Washington Twister",
+          "description": "Tenders, viande hachée, laitue, charcuterie, tomate, fromage, oignions caramélisé, galette pomme de terre, sauce cheddar, sauce",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__twisters-avec-frites__washington-twister.webp",
+          "available": true
+        },
+        {
+          "name": "Oslo Twister",
+          "description": "Tenders, nuggets, laitue, charcuterie, tomate, fromage, oignions caramélisé, galette pomme de terre, sauce cheddar, sauce",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__twisters-avec-frites__oslo-twister.webp",
+          "available": true
+        },
+        {
+          "name": "Salvador Twister",
+          "description": "Tenders, merguez, laitue, charcuterie, tomate, fromage, oignions caramélisé, galette pomme de terre, sauce cheddar, sauce",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__twisters-avec-frites__salvador-twister.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Bowl 2 Viandes Au Choix",
+          "description": "Frites, 2 viandes au choix, sauce fromagère, sauce cheddar, charcuterie, sauce au choix",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__bowls__bowl-2-viandes-au-choix.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mkilas",
+      "products": [
+        {
+          "name": "Mkila Pil Pil",
+          "description": "Crevettes, sauce blanche ou sauce tomate, fromage",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__mkilas__mkila-pil-pil.webp",
+          "available": true
+        },
+        {
+          "name": "Mkila Dinde",
+          "description": "Dinde, sauce tomate ou sauce blanche, fromage",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__mkilas__mkila-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Mkila Viande Hachée",
+          "description": "Viande hachée, œuf, sauce tomate, fromage",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__mkilas__mkila-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Healthy Grande",
+          "description": "Laitue, tomate, poulet, riz, pomme de terre, carotte, concombre, choux, betterave",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-healthy-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Pikala Grande",
+          "description": "Laitue, tomate, riz, pâtes, olives, choux, crevettes, surimi, charcuterie, fromage",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-pikala-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Healthy Petite",
+          "description": "Laitue, tomate, poulet, riz, pomme de terre, carotte, concombre, choux, betterave",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-healthy-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Pikala Petite",
+          "description": "Laitue, tomate, riz, pâtes, olives, choux, crevettes, surimi, charcuterie, fromage",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-pikala-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Variée Grande",
+          "description": "Laitue, tomate, riz, thon, pâtes, olives, choux",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-variee-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Variée Petite",
+          "description": "Laitue, tomate, riz, thon, pâtes, olives, choux",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__salades__salade-variee-petite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poutines & Pasticcios",
+      "products": [
+        {
+          "name": "Poutine Fruits de Mer",
+          "description": "Fruits de mer, surimi, sauce fromagère, frites ou pates, mozzarella, sauce\nBase au choix pate ou frites",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__poutines-pasticcios__poutine-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Mixed",
+          "description": "Viande hachée, dinde, sauce fromagère, frites ou pates, mozzarella, sauce\nBase au choix pate ou frites",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__poutines-pasticcios__poutine-mixed.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Dinde",
+          "description": "Dinde, sauce fromagère, frites ou pates, mozzarella, sauce\nBase au choix pate ou frites",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__poutines-pasticcios__poutine-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Viande Hachée",
+          "description": "Viande hachée, sauce fromagère, frites ou pates, mozzarella, sauce\nBase au choix pate ou frites",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__poutines-pasticcios__poutine-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Suppléments",
+      "products": [
+        {
+          "name": "8 Pièces Nuggets",
+          "description": "8 Nuggets et sauce",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__8-pieces-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "4 Pièces Tenders",
+          "description": "4 Tenders et sauce",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__4-pieces-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "6 Pièces Nuggets",
+          "description": "6 Nuggets avec sauce",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__6-pieces-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Frites",
+          "description": "Frites et sauce",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__frites.webp",
+          "available": true
+        },
+        {
+          "name": "Fromage Double Cheddar",
+          "description": "Double Cheddar",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__fromage-double-cheddar.webp",
+          "available": true
+        },
+        {
+          "name": "Fromage Cheddar",
+          "description": "Cheddar",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__fromage-cheddar.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce",
+          "description": "Sauce au choix",
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__supplements__sauce.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "PIZZA (Sauce Tomate fait maison)",
+      "products": [
+        {
+          "name": "Pizza Pikala Grande",
+          "description": "Sauce blanche, mozzarella, fruits de mer, surimi, viande hachée, poulet, merguez, thon, pepperoni, charcuterie, champignons, poivron, olives",
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pikala-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits de Mer Grande",
+          "description": "Sauce Tomate, Fruits de Mer, Surimi, Champignons, Poivron, Mozzarella, Olives",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-fruits-de-mer-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Quatre Saisons Grande",
+          "description": "Sauce Tomate, Fruits de Mer, V.Hachée, Poulet, Thon, Champignons, Poivron, Mozzarella, Olives",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-quatre-saisons-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Viande Hachée Grande",
+          "description": "Sauce Tomate, Viande Hachée, Champignons, Poivron, Mozzarella, Olives",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-viande-hachee-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pikala Moyenne",
+          "description": "Sauce blanche, mozzarella, fruits de mer, surimi, viande hachée, poulet, merguez, thon, pepperoni, charcuterie, champignons, poivron, olives",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pikala-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon Grande",
+          "description": "Sauce tomate, thon, oignons, mozzarella",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-thon-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Grande",
+          "description": "Sauce tomate, mozzarella, poulet, champignons, poivrons",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Merguez Grande",
+          "description": "Sauce tomate, merguez, champignons, poivron mozzarella, olive",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-merguez-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Charcuterie Grande",
+          "description": "Sauce Tomate ou Sauce Blanche, Charcuterie, ognions, Champignons, Mozzarella, Olives",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-charcuterie-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 5 Fromages Grande",
+          "description": "Sauce Tomate ou Sauce Blanche, Assortiment de 5 Fromages",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-5-fromages-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Volaille Grande",
+          "description": "Sauce Tomate, Pepperoni, Mozzarella, Olive, oignions",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pepperoni-volaille-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Légumes Grande",
+          "description": "Sauce Tomate, Poulet, Légumes, Champignons, Poivron, Mozzarella, Olive",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-legumes-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits de Mer Moyenne",
+          "description": "Sauce Tomate, Fruits de Mer, Surimi, Champignons, Poivron, Mozzarella, Olives",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-fruits-de-mer-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Quatre Saisons Moyenne",
+          "description": "Sauce Tomate, Fruits de Mer, V.Hachée, Poulet, Thon, Champignons, Poivron, Mozzarella, Olives",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-quatre-saisons-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Penzarotti Calzone Grand",
+          "description": "Poulet, Charcuterie, Fromage, Olives, Poivron, Champignons",
+          "price": 61,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-penzarotti-calzone-grand.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Légumes Grande",
+          "description": "Sauce tomate, légumes, mozzarella, olive",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-legumes-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Viande Hachée Moyenne",
+          "description": "Sauce Tomate, Viande Hachée, Champignons, Poivron, Mozzarella, Olives",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-viande-hachee-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita Grande",
+          "description": "Sauce tomate fraîche, mozzarella, olives",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-margherita-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon Moyenne",
+          "description": "Sauce tomate, thon, oignons, mozzarella",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-thon-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Moyenne",
+          "description": "Sauce tomate, mozzarella, poulet, champignons, poivrons",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Merguez Moyenne",
+          "description": "Sauce tomate, merguez, champignons, poivron mozzarella, olive",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-merguez-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Charcuterie Moyenne",
+          "description": "Sauce Tomate ou Sauce Blanche, Charcuterie, ognions, Champignons, Mozzarella, Olives",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-charcuterie-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 5 Fromages Moyenne",
+          "description": "Sauce Tomate ou Sauce Blanche, Assortiment de 5 Fromages",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-5-fromages-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Volaille Moyenne",
+          "description": "Sauce Tomate, Pepperoni, Mozzarella, Olive, oignions",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pepperoni-volaille-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita petite",
+          "description": "Sauce Tomate fraîche, Mozzarella, Olives",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-margherita-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Calzone Moyen",
+          "description": "Poulet, charcuterie, fromage, olives, poivron, champignons",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__calzone-moyen.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Légumes Moyenne",
+          "description": "Sauce tomate, légumes, mozzarella, olive",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-legumes-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Légumes Moyenne",
+          "description": "Sauce Tomate, Poulet, Légumes, Champignons, Poivron, Mozzarella, Olive",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-legumes-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Quatre Saisons Petite",
+          "description": "Sauce tomate, fruits de mer, viande hachée, poulet, thon, champignons, poivron, mozzarella, olives",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-quatre-saisons-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pikala Petite",
+          "description": "Sauce blanche, Mozzarella, Fruits de Mer, Surimi, Viande Hachée, Poulet, Merguez, Thon, Pepperoni, Charcuterie, Champignons, Poivron, Olives",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pikala-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits de Mer Petite",
+          "description": "Sauce tomate, fruits de mer, surimi, champignons, poivron, mozzarella, olives",
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-fruits-de-mer-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Merguez Petite",
+          "description": "Sauce tomate, merguez, champignons, poivron mozzarella, olive",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-merguez-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Charcuterie Petite",
+          "description": "Sauce tomate ou sauce blanche, charcuterie, oignions, champignons, mozzarella, olives",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-charcuterie-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 5 Fromages Petite",
+          "description": "Sauce tomate ou sauce blanche, assortiment de 5 fromages",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-5-fromages-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Volaille Petite",
+          "description": "Sauce tomate, pepperoni, mozzarella, olive, oignions",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-pepperoni-volaille-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Viande Hachée Petite",
+          "description": "Sauce tomate, viande hachée, champignons, poivron, mozzarella, olives",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-viande-hachee-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon Petite",
+          "description": "Sauce Tomate, Thon, Oignons, Mozzarella",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-thon-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Petite",
+          "description": "Sauce tomate, Mozzarella, Poulet, Champignons, Poivrons",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Légumes Petite",
+          "description": "Sauce tomate, poulet, légumes, champignons, poivron, mozzarella, olive",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-poulet-legumes-petite.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita Moyenne",
+          "description": "Sauce tomate fraîche, mozzarella, olives",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-margherita-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Légumes Petite",
+          "description": "Sauce tomate, légumes, mozzarella, olive",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__pizza-sauce-tomate-fait-maison__pizza-legumes-petite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "TACOS. 7 viandes au Choix: V. Hachée, Poulet, Merguez, Kebab, Cordon Bleu, Nuggets, Charcuterie",
+      "products": [
+        {
+          "name": "Tacos Grand-Be (6 Tortilla-30com)",
+          "description": "6 ou 7 Viandes au Choix, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 145,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-grand-be-6-tortilla-30com.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Triplette (3 Tortilla-30cm)",
+          "description": "4 ou 5 Viandes au Choix, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 88,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-triplette-3-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Tandem (2 Tortilla-30cm)",
+          "description": "2 ou 3 Viandes au Choix, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-tandem-2-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Pikala (1 Tortilla-30cm)",
+          "description": "1 ou 2 viandes au choix, Sauce Champignons, Double Cheddar, Frites, Sauce",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-pikala-1-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Fruits de Mer (1 Tortilla-30cm)",
+          "description": "Fruits de Mer, Frites, Fromage, Laitue, Tomate, Sauce Fromagère, Sauce",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-fruits-de-mer-1-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixed (1 Tortilla-30cm)",
+          "description": "1 ou 2 viandes au choix, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-mixed-1-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "viandes au choix, frites extérieure, Fromage, Sauce Fromagère, Sauce au choix",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gazelle Dinde (1 Tortilla - 30cm)",
+          "description": "Dinde, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-gazelle-dinde-1-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Healthy (1 Tortilla-30cm)",
+          "description": "Dinde, Légumes, Frites, Fromage, Sauce Fromagère, Sauce",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-healthy-1-tortilla-30cm.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mini (1 Tortilla - 25cm)",
+          "description": "1 ou 2 viandes au choix, frites extérieure, Fromage, Sauce Fromagère, Sauce au choix",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__tacos-7-viandes-au-choix-v-hachee-poulet-merguez-kebab-cordon-bleu-nuggets-charcuterie__tacos-mini-1-tortilla-25cm.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "PANINI (avec frites)",
+      "products": [
+        {
+          "name": "Panini Fruits de Mer",
+          "description": "Fruits de Mer, Fromage, Sauce, Frites",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Nuggets",
+          "description": "Nuggets, Fromage, Sauce, Frites",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Mixed",
+          "description": "2 viandes au choix (Viande hachée / Poulet / Merguez), avec fromage et sauce",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-mixed.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Dinde",
+          "description": "Dinde, Fromage, Sauce, Frites",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Viande Hachée",
+          "description": "Viande Hachée, Fromage, Sauce, Frites",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Thon",
+          "description": "Thon, Fromage, Sauce, Frites",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Charcuterie",
+          "description": "Charcuterie, Fromage, Sauce, Frites",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Panini 4 Fromages",
+          "description": "4 Fromages, Sauce, Frites",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__panini-avec-frites__panini-4-fromages.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos boissons",
+      "products": [
+        {
+          "name": "Pom's - Pomme  (25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__poms-pomme-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Zero ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__coca-cola-zero-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Citron  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__fanta-citron-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (25 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__sprite-classique-25-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Eau 33cl",
+          "description": "Eau minérale",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pikala-food-ojd/products/pikala-food-ojd__nos-boissons__eau-33cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 529125,
+  "scrapedAt": "2026-08-24T10:44:02.619Z"
+}

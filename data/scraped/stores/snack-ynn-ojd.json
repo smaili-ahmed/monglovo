@@ -1,0 +1,770 @@
+{
+  "slug": "snack-ynn-ojd",
+  "name": "Snack YNN",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/snack-ynn-ojd",
+  "rating": "86%",
+  "reviews": "343",
+  "cuisines": [
+    "Italian",
+    "Sandwich"
+  ],
+  "image": "/restaurants/snack-ynn-ojd/cover.webp",
+  "logoUrl": "/restaurants/snack-ynn-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Cordon Bleu",
+          "description": "Poulet, salade verte, tomate, fromage, cornichons",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__promotions__cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Mix",
+          "description": "A base de viande hachée, laitue, tomates, fromage et sauce maison, servi avec frites e.t pain spécial maison",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__promotions__mix.webp",
+          "available": true
+        },
+        {
+          "name": "Old School",
+          "description": null,
+          "price": 30.6,
+          "oldPrice": 34,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__promotions__old-school.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Tacos Mixte",
+          "description": "Double dose de viande aux choix",
+          "price": 43.2,
+          "oldPrice": 48,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__top-sellers__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné",
+          "description": "Double dose, fromage cheddar",
+          "price": 46.8,
+          "oldPrice": 52,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__top-sellers__tacos-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__top-sellers__pizza-4-saisons.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Coca Cola Deals",
+      "products": [
+        {
+          "name": "Combo Pizza trio",
+          "description": "3x Pizzas (margharita, bolognaise, 4 saisons), 2x coca cola",
+          "price": 155.7,
+          "oldPrice": 173,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-pizza-trio.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Italiano",
+          "description": "Calzone, rations nuggets 6p, tiramisu, Coca cola",
+          "price": 127.8,
+          "oldPrice": 142,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-italiano.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Individuel Full",
+          "description": "Tacos viande hachée gratiné, ration nuggets 6p, frites, tiramisu, coca cola",
+          "price": 113.4,
+          "oldPrice": 126,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-individuel-full.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Entre Amis",
+          "description": "2x tacos poulet, 2x frites, 2x coca cola",
+          "price": 109.8,
+          "oldPrice": 122,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-entre-amis.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Pizza Duo",
+          "description": "2x Pizzas (bolognaise, margharita), 2x coca cola",
+          "price": 106.2,
+          "oldPrice": 118,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-pizza-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Malin",
+          "description": "Tacos poulet, frite, coca cola, tiramisu",
+          "price": 66.6,
+          "oldPrice": 74,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__coca-cola-deals__combo-malin.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos pates",
+      "products": [
+        {
+          "name": "Bolognaise",
+          "description": "Viande hachée, fromages,sauce au choix",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__nos-pates__bolognaise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salad mexicain",
+          "description": ".............'",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__salades__salad-mexicain.webp",
+          "available": true
+        },
+        {
+          "name": "Avocado Salade Bowl",
+          "description": "..............'''",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__salades__avocado-salade-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Salade Bowl",
+          "description": "........,.......'''",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__salades__chicken-salade-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise",
+          "description": "Thon, anchois, tomate, radis, poivron, concombre, haricot vert, œuf, oignon, olive noir, basilic",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__salades__salade-nicoise.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Marocaine",
+          "description": "Concombre, tomates, oignons, poivrons rouges, huile d'olive, jus de citron",
+          "price": 19.8,
+          "oldPrice": 22,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__salades__salade-marocaine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwich",
+      "products": [
+        {
+          "name": "Tikka Viande",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__tikka-viande.webp",
+          "available": true
+        },
+        {
+          "name": "Sondwich crispy",
+          "description": "........j",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__sondwich-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "Kefta",
+          "description": "Pain sandwich, viande hachée, oignon, salade verte, fromage, sauce",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken",
+          "description": "Pain sandwich, poulet, oignon, salade verte, fromage",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Mix",
+          "description": "A base de viande hachée, laitue, tomates, fromage et sauce maison, servi avec frites e.t pain spécial maison",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__mix.webp",
+          "available": true
+        },
+        {
+          "name": "Calamaro",
+          "description": null,
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__calamaro.webp",
+          "available": true
+        },
+        {
+          "name": "Chichtaouk",
+          "description": null,
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__chichtaouk.webp",
+          "available": true
+        },
+        {
+          "name": "Américain",
+          "description": "Falafel, sauce tahina, cornichons, tomate, laitue, concombre",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__americain.webp",
+          "available": true
+        },
+        {
+          "name": "Cordon Bleu",
+          "description": "Poulet, salade verte, tomate, fromage, cornichons",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Mario Altono",
+          "description": null,
+          "price": 36,
+          "oldPrice": 40,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__mario-altono.webp",
+          "available": true
+        },
+        {
+          "name": "Tandoori",
+          "description": null,
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__tandoori.webp",
+          "available": true
+        },
+        {
+          "name": "Old School",
+          "description": null,
+          "price": 30.6,
+          "oldPrice": 34,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__sandwich__old-school.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Chicken Club",
+      "products": [
+        {
+          "name": "Tenders 12 p",
+          "description": "....12p",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__chicken-club__tenders-12-p.webp",
+          "available": true
+        },
+        {
+          "name": "Bowl Crispy",
+          "description": "frites, tenders, oignons frites, jalapeno, ...sauce cheddar, sauce blanche, sauce bbq",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__chicken-club__bowl-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "Tenders 6p",
+          "description": "......6p",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__chicken-club__tenders-6p.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Gratiné",
+          "description": "Double dose, fromage cheddar",
+          "price": 46.8,
+          "oldPrice": 52,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__tacos__tacos-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Double dose de viande aux choix",
+          "price": 43.2,
+          "oldPrice": 48,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Simple",
+          "description": "Une dose de viande aux choix",
+          "price": 41.4,
+          "oldPrice": 46,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__tacos__tacos-simple.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burger",
+      "products": [
+        {
+          "name": "Ynn",
+          "description": "A base de viande hachée, œufs, laitue, tomates, cheddar et sauce maison",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__ynn.webp",
+          "available": true
+        },
+        {
+          "name": "Big House",
+          "description": "Pain burger, poulet croustillant, salade verte, tomate, oignon",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__big-house.webp",
+          "available": true
+        },
+        {
+          "name": "Double Cheese",
+          "description": "Viande hachée, salade, tomate, fromage cheddar",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__double-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Bœuf haché, fromage fondu, tomate, salade",
+          "price": 35.1,
+          "oldPrice": 39,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Pain buns, poulet grillé, laitue, tomate, oignons",
+          "price": 35.1,
+          "oldPrice": 39,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Américain",
+          "description": "Salade, double steak, double cheddar, bacon, champignon sauté , roquette, sauce burger",
+          "price": 35.1,
+          "oldPrice": 39,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__burger__americain.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "products": [
+        {
+          "name": "Pizza Ynn",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-ynn.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza peppéroni",
+          "description": null,
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-pepperoni.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Calzone",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-calzone.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-4-fromages.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Hawayine",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-hawayine.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Bolognaise",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 46.8,
+          "oldPrice": 52,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Mario Altone",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-mario-altone.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Légumes",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-4-legumes.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Sauces, rouge, blanches, barbecue",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pizza__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcio",
+      "products": [
+        {
+          "name": "Fruit De Mer",
+          "description": "Pommes, crevette, calamar, sauce pasticcio, fromage  le tout gratiné au four",
+          "price": 40.5,
+          "oldPrice": 45,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pasticcio__fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Mixte",
+          "description": "Pommes, poulet grillé, viande hachée, sauce pasticcio, fromage  le tout gratiné au four",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pasticcio__mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Viande Hachée",
+          "description": "Pommes, viande hachée, sauce pasticcio, fromage  le tout gratiné au four",
+          "price": 35.1,
+          "oldPrice": 39,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pasticcio__viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Poulet",
+          "description": "Pommes, poulet grillé, sauce pasticcio, fromage  le tout gratiné au four",
+          "price": 33.3,
+          "oldPrice": 37,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pasticcio__poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Charcuterie",
+          "description": "Pommes, charcuterie, sauce pasticcio, fromage  le tout gratiné au four",
+          "price": 33.3,
+          "oldPrice": 37,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__pasticcio__charcuterie.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "products": [
+        {
+          "name": "Crêpes ynn",
+          "description": null,
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__dessert__crepes-ynn.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesecake pistache",
+          "description": null,
+          "price": 35.1,
+          "oldPrice": 39,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__dessert__cheesecake-pistache.webp",
+          "available": true
+        },
+        {
+          "name": "crêpes nutella banane",
+          "description": null,
+          "price": 34.2,
+          "oldPrice": 38,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__dessert__crepes-nutella-banane.webp",
+          "available": true
+        },
+        {
+          "name": "tiramisu lotus",
+          "description": null,
+          "price": 25.2,
+          "oldPrice": 28,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__dessert__tiramisu-lotus.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "products": [
+        {
+          "name": "Hawai",
+          "description": "......25cl",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__soda__hawai.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite",
+          "description": "...25cl",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__soda__sprite.webp",
+          "available": true
+        },
+        {
+          "name": "Oulmes",
+          "description": "...50cl",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__soda__oulmes.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola",
+          "description": "25cl",
+          "price": 13.5,
+          "oldPrice": 15,
+          "discount": 10,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__soda__coca-cola.webp",
+          "available": true
+        },
+        {
+          "name": "Eau mineral 50cl",
+          "description": "Sidi ali 50cl",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__soda__eau-mineral-50cl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Jus D'avocat",
+          "description": "Avocat",
+          "price": 36,
+          "oldPrice": 40,
+          "discount": 10,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "3 boule de glace",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-ynn-ojd/products/snack-ynn-ojd__jus__3-boule-de-glace.webp",
+          "available": true
+        },
+        {
+          "name": "Jus d'orange",
+          "description": "Orange",
+          "price": 22.5,
+          "oldPrice": 25,
+          "discount": 10,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Jus de citron",
+          "description": "citron",
+          "price": 22.5,
+          "oldPrice": 25,
+          "discount": 10,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Jus de citron gingembre",
+          "description": "citron, gingembre",
+          "price": 22.5,
+          "oldPrice": 25,
+          "discount": 10,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mojito",
+      "products": [
+        {
+          "name": "Pina colada",
+          "description": "....ananas, coco",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Mojito classique",
+          "description": "...mojito",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Mojito bleu paradise",
+          "description": "..bleu paradise",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 414729,
+  "scrapedAt": "2026-08-24T10:28:45.087Z"
+}

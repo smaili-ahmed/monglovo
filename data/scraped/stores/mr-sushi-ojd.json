@@ -1,0 +1,1332 @@
+{
+  "slug": "mr-sushi-ojd",
+  "name": "Mr Sushi",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/mr-sushi-ojd",
+  "rating": "96%",
+  "reviews": "118",
+  "cuisines": [
+    "Asian",
+    "Sushi"
+  ],
+  "image": "/restaurants/mr-sushi-ojd/cover.webp",
+  "logoUrl": "/restaurants/mr-sushi-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Riz Frit Crevettes",
+          "description": "Riz sauté dans le wok avec des œufs, des légumes et des crevettes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__top-sellers__riz-frit-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "D (18pcs)",
+          "description": "Fry ebi fry\nCrunchy fry\nMaki crispy surimi",
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__top-sellers__d-18pcs.webp",
+          "available": true
+        },
+        {
+          "name": "F (20 pcs)",
+          "description": "Pizza mR sushi\nFry ebi fry\nFry Salmon fry",
+          "price": 155,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__top-sellers__f-20-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bento express promo",
+      "products": [
+        {
+          "name": "Bento express 1",
+          "description": "Salade vietnamienne, 1 pièce nems, 1 piece crevettes tempura",
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bento-express-promo__bento-express-1.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soupes",
+      "products": [
+        {
+          "name": "Soupe Fruits De Mer",
+          "description": "Crevettes , surimi, calamar, poisson blanc; champignon noir",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__soupes__soupe-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Soupe vietnamienne",
+          "description": "Champignon noir, vermicelle ,crevette, poulet",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__soupes__soupe-vietnamienne.webp",
+          "available": true
+        },
+        {
+          "name": "Soupe Royal",
+          "description": "Boulette de poulet, crevettes, surimi, champignon noire, champignons de paris",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__soupes__soupe-royal.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nems",
+      "products": [
+        {
+          "name": "Nems Crevettes",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nems__nems-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Nems Saïgonnais",
+          "description": "Poulet",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nems__nems-saigonnais.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les inconrtounables",
+      "products": [
+        {
+          "name": "Saumon dynamite",
+          "description": "Sauce salée sucré",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__saumon-dynamite.webp",
+          "available": true
+        },
+        {
+          "name": "Crevettes dynamite",
+          "description": "Sauce salée sucré",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__crevettes-dynamite.webp",
+          "available": true
+        },
+        {
+          "name": "Poulet dynamites",
+          "description": "Sauce salé sucré",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__poulet-dynamites.webp",
+          "available": true
+        },
+        {
+          "name": "Croquettes poulet",
+          "description": "Farce de poulet",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__croquettes-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Beignet De Crevettes - 7 Pièces",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__beignet-de-crevettes-7-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Poulet Tempura - 7 Pièces",
+          "description": "Poulet",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__poulet-tempura-7-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Crevettes tempura -  5 Pièces",
+          "description": null,
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__les-inconrtounables__crevettes-tempura-5-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Yakitoris",
+      "products": [
+        {
+          "name": "Yakitori Crevettes",
+          "description": "Tous nos brochettes sont servis avec du riz nature et légumes sautés",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__yakitoris__yakitori-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Boulette de poulet",
+          "description": "Servis avec du ris nature et légumes sautés",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__yakitoris__boulette-de-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Mr Sushi",
+          "description": "Bœuf caramélisée, nems poulet, crevettes, nouilles ,crudités",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-mr-sushi.webp",
+          "available": true
+        },
+        {
+          "name": "Salade sashimi",
+          "description": "Crevettes, saumon sashimi, surimi, poisson blanc, avocat, crudités",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-sashimi.webp",
+          "available": true
+        },
+        {
+          "name": "Salade bo bun poulet",
+          "description": "Mix de salade,choux, carottes, vermicelles de riz, escalope de poulet, sésames, cacahouètes",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-bo-bun-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Vietnamienne",
+          "description": "Crevettes, fine lamelle de poulet, crudités, cacahuète",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-vietnamienne.webp",
+          "available": true
+        },
+        {
+          "name": "Salade fruits de mer",
+          "description": "Crevettes, calamars, surimi, poisson blanc, bb de maïs, crudités",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Salade exotique",
+          "description": "Crevettes, avocat, ananas, mangue, banane, crudités",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__salades__salade-exotique.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poke Bowls",
+      "products": [
+        {
+          "name": "Poke norvégien",
+          "description": "Saumon, crevettes, surimi, avocat, mangue, concombre, sésame",
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__poke-bowls__poke-norvegien.webp",
+          "available": true
+        },
+        {
+          "name": "Poke Crevettes",
+          "description": "Crevettes, surimi, avocat, concombre, sésame",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__poke-bowls__poke-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Poke Poulet",
+          "description": "Poulet tempura, mangue, avocat, concombre, sésame",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__poke-bowls__poke-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tartares",
+      "products": [
+        {
+          "name": "Tartare Saumon Avocat",
+          "description": "Riz vignaigre saumon avocat",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__tartares__tartare-saumon-avocat.webp",
+          "available": true
+        },
+        {
+          "name": "Tartare crevettes avocat",
+          "description": "Riz vignaigre crevettes avocat",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__tartares__tartare-crevettes-avocat.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sashimi",
+      "products": [
+        {
+          "name": "Saumon- 5 Pièces",
+          "description": "Tranche de saumon frais",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__sashimi__saumon-5-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nigiris",
+      "products": [
+        {
+          "name": "Nigiri saumon cheese - 2 Pièces",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nigiris__nigiri-saumon-cheese-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Nigiri Crevettes - 2 Pièces",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nigiris__nigiri-crevettes-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Nigiri Saumon - 2 Pièces",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nigiris__nigiri-saumon-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Nigiri Saumon Braise - 2 Pièces",
+          "description": "Saumon",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nigiris__nigiri-saumon-braise-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Nigiri Avocat - 2 Pièces",
+          "description": null,
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__nigiris__nigiri-avocat-2-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Gunkans",
+      "products": [
+        {
+          "name": "Gunkan Saumon - 2 Pièces",
+          "description": "Saumon",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__gunkans__gunkan-saumon-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Gunkan Crevettes - 2 Pièces",
+          "description": "Crevettes",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__gunkans__gunkan-crevettes-2-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Gunkan Avocat - 2 Pièces",
+          "description": "Gunkan",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__gunkans__gunkan-avocat-2-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Temakis",
+      "products": [
+        {
+          "name": "Temaki Saumon Avocat - 1 Pièce",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__temakis__temaki-saumon-avocat-1-piece.webp",
+          "available": true
+        },
+        {
+          "name": "Temaki Crevettes Avocat - 1 Pièce",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__temakis__temaki-crevettes-avocat-1-piece.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Borritos",
+      "products": [
+        {
+          "name": "Borrito Saumon",
+          "description": "Borito",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__borritos__borrito-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "Borrito Crevettes",
+          "description": "Borito",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__borritos__borrito-crevettes.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos. 3 pcs",
+      "products": [
+        {
+          "name": "Tacos Crevettes - 2 Pièces",
+          "description": "Taco 2 pcs",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__tacos-3-pcs__tacos-crevettes-2-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Makis",
+      "products": [
+        {
+          "name": "Maki Saumon - 6 Pièces",
+          "description": "Maki",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__maki-saumon-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Maki Saumon cuit - 6 Pièces",
+          "description": "Maki",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__maki-saumon-cuit-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Crevettes",
+          "description": "Maki",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Maki Concombre - 6 Pièces",
+          "description": "Maki",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__maki-concombre-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Maki Avocat - 6 Pièces",
+          "description": "Maki",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__maki-avocat-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Maki Cheese - 6 Pièces",
+          "description": "Maki",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__makis__maki-cheese-6-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Aromakis",
+      "products": [
+        {
+          "name": "Texas",
+          "description": "Double crevettes, surimi, cream cheese, tobiko",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__aromakis__texas.webp",
+          "available": true
+        },
+        {
+          "name": "Aromaki yamato - 6 Pièces",
+          "description": "Saumon, crevettes ,avocat , surimi, cheese",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__aromakis__aromaki-yamato-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Aromaki Crevettes cheese - 6 Pièces",
+          "description": "Crevettes panée, avocat, surimi, cream cheese",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__aromakis__aromaki-crevettes-cheese-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Aromaki poulet cheese - 6 Pièces",
+          "description": "Poulet, surimi, avocat, cream cheese",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__aromakis__aromaki-poulet-cheese-6-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "California Rolls",
+      "products": [
+        {
+          "name": "Tiger",
+          "description": "Double crevettes panée, cheese, tobiko",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__tiger.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Saumon - 4 Pièces",
+          "description": "Saumon, avocat, cream cheese,",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-saumon-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Ebi Fry - 4 Pièces",
+          "description": "Crevettes panées, sésame, avocat",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-ebi-fry-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Shake Yaki - 4 Pièces",
+          "description": "Saumon cuit, avocat, cheese",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-shake-yaki-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Cream Cheese - 4 Pièces",
+          "description": "Saumon, surimi, avocat, cream cheese, tobiko",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-cream-cheese-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Saumon Pane - 4 Pièces",
+          "description": "Saumon pané, crème cheese, avocat, tobiko",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-saumon-pane-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Végétarien - 4 Pièces",
+          "description": "Concombre, avocat, carotte, ciboulette, cheese",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-vegetarien-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "California Roll Classic - 4 Pièces",
+          "description": "Surimi, avocat, concombre, cream cheese, sésame",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__california-roll-classic-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken rolls",
+          "description": "Poulet pané, avocat, cheese",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__california-rolls__chicken-rolls.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Fraîches",
+      "products": [
+        {
+          "name": "Triangle- 8 pcs",
+          "description": "Saumon, crevettes, avocat",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fraiches__triangle-8-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Fresh roll- 8 pieces",
+          "description": "Saumon, avocat",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fraiches__fresh-roll-8-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Kanzay roll- 8 pieces",
+          "description": "Crevette, surimi, avocat, mangue",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fraiches__kanzay-roll-8-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Futomakis",
+      "products": [
+        {
+          "name": "Futomaki Saumon",
+          "description": "Saumon, surimi, avocat, cream cheese, tobiko",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__futomakis__futomaki-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "Futomaki Crevettes",
+          "description": "Crevettes, surimi, mangue, cream cheese, tobiko",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__futomakis__futomaki-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Ebi roll- 5 pcs",
+          "description": "Poulet pané, cream cheese, avocat, mangue, tobiko",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__futomakis__ebi-roll-5-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection Fry - Crunchy",
+      "products": [
+        {
+          "name": "Fry Dragon Eye - 6 Pièces",
+          "description": "Saumon, cream cheese, poireau, carotte",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-fry-crunchy__fry-dragon-eye-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Waki Ball Fry - 6 Pièces",
+          "description": "Saumon, surimi, avocat, tobiko",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-fry-crunchy__waki-ball-fry-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Fry Salmon Fry - 6 Pièces",
+          "description": "Saumon, surimi, cream cheese, avocat",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-fry-crunchy__fry-salmon-fry-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Casablanca - 6 Pièces",
+          "description": "Saumon, crevettes panées, mangue, cream cheese",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-fry-crunchy__casablanca-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Crunchy Fry - 6 Pièces",
+          "description": "Crevettes , avocat, surimi",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-fry-crunchy__crunchy-fry-6-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sushi Pizza",
+      "products": [
+        {
+          "name": "Royal",
+          "description": "Saumon, crevettes, surimi, avocat, cream cheese, tobiko",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__sushi-pizza__royal.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Riz cantonais",
+      "products": [
+        {
+          "name": "Riz Frit Crevettes",
+          "description": "Riz sauté dans le wok avec des œufs, des légumes et des crevettes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__riz-cantonais__riz-frit-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Riz spécial",
+          "description": "Poulet, crevettes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__riz-cantonais__riz-special.webp",
+          "available": true
+        },
+        {
+          "name": "Riz Frit Poulet",
+          "description": "Riz sauté dans le wok avec des œufs, des légumes et le blanc de poulet",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__riz-cantonais__riz-frit-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Fruits De Mer",
+      "products": [
+        {
+          "name": "Marmite Du Chef",
+          "description": "Saumon, Crevettes, calamars, saumon, poisson blanc, mais bb, curry jaune, lait de coco",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fruits-de-mer__marmite-du-chef.webp",
+          "available": true
+        },
+        {
+          "name": "Crevettes à la Vietnamienne",
+          "description": "Crevettes, poulet, 3 poivrons, ananas",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fruits-de-mer__crevettes-a-la-vietnamienne.webp",
+          "available": true
+        },
+        {
+          "name": "Mixture fruits de mer",
+          "description": "Saumon, calamar, poisson blanc, crevettes, sauce légèrement épicée",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__fruits-de-mer__mixture-fruits-de-mer.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plate Satés",
+      "products": [
+        {
+          "name": "Plate Saté Crevettes",
+          "description": "Accompagnements bol de riz nature, service dans des plaque chauffantes",
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__plate-sates__plate-sate-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Plate Saté Fruits De Mer",
+          "description": "Accompagnements bol de riz nature, service dans des plaque chauffantes",
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__plate-sates__plate-sate-fruits-de-mer.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wok Bowls",
+      "products": [
+        {
+          "name": "Wok Bowl Crevettes",
+          "description": "Nouilles, crevettes, légumes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__wok-bowls__wok-bowl-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Wok Bowl Fruits De Mer",
+          "description": "Nouilles, fruits de mer, légumes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__wok-bowls__wok-bowl-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Wok Bowl Poulet",
+          "description": "Nouilles,poulet,légumes",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__wok-bowls__wok-bowl-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection 130dh",
+      "products": [
+        {
+          "name": "À (15pcs)",
+          "description": "Aromaki crevettes cheese\nFutomaki ebi roll\nEbi fry",
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-130dh__a-15pcs.webp",
+          "available": true
+        },
+        {
+          "name": "D (18pcs)",
+          "description": "Fry ebi fry\nCrunchy fry\nMaki crispy surimi",
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-130dh__d-18pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection 155 dhs",
+      "products": [
+        {
+          "name": "I (18 pcs)",
+          "description": "Sushi pizza royale, maki crispy saumon, cream cheese",
+          "price": 155,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-155-dhs__i-18-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "F (20 pcs)",
+          "description": "Pizza mR sushi\nFry ebi fry\nFry Salmon fry",
+          "price": 155,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-155-dhs__f-20-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "G( 22 pcs)",
+          "description": "California Classic\nChiken roll\nCream cheese\nShaki yaki\nMaki cheese",
+          "price": 155,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-155-dhs__g-22-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "H(16 pcs)",
+          "description": "Nigiri saumon avocat\nTriangle\nAromaki yamato",
+          "price": 155,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-155-dhs__h-16-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sodas",
+      "products": [
+        {
+          "name": "Soda",
+          "description": "Boisson au choix",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__sodas__soda.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bentos",
+      "products": [
+        {
+          "name": "Contonais",
+          "description": "Crevettes dynamite\n2 crevettes tempura \n2 croquette saumon \nAromaki crevettes cheese \nRiz contonais poulet",
+          "price": 165,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bentos__contonais.webp",
+          "available": true
+        },
+        {
+          "name": "Vermicelle",
+          "description": "Rouleaux de printemps \n2 crevettes tempura \nFry ebi fry\nVermicelle boeuf",
+          "price": 140,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bentos__vermicelle.webp",
+          "available": true
+        },
+        {
+          "name": "Nouilles",
+          "description": "Salade vietnamienne \nNems saigonnais \nCream cheese\nNouilles poulet",
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bentos__nouilles.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Assortiments tapas",
+      "products": [
+        {
+          "name": "Bateau tempuras",
+          "description": "4 pcs Nems saigonnais, 4 psc nems crevettes, 5 pcs poulet tempura, 4 pcs crevettes tempura, 4 croquettes saumon, oignon frit, 4 croquettes poulet, mixte de dynamite",
+          "price": 340,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__assortiments-tapas__bateau-tempuras.webp",
+          "available": true
+        },
+        {
+          "name": "Assortiment mixte 22 pcs",
+          "description": "2 pcs Nems poulet, 2 pcs Nems crevettes, 4pcs poulet tempura, 4 pcs crevettes tempura, 4 pcs croquettes fruits de mer , 4 croquettes saumon",
+          "price": 180,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__assortiments-tapas__assortiment-mixte-22-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Assortiment mixte 10 pcs",
+          "description": "2 Nems, 2 pcs poulet tempura, 2 pcs crevettes tempura, 2 pcs croquettes fruits de mer ,2 pcs croquettes poulet",
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__assortiments-tapas__assortiment-mixte-10-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Rouleaux de printemps",
+      "products": [
+        {
+          "name": "Crevettes",
+          "description": "Crevettes, surimi, crudités, cacahuètes",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__rouleaux-de-printemps__crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Poulet",
+          "description": "Crudités, poulet, cacahouète",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__rouleaux-de-printemps__poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection 245",
+      "products": [
+        {
+          "name": "M. (41)",
+          "description": "California Classic \nCream cheese \nFry ebi fry\nCrunchy fry\nMaki crevettes pané \nMaki saumon\nFutomaki ebi roll\nEbi fry",
+          "price": 275,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-245__m-41.webp",
+          "available": true
+        },
+        {
+          "name": "N(30 pcs)",
+          "description": "Cream cheese\nNigiri saumon\nSashimi saumon\nFresh roll\nAromaki philadelphia\nFutomaki Eby roll",
+          "price": 275,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-245__n-30-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "J (30 pcs)",
+          "description": "Fry ebi fry\nCrunchy fry\nFry Salmon fry\nDragon été\nMaki crispé crevettes",
+          "price": 245,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-245__j-30-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "K(23pcs)",
+          "description": "Cream cheese\nTiger roll\nCalifornia saumon\nFutomaki crevettes \nAromaki yamato",
+          "price": 245,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-245__k-23pcs.webp",
+          "available": true
+        },
+        {
+          "name": "L (32 pcd)",
+          "description": "Fry ebi fry\nFry Salmon fry\nAromaki poulet cheese\nEby fry\nMaki crevettes pané \nCream cheese",
+          "price": 245,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-245__l-32-pcd.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection 390 dh",
+      "products": [
+        {
+          "name": "46 (pcs)",
+          "description": "Eby fry, Classic\nCream cheese, Chiken roll\nShake yaki, pizza royal\nFry ebi fry, fry Salmon fry\nAromaki texas",
+          "price": 390,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-390-dh__46-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Collection 450 dhs",
+      "products": [
+        {
+          "name": "(53 pcs)",
+          "description": "Cream cheese, futomaki ebi roll\nClassic, ebi fry\nCalifornia saumon, crunchy fry\nFry ebi fry, woki balls\nNigiri saumon avocat\nPizza mr sushi\nChiken roll",
+          "price": 450,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__collection-450-dhs__53-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Spéciaux 4 pcs",
+      "products": [
+        {
+          "name": "Spicy rolls",
+          "description": "Saumon, surimi, avocat",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__speciaux-4-pcs__spicy-rolls.webp",
+          "available": true
+        },
+        {
+          "name": "Saumon cheese",
+          "description": "Saumon , sauce okinawa",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__speciaux-4-pcs__saumon-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Toro salamon",
+          "description": "Saumon, avocat, riz",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__speciaux-4-pcs__toro-salamon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Assortiment Bento Kids",
+      "products": [
+        {
+          "name": "Kids bento B",
+          "description": "Boulette de poulet pané, maki cheese, nouille crevettes, dessert",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__assortiment-bento-kids__kids-bento-b.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Desserts  By Mr Sushi",
+      "products": [
+        {
+          "name": "Banofee Pie",
+          "description": "Neslet, banane,",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__desserts-by-mr-sushi__banofee-pie.webp",
+          "available": true
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Tiramisu",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__desserts-by-mr-sushi__tiramisu.webp",
+          "available": true
+        },
+        {
+          "name": "Tarte citron glacée",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__desserts-by-mr-sushi__tarte-citron-glacee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus Fait Maison",
+      "products": [
+        {
+          "name": "Jus De Citron Gingembre",
+          "description": "Jus",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__jus-fait-maison__jus-de-citron-gingembre.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'ananas",
+          "description": "Jus",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__jus-fait-maison__jus-dananas.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Jus",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__jus-fait-maison__jus-de-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Chirachi",
+      "products": [
+        {
+          "name": "Avocat saumon",
+          "description": "Riz vignaigree",
+          "price": 110,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__chirachi__avocat-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "Saumon",
+          "description": "Riz vignaigree , sashimi",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__chirachi__saumon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "BENTO EXPRESS promo",
+      "products": [
+        {
+          "name": "Bento express 4",
+          "description": "Assortiment tempura 5pcs, nouille crevette, soda",
+          "price": 112,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bento-express-promo__bento-express-4.webp",
+          "available": true
+        },
+        {
+          "name": "Bento express 5",
+          "description": "Collection sushi 14 pcs, soda",
+          "price": 102,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bento-express-promo__bento-express-5.webp",
+          "available": true
+        },
+        {
+          "name": "Bento express 2",
+          "description": "Soupe fruits de mer, 2 pcs Nems, California eby fry, soda",
+          "price": 92,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bento-express-promo__bento-express-2.webp",
+          "available": true
+        },
+        {
+          "name": "Bento express 3",
+          "description": "Poke bowl poulet, un dessert, soda",
+          "price": 92,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mr-sushi-ojd/products/mr-sushi-ojd__bento-express-promo__bento-express-3.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 363561,
+  "scrapedAt": "2026-08-24T10:36:35.942Z"
+}

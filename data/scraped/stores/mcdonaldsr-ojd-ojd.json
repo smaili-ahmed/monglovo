@@ -1,0 +1,1276 @@
+{
+  "slug": "mcdonaldsr-ojd-ojd",
+  "name": "McDonald's®",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/mcdonaldsr-ojd-ojd",
+  "rating": "89%",
+  "reviews": "5k+",
+  "cuisines": [
+    "Burgers"
+  ],
+  "image": "/restaurants/mcdonaldsr-ojd-ojd/cover.webp",
+  "logoUrl": "/restaurants/mcdonaldsr-ojd-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Menu Duo Big Mac™",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__top-sellers__menu-duo-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Big Mac™",
+          "description": null,
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__top-sellers__best-of-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of Big Tasty",
+          "description": null,
+          "price": 83,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__top-sellers__best-of-big-tasty.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Offres Exclusives",
+      "products": [
+        {
+          "name": "Menu Gourmand McCrispy®",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-gourmand-mccrispy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Big Mac™",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-duo-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Mixte",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-duo-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Big Mac™ + Chicken McNuggets™ (Boite de 6 pcs)",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-big-mac-chicken-mcnuggets-boite-de-6-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Filet-o-Fish™",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-duo-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Grand McWrap™ Boeuf + Chicken McNuggets™ 4 pcs",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-grand-mcwrap-boeuf-chicken-mcnuggets-4-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Maxi Best Of™ Chicken McNuggets™ (Boîte de 9 pcs)",
+          "description": null,
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__offres-exclusives__menu-maxi-best-of-chicken-mcnuggets-boite-de-9-pcs.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nouveautés",
+      "products": [
+        {
+          "name": "Menu Spider Man - McCrispy®",
+          "description": null,
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-mccrispy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Big Mac®",
+          "description": null,
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man Triple Cheeseburger",
+          "description": null,
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-triple-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man Double Filet-O-Fish®",
+          "description": null,
+          "price": 99,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-double-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - McChicken®",
+          "description": null,
+          "price": 98,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-mcchicken.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Royal Cheese",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-royal-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Double Cheeseburger",
+          "description": null,
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-double-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Chicken McNuggets®",
+          "description": null,
+          "price": 94,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-chicken-mcnuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Filet-O-Fish®",
+          "description": null,
+          "price": 94,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__menu-spider-man-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® - Pistachio Kataif",
+          "description": null,
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__mcflurry-pistachio-kataif.webp",
+          "available": true
+        },
+        {
+          "name": "McFizz® - Fruit de la passion",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__nouveautes__mcfizz-fruit-de-la-passion.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Menus",
+      "products": [
+        {
+          "name": "Menu Spider Man - McCrispy®",
+          "description": null,
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-mccrispy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Big Mac®",
+          "description": null,
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man Triple Cheeseburger",
+          "description": null,
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-triple-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man Double Filet-O-Fish®",
+          "description": null,
+          "price": 99,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-double-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - McChicken®",
+          "description": null,
+          "price": 98,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-mcchicken.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Royal Cheese",
+          "description": null,
+          "price": 97,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-royal-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Double Cheeseburger",
+          "description": null,
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-double-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Chicken McNuggets®",
+          "description": null,
+          "price": 94,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-chicken-mcnuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Spider Man - Filet-O-Fish®",
+          "description": null,
+          "price": 94,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__menu-spider-man-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of Big Tasty",
+          "description": null,
+          "price": 83,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-big-tasty.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of Big Tasty Chicken",
+          "description": null,
+          "price": 81,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-big-tasty-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Chicken Mythic®",
+          "description": null,
+          "price": 81,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-chicken-mythic.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™️ McCrispy®",
+          "description": null,
+          "price": 73,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-mccrispy.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™️ Grand McWrap® Boeuf - Sauce Tasty",
+          "description": null,
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-grand-mcwrap-boeuf-sauce-tasty.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Big Mac™",
+          "description": null,
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Triple Cheese",
+          "description": null,
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-triple-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Grand McWrap® Poulet  Sauce Miel Moutarde",
+          "description": null,
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-grand-mcwrap-poulet-sauce-miel-moutarde.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Grand McWrap® Poulet - Sauce Algérienne",
+          "description": null,
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-grand-mcwrap-poulet-sauce-algerienne.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Double Filet-O-Fish™",
+          "description": null,
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-double-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ McChicken™",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-mcchicken.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Royal Cheese",
+          "description": null,
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-royal-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Double Cheeseburger",
+          "description": null,
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-double-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Chicken McNuggets® - 6 Pcs",
+          "description": null,
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-chicken-mcnuggets-6-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Filet-O-Fish™",
+          "description": null,
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__menus__best-of-filet-o-fish.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers & Wraps",
+      "products": [
+        {
+          "name": "Big Tasty",
+          "description": null,
+          "price": 71,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__big-tasty.webp",
+          "available": true
+        },
+        {
+          "name": "Big Tasty Chicken",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__big-tasty-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Mythic®",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__chicken-mythic.webp",
+          "available": true
+        },
+        {
+          "name": "McCrispy®",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__mccrispy.webp",
+          "available": true
+        },
+        {
+          "name": "Grand McWrap® Boeuf - Sauce Tasty",
+          "description": null,
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__grand-mcwrap-boeuf-sauce-tasty.webp",
+          "available": true
+        },
+        {
+          "name": "Grand McWrap® Poulet - Sauce Miel Moutarde",
+          "description": null,
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__grand-mcwrap-poulet-sauce-miel-moutarde.webp",
+          "available": true
+        },
+        {
+          "name": "Grand McWrap® Poulet - Sauce Algérienne",
+          "description": null,
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__grand-mcwrap-poulet-sauce-algerienne.webp",
+          "available": true
+        },
+        {
+          "name": "Big Mac®",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Triple Cheese",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__triple-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Double Filet-O-Fish®",
+          "description": null,
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__double-filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "McChicken®",
+          "description": null,
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__mcchicken.webp",
+          "available": true
+        },
+        {
+          "name": "Royal Cheese",
+          "description": null,
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__royal-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Double Cheeseburger",
+          "description": null,
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__double-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken McNuggets® - 6 Pcs",
+          "description": null,
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__chicken-mcnuggets-6-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Filet-O-Fish®",
+          "description": null,
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__filet-o-fish.webp",
+          "available": true
+        },
+        {
+          "name": "P'tit Wrap Miel Moutarde",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__ptit-wrap-miel-moutarde.webp",
+          "available": true
+        },
+        {
+          "name": "Tasty Junior",
+          "description": null,
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__tasty-junior.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Cheese",
+          "description": null,
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__chicken-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Chickenburger",
+          "description": null,
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__chickenburger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheeseburger",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Hamburger",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__burgers-wraps__hamburger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Happy Meal®",
+      "products": [
+        {
+          "name": "Happy Meal® Hamburger",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__happy-meal-hamburger.webp",
+          "available": true
+        },
+        {
+          "name": "Happy Meal® Cheese Burger",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__happy-meal-cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Happy Meal® Chicken Burger",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__happy-meal-chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Happy Meal® Chicken McNuggets® - 4 Pcs",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__happy-meal-chicken-mcnuggets-4-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Jouet Happy Meal®",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__jouet-happy-meal.webp",
+          "available": true
+        },
+        {
+          "name": "Berlingo",
+          "description": null,
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__berlingo.webp",
+          "available": true
+        },
+        {
+          "name": "Yawmy",
+          "description": null,
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__happy-meal__yawmy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "P'tites Faims",
+      "products": [
+        {
+          "name": "Duo Mabrouk : P'tit Wrap + Chickenburger",
+          "description": null,
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__duo-mabrouk-ptit-wrap-chickenburger.webp",
+          "available": true
+        },
+        {
+          "name": "Duo Mabrouk : P'tit Wrap + Cheeseburger",
+          "description": null,
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__duo-mabrouk-ptit-wrap-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Duo Mabrouk : P'tit Wrap + Hamburger",
+          "description": null,
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__duo-mabrouk-ptit-wrap-hamburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu P'tit Wrap Miel Moutarde",
+          "description": null,
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-ptit-wrap-miel-moutarde.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Chicken McNuggets® - 4 Pcs",
+          "description": null,
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-chicken-mcnuggets-4-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Tasty Junior",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-tasty-junior.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Chicken Cheese",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-chicken-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Chickenburger",
+          "description": null,
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-chickenburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Cheeseburger",
+          "description": null,
+          "price": 31,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-cheeseburger.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Hamburger",
+          "description": null,
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__ptites-faims__menu-hamburger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "À Partager",
+      "products": [
+        {
+          "name": "Chicken Box – 21 pcs",
+          "description": null,
+          "price": 116,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__chicken-box-21-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Best Of™ Chicken McNuggets® - 6 Pcs",
+          "description": null,
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__best-of-chicken-mcnuggets-6-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken McNuggets® - 9 Pcs",
+          "description": null,
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__chicken-mcnuggets-9-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken McNuggets® - 6 Pcs",
+          "description": null,
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__chicken-mcnuggets-6-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Croquettes au fromage relevées aux poivrons - 5 pcs",
+          "description": null,
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__croquettes-au-fromage-relevees-aux-poivrons-5-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Carrés Gouda Cheese - 5 pcs",
+          "description": null,
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__carres-gouda-cheese-5-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Tenders - 2 pcs",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__chicken-tenders-2-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken McNuggets® - 4 Pcs",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__chicken-mcnuggets-4-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Big Mac®",
+          "description": null,
+          "price": 4,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__sauce-big-mac.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Barbecue",
+          "description": null,
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__sauce-barbecue.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Chinoise",
+          "description": null,
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__sauce-chinoise.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Curry",
+          "description": null,
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__sauce-curry.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Moutarde",
+          "description": null,
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__a-partager__sauce-moutarde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Glaces & Desserts",
+      "products": [
+        {
+          "name": "McFlurry® - Pistachio Kataif",
+          "description": null,
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-pistachio-kataif.webp",
+          "available": true
+        },
+        {
+          "name": "Golden McFlurry®",
+          "description": null,
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__golden-mcflurry.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® M&M's ®",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-m-ms.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® Nature",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-nature.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® Kitkat ®",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-kitkat.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® Oreo® Chocolat",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-oreo-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "McFlurry® Oreo® Caramel",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__mcflurry-oreo-caramel.webp",
+          "available": true
+        },
+        {
+          "name": "Brownie Chocolat",
+          "description": null,
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__brownie-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Donut Fraise",
+          "description": null,
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__donut-fraise.webp",
+          "available": true
+        },
+        {
+          "name": "Donut Caramel",
+          "description": null,
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__glaces-desserts__donut-caramel.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Frites",
+      "products": [
+        {
+          "name": "McFlavor® Fries (Cheddar & Oignons Frits)",
+          "description": null,
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__mcflavor-fries-cheddar-oignons-frits.webp",
+          "available": true
+        },
+        {
+          "name": "McFlavor® Fries (Sauce Algérienne)",
+          "description": null,
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__mcflavor-fries-sauce-algerienne.webp",
+          "available": true
+        },
+        {
+          "name": "Moyenne Crinkle Frites",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__moyenne-crinkle-frites.webp",
+          "available": true
+        },
+        {
+          "name": "Petite Frite",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__petite-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Deluxe",
+          "description": null,
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__sauce-deluxe.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Pomme Frite",
+          "description": null,
+          "price": 2,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__sauce-pomme-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Western",
+          "description": null,
+          "price": 2,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__frites__sauce-western.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "MilkShake Fraise",
+          "description": null,
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__milkshake-fraise.webp",
+          "available": true
+        },
+        {
+          "name": "MilkShake Vanille",
+          "description": null,
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__milkshake-vanille.webp",
+          "available": true
+        },
+        {
+          "name": "McFizz® - Fruit de la passion",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__mcfizz-fruit-de-la-passion.webp",
+          "available": true
+        },
+        {
+          "name": "McFizz® Pamplemousse",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__mcfizz-pamplemousse.webp",
+          "available": true
+        },
+        {
+          "name": "McFizz® Pinã Colada",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__mcfizz-pina-colada.webp",
+          "available": true
+        },
+        {
+          "name": "McFizz® Mojito",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__mcfizz-mojito.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Hawaii™",
+          "description": null,
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-hawaii.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Coca Cola®",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-coca-cola.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Coca Cola® Zéro",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-coca-cola-zero.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Fanta®",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-fanta.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Sprite®",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-sprite.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Jus de pomme",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-jus-de-pomme.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Jus d'orange",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__petit-jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Eau Sidi Ali®",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__eau-sidi-ali.webp",
+          "available": true
+        },
+        {
+          "name": "Eau Oulmès",
+          "description": null,
+          "price": 13,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__boissons__eau-oulmes.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Caesar",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__salades__salade-caesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Pêcheur",
+          "description": null,
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__salades__salade-pecheur.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Caesar",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__salades__sauce-caesar.webp",
+          "available": true
+        },
+        {
+          "name": "Sauce Yaourt",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__salades__sauce-yaourt.webp",
+          "available": true
+        },
+        {
+          "name": "Pain Toasté",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mcdonaldsr-ojd-ojd/products/mcdonaldsr-ojd-ojd__salades__pain-toaste.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 125271,
+  "scrapedAt": "2026-08-24T10:27:07.851Z"
+}

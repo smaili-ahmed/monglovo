@@ -1,0 +1,240 @@
+{
+  "slug": "y-n-n-ice",
+  "name": "Y N N Ice",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/y-n-n-ice",
+  "rating": "91%",
+  "reviews": "32",
+  "cuisines": [
+    "Asian",
+    "Pasta"
+  ],
+  "image": "/restaurants/y-n-n-ice/cover.webp",
+  "logoUrl": "/restaurants/y-n-n-ice/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Pâtes Charcuterie",
+          "description": "Charcuteries champignons fromages et sauce blanche",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__promotions__pates-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Bolognaise",
+          "description": "Viande hachée, fromages et sauce au choix",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__promotions__pates-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Frutti del mare",
+          "description": "Fruits de mer, fromages sauce aux choix",
+          "price": 62.1,
+          "oldPrice": 69,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__promotions__pates-frutti-del-mare.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Pâtes Poulet Alfredo",
+          "description": "Poulet, champignons, fromages et sauce blanche",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__top-sellers__pates-poulet-alfredo.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Bolognaise",
+          "description": "Viande hachée, fromages et sauce au choix",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__top-sellers__pates-bolognaise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades Bowls",
+      "products": [
+        {
+          "name": "YNN Salade Bowl",
+          "description": "Mesclun de salades, teriyaki de thon, anchois, artichaut marinés tomates cerises, haricots verts, œuf de caille, pomme de terre oignon rouge, olives noires, sauce vinaigrette, dinde fumée, fromage blanc mozzarella, ananas, banane",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__salades-bowls__ynn-salade-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Salade Bowl",
+          "description": "Croustillant de poulet romaine, crottons, parmesan œuf de caille, anchois tomates cerises séchées sauce césar",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__salades-bowls__chicken-salade-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "César Gambas Bowl",
+          "description": "Gambas grises, surimi, anchois, romaine, parmesan, œuf de caille tomates cerises séchées, sauce césar",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__salades-bowls__cesar-gambas-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "Avocado Salade Bowl",
+          "description": "Avocat, ricotta, surimi, oignon rouge, crevettes, tomate, salade mesclun, sésame",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__salades-bowls__avocado-salade-bowl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cuisine Asiatique",
+      "products": [
+        {
+          "name": "Wok De Poulet Sauté Aux Légumes Et Au Sésame",
+          "description": "Nouilles, poulet, légumes",
+          "price": 43.2,
+          "oldPrice": 48,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__cuisine-asiatique__wok-de-poulet-saute-aux-legumes-et-au-sesame.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats Internationales Poulets",
+      "products": [
+        {
+          "name": "Émincé De Poulet",
+          "description": "Émincé de poulet avec crème et sauce champignons",
+          "price": 67.5,
+          "oldPrice": 75,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__plats-internationales-poulets__emince-de-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Escalope Crispy",
+          "description": "Blanc de poulet pané à la farine de maïs garni au fromage",
+          "price": 67.5,
+          "oldPrice": 75,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__plats-internationales-poulets__escalope-crispy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pâtes",
+      "products": [
+        {
+          "name": "Pâtes Frutti del mare",
+          "description": "Fruits de mer, fromages sauce aux choix",
+          "price": 62.1,
+          "oldPrice": 69,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__pates__pates-frutti-del-mare.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet Alfredo",
+          "description": "Poulet, champignons, fromages et sauce blanche",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__pates__pates-poulet-alfredo.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Altono",
+          "description": "Thon, fromages, sauce pizzaiola",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__pates__pates-altono.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Charcuterie",
+          "description": "Charcuteries champignons fromages et sauce blanche",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__pates__pates-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Bolognaise",
+          "description": "Viande hachée, fromages et sauce au choix",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__pates__pates-bolognaise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Brochettes Orientales",
+      "products": [
+        {
+          "name": "Brochettes Tikka",
+          "description": "Brochettes de viandes à la manière Turquie",
+          "price": 80.1,
+          "oldPrice": 89,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__brochettes-orientales__brochettes-tikka.webp",
+          "available": true
+        },
+        {
+          "name": "Brochettes Mix Grillé",
+          "description": "Plat des brochettes et des kebab variées",
+          "price": 80.1,
+          "oldPrice": 89,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__brochettes-orientales__brochettes-mix-grille.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "products": [
+        {
+          "name": "Coca Cola 25cl",
+          "description": "25cl",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/y-n-n-ice/products/y-n-n-ice__soda__coca-cola-25cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 255868,
+  "scrapedAt": "2026-08-24T10:36:06.240Z"
+}

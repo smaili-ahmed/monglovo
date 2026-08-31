@@ -1,0 +1,284 @@
+{
+  "slug": "brofood-ojd",
+  "name": "Brofood",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/brofood-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Sandwich"
+  ],
+  "image": "/restaurants/brofood-ojd/cover.webp",
+  "logoUrl": null,
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Pasticcio Mixte",
+          "description": "Pasticcio à la sauce fromagère, frites, dinde et viande hachée",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__top-sellers__pasticcio-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Tacos de dinde, sauce au choix, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__top-sellers__tacos-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Double Burger",
+          "description": "Pain du burger, fromage, salade, tomate, double viande hachée et double fromage, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__burgers__double-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Pain du burger, fromage, salade, tomate, viande hachée, frites",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__burgers__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Pain du burger, fromage, salade, tomate, poulet, frites",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__burgers__chicken-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcios",
+      "products": [
+        {
+          "name": "Pasticcio Mixte",
+          "description": "Pasticcio à la sauce fromagère, frites, dinde et viande hachée",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pasticcios__pasticcio-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Viande Hachée",
+          "description": "Pasticcio à la sauce fromagère, frites et viande hachée",
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pasticcios__pasticcio-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "Pasticcio à la sauce fromagère, frites et dinde",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pasticcios__pasticcio-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Pizza des quatre saisons",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pizzas__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Pizza au mix de fruits de mer",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pizzas__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margarita",
+          "description": "Pizza à la sauce tomate et au fromage",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__pizzas__pizza-margarita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Plat Viande Hachée",
+          "description": "Plat de viande hachée accompagné de riz et de salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__plats__plat-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Mixte",
+          "description": "Plat de dinde et de viande hachée accompagné de riz et de salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__plats__plat-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Dinde",
+          "description": "Plat de dinde accompagné de riz et de salade",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__plats__plat-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Tacos de viande hachée, sauce au choix, frites",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Tacos de dinde, sauce au choix, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Tacos de nuggets, sauce au choix, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "Tacos de cordon bleu, sauce au choix, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Viande Hachée",
+          "description": "Sandwich viande hachée, sauce au choix, salade, tomate et frites",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__sandwichs__sandwich-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Dinde",
+          "description": "Sandwich dinde sauce au choix, salade, tomate, frites",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__sandwichs__sandwich-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Cocktail Orange",
+          "description": "Cocktail orange spécial à la brofood",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__jus__cocktail-orange.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'Avocat",
+          "description": "Jus frais",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__jus__jus-davocat.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Jus frais",
+          "price": 17,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__jus__jus-de-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'orange",
+          "description": "Jus frais",
+          "price": 17,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__jus__jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Pomme",
+          "description": "Jus frais",
+          "price": 17,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brofood-ojd/products/brofood-ojd__jus__jus-de-pomme.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 453746,
+  "scrapedAt": "2026-08-24T10:34:45.643Z"
+}

@@ -1,0 +1,499 @@
+{
+  "slug": "dc-chicken-ojd",
+  "name": "Dc Chicken",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/dc-chicken-ojd",
+  "rating": "89%",
+  "reviews": "211",
+  "cuisines": [
+    "Chicken",
+    "Sandwich"
+  ],
+  "image": "/restaurants/dc-chicken-ojd/cover.webp",
+  "logoUrl": "/restaurants/dc-chicken-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Twister Pack",
+          "description": "4 chicken strips,  twister,  boisson,  frites",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__top-sellers__twister-pack.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Pack",
+          "description": "4 chicken strips,  burger,  boisson,  frites",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__top-sellers__burger-pack.webp",
+          "available": true
+        },
+        {
+          "name": "10 PCS Bucket",
+          "description": "10 Strips , 2 Salad 2 Frites , 2 Bred  1L Boisson",
+          "price": 139,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__top-sellers__10-pcs-bucket.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Kids",
+      "products": [
+        {
+          "name": "Happy Kids",
+          "description": "Burger or 3 Strips, Frites, Boisson (ABTAL) & Jouet.",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__kids__happy-kids.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers Seul",
+      "products": [
+        {
+          "name": "Double Burger",
+          "description": "Laitue, mayonnaise, strips, ketchup",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burgers-seul__double-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Double Cheese",
+          "description": "Fromage, mayonnaise, strips, ketchup",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burgers-seul__double-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Laitue, mayonnaise, strips, ketchup, fromage",
+          "price": 41,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burgers-seul__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Spicy",
+          "description": "Strips, Laitue, Mayonnaise",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burgers-seul__burger-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Burger",
+          "description": "Laitue, mayonnaise, strips",
+          "price": 31,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burgers-seul__burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Twister Seul",
+      "products": [
+        {
+          "name": "Twister 07",
+          "description": null,
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__twister-07.webp",
+          "available": true
+        },
+        {
+          "name": "Double Twister",
+          "description": "Laitue, tomate, fromage, mayonnaise, strips",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__double-twister.webp",
+          "available": true
+        },
+        {
+          "name": "Twister 09",
+          "description": "Strips, Laitue, Tomate, Mayonnaise, Ketchup, Sauce Fromagère, Frites",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__twister-09.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Twister",
+          "description": "Laitue, tomate, fromage, mayonnaise, strips",
+          "price": 41,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__cheese-twister.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Spicy",
+          "description": "Strips, Laitue, Tomate, Mayonnaise",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__twister-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Twister",
+          "description": "Laitue, tomate, mayonnaise, strips",
+          "price": 31,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-seul__twister.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Dc",
+          "description": "Mayonnaise, Sauce Fromagère, Strips, Frites, Ketchup",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__tacos__tacos-dc.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Twister Menu",
+      "products": [
+        {
+          "name": "Twister 09 Box",
+          "description": "Twister 09, Frites, Boisson, 4 Chicken Strips, Salad, 4 Sauces",
+          "price": 160,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-09-box.webp",
+          "available": true
+        },
+        {
+          "name": "Twister 09 menu",
+          "description": "Twister 09, Frites, Boisson",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-09-menu.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Box",
+          "description": "Twister, Salade, Frites, Strips, Boisson",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-box.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Spicy Menu",
+          "description": "Twister spicy, Frites, Boisson",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-spicy-menu.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Meal",
+          "description": "Twister, frites, boisson, salad, bread",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-meal.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Spicy",
+          "description": "Twister spicy, frites, salad fruit, boisson",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Twister 07 Menu",
+          "description": "Twister 07 (Laitue, tomate, mayonnaise, fromage, strips), Frites, Boisson",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-07-menu.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Menu",
+          "description": "Twister, Frites, Boisson",
+          "price": 41,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__twister-menu__twister-menu.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burger Menu",
+      "products": [
+        {
+          "name": "Menu Burger Box",
+          "description": "Burger, Frite, Boisson, Salade, 1 Strip",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burger-menu__menu-burger-box.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Meal",
+          "description": "Burger, frites, boisson, salad, bread",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burger-menu__burger-meal.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Spicy",
+          "description": "Burger spicy, frites, salad fruit, boisson",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burger-menu__burger-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Burger Spicy",
+          "description": "Burger Spicy, Frite, Boisson",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burger-menu__menu-burger-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Burger",
+          "description": "Burger, frites, boisson",
+          "price": 41,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__burger-menu__menu-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Repas Individuels",
+      "products": [
+        {
+          "name": "Burger Pack",
+          "description": "4 chicken strips,  burger,  boisson,  frites",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__repas-individuels__burger-pack.webp",
+          "available": true
+        },
+        {
+          "name": "Twister Pack",
+          "description": "4 chicken strips,  twister,  boisson,  frites",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__repas-individuels__twister-pack.webp",
+          "available": true
+        },
+        {
+          "name": "Strips Snack",
+          "description": "4 strips, frites et coca",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__repas-individuels__strips-snack.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bucket",
+      "products": [
+        {
+          "name": "Super Bucket Pack",
+          "description": "10-Pcs Chicken strips,  2-Twister,  \n2-Burger, \n2-Frite,  1-Coca cola 1L,  1-Salade \n, 2-Bread",
+          "price": 283,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__bucket__super-bucket-pack.webp",
+          "available": true
+        },
+        {
+          "name": "25 PCS Bucket",
+          "description": "25 strips , 3-frite, 2-salade, 1-coca cola 1L, 4-bread,",
+          "price": 243,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__bucket__25-pcs-bucket.webp",
+          "available": true
+        },
+        {
+          "name": "20 PCS Bucket",
+          "description": "20 strips, 2-frite, 2-salade, 1-coca cola 1L, 3-bread,",
+          "price": 202,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__bucket__20-pcs-bucket.webp",
+          "available": true
+        },
+        {
+          "name": "10 PCS Bucket",
+          "description": "10 Strips , 2 Salad 2 Frites , 2 Bred  1L Boisson",
+          "price": 139,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__bucket__10-pcs-bucket.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Chicken Pieces",
+      "products": [
+        {
+          "name": "Strip",
+          "description": "1 Strip piece",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__chicken-pieces__strip.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salads, Frites & Bread",
+      "products": [
+        {
+          "name": "Frite",
+          "description": "1 Frites",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__salads-frites-bread__frite.webp",
+          "available": true
+        },
+        {
+          "name": "Salade De Fruits",
+          "description": "Fraise, Banane, Orange, kiwi, raisin",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__salads-frites-bread__salade-de-fruits.webp",
+          "available": true
+        },
+        {
+          "name": "Bread",
+          "description": "1 Bread piece",
+          "price": 3,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__salads-frites-bread__bread.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "ICE Orange",
+          "description": "1 ICE Orange",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__boissons__ice-orange.webp",
+          "available": true
+        },
+        {
+          "name": "ICE Passion",
+          "description": "1 ICE Passion",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__boissons__ice-passion.webp",
+          "available": true
+        },
+        {
+          "name": "ICE Pomme",
+          "description": "1 ICE Pomme",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__boissons__ice-pomme.webp",
+          "available": true
+        },
+        {
+          "name": "ICE Cola",
+          "description": "1 ICE Cola",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__boissons__ice-cola.webp",
+          "available": true
+        },
+        {
+          "name": "CIEL 33 Cl",
+          "description": "1 CIEL 33 Cl",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__boissons__ciel-33-cl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bowl",
+      "products": [
+        {
+          "name": "Bowl",
+          "description": "Bowl ctispy , frite , Sauce",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/dc-chicken-ojd/products/dc-chicken-ojd__bowl__bowl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 414150,
+  "scrapedAt": "2026-08-24T10:46:32.188Z"
+}

@@ -1,0 +1,678 @@
+{
+  "slug": "mistral-club-ojd",
+  "name": "Mistral Club",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/mistral-club-ojd",
+  "rating": "95%",
+  "reviews": "1k+",
+  "cuisines": [
+    "Burgers",
+    "Sandwich"
+  ],
+  "image": "/restaurants/mistral-club-ojd/cover.webp",
+  "logoUrl": "/restaurants/mistral-club-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Tacos Chika",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__top-sellers__tacos-chika.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__top-sellers__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__top-sellers__tacos-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "La Chicken Salade",
+          "description": "Fusilli, maïs, olives, gruyère, haricots rouges, poulet",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__salades__la-chicken-salade.webp",
+          "available": true
+        },
+        {
+          "name": "La Oignon Rings Salade",
+          "description": "Tomate, maïs, olives, gruyère, haricots rouges, onion rings",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__salades__la-oignon-rings-salade.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Must",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__tacos__tacos-must.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Chika",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__tacos__tacos-chika.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Wrap Chicken Folie",
+          "description": null,
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__wraps__wrap-chicken-folie.webp",
+          "available": true
+        },
+        {
+          "name": "Wrap Le Mexicain",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__wraps__wrap-le-mexicain.webp",
+          "available": true
+        },
+        {
+          "name": "Wrap Le Milanais",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__wraps__wrap-le-milanais.webp",
+          "available": true
+        },
+        {
+          "name": "Wrap L'Oriental",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__wraps__wrap-loriental.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Crispy bowl",
+      "products": [
+        {
+          "name": "Bowl crispy",
+          "description": "Riz, Sauce maison, Tenders, Oignon crispy, Ciboulette",
+          "price": 79,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__crispy-bowl__bowl-crispy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smash Burgers",
+      "products": [
+        {
+          "name": "Cheezy Smash",
+          "description": "Potato buns, Double steak, Double fromage, Oignon caramélisé, Sauce cheezy",
+          "price": 79,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__smash-burgers__cheezy-smash.webp",
+          "available": true
+        },
+        {
+          "name": "smash burger",
+          "description": "Potato buns, Double steak, Double fromasmash burgerge, Oignon caramélisé, Sauce tasty",
+          "price": 79,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__smash-burgers__smash-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Rosti Burger",
+          "description": null,
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__burgers__rosti-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Double Cheese",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__burgers__double-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Big Burger",
+          "description": null,
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__burgers__big-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": null,
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__burgers__chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": null,
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__burgers__cheese-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Le 4x4",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-le-4x4.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Campagnard",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-campagnard.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Steak",
+          "description": null,
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-steak.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Le Spécial",
+          "description": null,
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-le-special.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Chicca Curry",
+          "description": null,
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-chicca-curry.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Escalope",
+          "description": null,
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sandwichs__sandwich-escalope.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mistral Trio",
+      "products": [
+        {
+          "name": "Le Mistral - Poulet",
+          "description": null,
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__mistral-trio__le-mistral-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Le Mistral - Beldi",
+          "description": null,
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__mistral-trio__le-mistral-beldi.webp",
+          "available": true
+        },
+        {
+          "name": "Le Mistral - Steak",
+          "description": null,
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__mistral-trio__le-mistral-steak.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "The Woop Burger",
+      "products": [
+        {
+          "name": "The Woop Two",
+          "description": null,
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__the-woop-burger__the-woop-two.webp",
+          "available": true
+        },
+        {
+          "name": "The Woop One",
+          "description": null,
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__the-woop-burger__the-woop-one.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Finger Food",
+      "products": [
+        {
+          "name": "Jalapeños",
+          "description": "5 pièces",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__finger-food__jalapenos.webp",
+          "available": true
+        },
+        {
+          "name": "Muslitos",
+          "description": "3 Pièces",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__finger-food__muslitos.webp",
+          "available": true
+        },
+        {
+          "name": "Nuggets",
+          "description": "5 Pièces",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__finger-food__nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Onion Rings",
+          "description": "7 Pièces",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__finger-food__onion-rings.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Menus Enfants",
+      "products": [
+        {
+          "name": "Menu Enfant",
+          "description": "Hamburger + Frites + Dessert + Boisson",
+          "price": 31,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__menus-enfants__menu-enfant.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Supplements",
+      "products": [
+        {
+          "name": "Frites",
+          "description": null,
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__supplements__frites.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Waffle Caramel",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__waffles__waffle-caramel.webp",
+          "available": true
+        },
+        {
+          "name": "Waffle Chocolat",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__waffles__waffle-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Waffle Fraise",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__waffles__waffle-fraise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "products": [
+        {
+          "name": "Tiramisu Spéculoos",
+          "description": "Savourez notre délicieux Tiramisu",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Tiramisu Oreo",
+          "description": "Savourez notre délicieux tiramisu",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Mousse au Chocolat",
+          "description": "Savourez notre délicieuse Mousse au Chocolat",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sundaes",
+      "products": [
+        {
+          "name": "Sundae Chocolat",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sundaes__sundae-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Sundae Caramel",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sundaes__sundae-caramel.webp",
+          "available": true
+        },
+        {
+          "name": "Sundae Fraise",
+          "description": null,
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__sundaes__sundae-fraise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Panaché Citron",
+          "description": null,
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__panache-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Cocktail de Fruits",
+          "description": null,
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__cocktail-de-fruits.webp",
+          "available": true
+        },
+        {
+          "name": "Jus d'Orange",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Jus de Banane",
+          "description": null,
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__jus-de-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Jus de Citron",
+          "description": null,
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__jus-de-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Bissup Menthe",
+          "description": "boisson bissup",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__jus__bissup-menthe.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Le C'bon",
+      "products": [
+        {
+          "name": "Cbon Chocolat",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__le-cbon__cbon-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Cbon Fraise",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__le-cbon__cbon-fraise.webp",
+          "available": true
+        },
+        {
+          "name": "Cbon Caramel",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__le-cbon__cbon-caramel.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Oasis 33cl",
+          "description": "Cannette au choix",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__boissons__oasis-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Soda 25cl",
+          "description": "Cannette au choix",
+          "price": 9,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__boissons__soda-25cl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Milkshake Coconut",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__milkshakes__milkshake-coconut.webp",
+          "available": true
+        },
+        {
+          "name": "Milkshake Café",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__milkshakes__milkshake-cafe.webp",
+          "available": true
+        },
+        {
+          "name": "Milkshake Oréo",
+          "description": null,
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/mistral-club-ojd/products/mistral-club-ojd__milkshakes__milkshake-oreo.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 159564,
+  "scrapedAt": "2026-08-24T10:27:21.551Z"
+}

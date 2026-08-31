@@ -1,0 +1,507 @@
+{
+  "slug": "complex-golden-foot-ojd",
+  "name": "Complexe Golden Foot",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/complex-golden-foot-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Pizza",
+    "Sandwich"
+  ],
+  "image": "/restaurants/complex-golden-foot-ojd/cover.webp",
+  "logoUrl": null,
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Petits Dejeuners",
+      "products": [
+        {
+          "name": "Petit Dejeuner Fitness",
+          "description": "Pain toast grillé avocat, jben, dinde fumée, 2 œufs pachée, bol yaourt au fruits de saisons, fruits sec, boisson chaude au choix",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-fitness.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner Catalane",
+          "description": "Baguette, thon, sauce tomate, fromage rappé, olives noires, huile d'olives, yaourt, œuf, boisson chaude au choix",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-catalane.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner Fassi",
+          "description": "2 Œufs, khlie, huile d'olives, olives noires, pain, boisson chaude au choix",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-fassi.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner Marocain",
+          "description": "Pain grillé ou harcha, meloui, huile d'olives, olives noires, confiture, miel, fromage, jben, boisson chaude au choix",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-marocain.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner Omelette Fromage Jambon",
+          "description": "2 Œufs, fromage rappé, jambon, huile d'olives, olives noires, boisson chaude au choix",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-omelette-fromage-jambon.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner Parisien",
+          "description": "Viennoiserie 2 pièces, yaourt, jus d'orange, boisson chaude au choix",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-parisien.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner omelette Fromage",
+          "description": "2 Œufs, huile d'olives, olives noires fromage, pain, boisson chaude au choix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-omelette-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "Petit Dejeuner omelette Nature",
+          "description": "2 Œufs, huile d'olives, olives noires, pain, boisson chaude au choix",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__petits-dejeuners__petit-dejeuner-omelette-nature.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Golden",
+          "description": "Fruits de mer, légumes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-golden.webp",
+          "available": true
+        },
+        {
+          "name": "Salade César",
+          "description": "Poulet, tomate cerises, crouton, parmesan, œufs de caille, sauce césar",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Avocat Crevettes",
+          "description": "Crevettes, avocat, laitue",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-avocat-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Italie",
+          "description": "Penne, dinde fumé, maîs, tomate cerises, olive noire, thon, sauce pesto",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-italie.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise",
+          "description": "Haricot, pomme de terre, carotte, tomate, concombre, laitue, riz, olives noire, mais, thon, œuf de caille, sauce vinaigre",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-nicoise.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Marocaine",
+          "description": "Tomate, oignon, concombre, poivron, vinaigrette",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__salades__salade-marocaine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Burger Américain",
+          "description": "Bœuf hachée, œuf, pepperoni, cornichon, laitue, sauce bbq",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__burgers__burger-americain.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Classic",
+          "description": "Bœuf hachée, sauce champignon, cheddar, laitue",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__burgers__burger-classic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Mixte pain maison",
+          "description": "Poulet, Viande Hachée, Garniture, Fromage",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__sandwichs__sandwich-mixte-pain-maison.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Viande Hachée pain maison",
+          "description": "Viande Hachée, Garniture, Fromage",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__sandwichs__sandwich-viande-hachee-pain-maison.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Poulet pain maison",
+          "description": "Poulet, garniture, fromage",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__sandwichs__sandwich-poulet-pain-maison.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Mixte Gratiné & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-mixte-gratine-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Fruits De Mer & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-fruits-de-mer-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-viande-hachee-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-poulet-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-nuggets-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu & Frite",
+          "description": "Servi avec frites, sauce au choix",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tacos__tacos-cordon-bleu-frite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Paninis",
+      "products": [
+        {
+          "name": "Panini Thon",
+          "description": "Thon, fromage",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__paninis__panini-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Fromage",
+          "description": "Fromage, sauce",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__paninis__panini-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Dinde",
+          "description": "Dinde, fromage",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__paninis__panini-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pâtes",
+      "products": [
+        {
+          "name": "Pâtes Fruits De Mer",
+          "description": "Sauce blanche, parmesan, crevette, calamar",
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pates__pates-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet Champignon",
+          "description": "Sauce blanche, poulet, champignon, parmesan",
+          "price": 73,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pates__pates-poulet-champignon.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Charcuterie",
+          "description": "Sauce blanche, jambon de dinde, parmesan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pates__pates-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Bolognaise",
+          "description": "Sauce tomate, viande hachée, parmesan",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pates__pates-bolognaise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza Chèvre Miel",
+          "description": "Sauce blanche, mozzarella, fromage chèvre, miel, noix",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-chevre-miel.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Mixte 4 Saison",
+          "description": "Sauce tomate, fromage, poulet, thon, fruit de mer, viande hachée",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-mixte-4-saison.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Sauce tomate, fromage, fruits de mer, origan, champignon",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chicken Suprême",
+          "description": "Sauce tomate, fromage, poulet marinée, origan, champignon",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-chicken-supreme.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "description": "Sauce tomate, tomate cerise, poivre rouge et vert, champignon, mais, olive noir, fromage, origan",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-vegetarienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages",
+          "description": "Sauce blanche, mozzarella, edam, cheddar, parmesan",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-4-fromages.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Carbonnara",
+          "description": "Sauce blanche, jambon, œuf, fromage, origan",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-carbonnara.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margaretta",
+          "description": "Sauce tomate, fromage, origan",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-margaretta.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon",
+          "description": "Sauce tomate, oignon, poivre, thon, olives noir, fromage",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pizzas__pizza-thon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcio",
+      "products": [
+        {
+          "name": "Pasticcio Viande Hachée",
+          "description": "Viande hachée, sauce béchamel, fromage, frites",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pasticcio__pasticcio-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "Dinde, sauce béchamel, fromage, frites",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__pasticcio__pasticcio-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tajines",
+      "products": [
+        {
+          "name": "Tajine De Bœuf",
+          "description": "Boeuf, pruneaux",
+          "price": 76,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tajines__tajine-de-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine Kefta",
+          "description": "Boulettes viande hachée, sauce tomate",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tajines__tajine-kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine Dinde",
+          "description": "Dinde brochettes, sauce",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__tajines__tajine-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Couscous",
+      "products": [
+        {
+          "name": "Couscous Viande",
+          "description": "Servi avec lben",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__couscous__couscous-viande.webp",
+          "available": true
+        },
+        {
+          "name": "Couscous Poulet",
+          "description": "Servi avec lben",
+          "price": 62,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/complex-golden-foot-ojd/products/complex-golden-foot-ojd__couscous__couscous-poulet.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 501751,
+  "scrapedAt": "2026-08-24T10:46:47.264Z"
+}

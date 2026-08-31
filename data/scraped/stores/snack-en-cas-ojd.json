@@ -1,0 +1,576 @@
+{
+  "slug": "snack-en-cas-ojd",
+  "name": "Snack En-cas",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/snack-en-cas-ojd",
+  "rating": "91%",
+  "reviews": "85",
+  "cuisines": [
+    "Italian",
+    "Sandwich"
+  ],
+  "image": "/restaurants/snack-en-cas-ojd/cover.webp",
+  "logoUrl": "/restaurants/snack-en-cas-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Pizza Len Cas",
+          "description": "Sauce blanche, fromage, dinde, crevettes, jambon, olives noires",
+          "price": 34.75,
+          "oldPrice": 40,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__promotions__pizza-len-cas.webp",
+          "available": true
+        },
+        {
+          "name": "Panza mixte",
+          "description": "Viande hachée,Dinde,sauces ,fromage",
+          "price": 46.75,
+          "oldPrice": 55,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__promotions__panza-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panza gold",
+          "description": "Dinde,jambon,sauces,fromage",
+          "price": 46.75,
+          "oldPrice": 55,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__promotions__panza-gold.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "TACOS MIXTE XL GRATINE",
+          "description": "DINDE,VIANDE HACHEE,SAUCE FROMAGERE, FRITE",
+          "price": 58.65,
+          "oldPrice": 69,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__top-sellers__tacos-mixte-xl-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "TACOS DINDE XL GRATINE",
+          "description": "DINE.SAUCE FROMAGERE,FRITE",
+          "price": 58.65,
+          "oldPrice": 69,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__top-sellers__tacos-dinde-xl-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "Panza mixte",
+          "description": "Viande hachée,Dinde,sauces ,fromage",
+          "price": 46.75,
+          "oldPrice": 55,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__top-sellers__panza-mixte.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Summer Combo deals",
+      "products": [
+        {
+          "name": "Combo friends",
+          "description": "Tacos mixte, tacos dinde XL, 2x Frites, 2x Coca cola",
+          "price": 129,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__summer-combo-deals__combo-friends.webp",
+          "available": true
+        },
+        {
+          "name": "Combo fresh",
+          "description": "Pizza chicken moyenne, pizza bolognaise moyenne , 2x coca cola",
+          "price": 121,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__summer-combo-deals__combo-fresh.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "TACOS XL",
+      "products": [
+        {
+          "name": "TACOS DINDE XL GRATINE",
+          "description": "DINE.SAUCE FROMAGERE,FRITE",
+          "price": 58.65,
+          "oldPrice": 69,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos-xl__tacos-dinde-xl-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "TACOS MIXTE XL GRATINE",
+          "description": "DINDE,VIANDE HACHEE,SAUCE FROMAGERE, FRITE",
+          "price": 58.65,
+          "oldPrice": 69,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos-xl__tacos-mixte-xl-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "TACOS CORDON BLEU XL GRATINE",
+          "description": "CORDON BLEU,SAUCE FROMAGERE,FRITE",
+          "price": 58.65,
+          "oldPrice": 69,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos-xl__tacos-cordon-bleu-xl-gratine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Curry",
+          "description": "Dinde, épicé, jambon, frites, sauce fromagère",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-curry.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "Cordon, bleu, frites, sauce fromagère",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Tenders",
+          "description": "Tenders, frites, sauce fromagère",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Dinde, frites, sauce fromagère",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mexicain",
+          "description": "Merguez, frites, sauce fromagère",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-mexicain.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Dinde, viande hachée, frite, sauce fromagère",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets, frites, sauce fromagère",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burger",
+      "products": [
+        {
+          "name": "chicken burger",
+          "description": "chicken,garnitures,fromage",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__burger__chicken-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poutines",
+      "products": [
+        {
+          "name": "Poutine Nuggets",
+          "description": "Nuggets, frites, fromages, sauces",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__poutines__poutine-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Cordon Bleu",
+          "description": "Cordon bleu, frites, fromages, sauces",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__poutines__poutine-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Mexicain",
+          "description": "Merguez, frites, fromages, sauces",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__poutines__poutine-mexicain.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Mixte",
+          "description": "Dinde, viande hachée, frites, fromages, sauces",
+          "price": 42.5,
+          "oldPrice": 50,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__poutines__poutine-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Dinde",
+          "description": "Dinde, frites, fromage، sauces",
+          "price": 40.8,
+          "oldPrice": 48,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__poutines__poutine-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwich",
+      "products": [
+        {
+          "name": "Sandwich pain maison escalope",
+          "description": "steak dinde,oeuf,fromage,garniture",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__sandwich__sandwich-pain-maison-escalope.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich pain maison Tasty",
+          "description": "viande hachee,jambon,mozarella,garnitures",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__sandwich__sandwich-pain-maison-tasty.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich pain maison crispy",
+          "description": "Tenders - salade - tomate - fromage",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__sandwich__sandwich-pain-maison-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich pain maison Royal",
+          "description": "Dinde, jambon, salade, tomate, fromage",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__sandwich__sandwich-pain-maison-royal.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Pain maison  dinde",
+          "description": "Dinde, salade, tomate, fromages",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__sandwich__sandwich-pain-maison-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Pizzas",
+      "products": [
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Sauce tomate, fromage, calamar, crevettes, champignons, olive noires, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Sauce tomate, fromage, dinde, viande hachée, merguez, fruits de mer, champignons, olive noire, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Orientale",
+          "description": "Sauce tomate, fromage, merguez, poivron, olive noires, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-orientale.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni",
+          "description": "Sauce tomate, fromage, pepperoni",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-pepperoni.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Alfredo",
+          "description": "Sauce blanche, fromages, oignon, dinde, champignons",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-alfredo.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chicken",
+          "description": "Sauce tomate, fromage, dinde, poivron, olive noires, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages",
+          "description": "Sauce tomate, edam, mozzarella, roquefort, viande hachée, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-4-fromages.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Bolognaise",
+          "description": "Sauce tomate, fromage, viande hachée, poivron, olive noire, thym",
+          "price": 39,
+          "oldPrice": 45,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Len Cas",
+          "description": "Sauce blanche, fromage, dinde, crevettes, jambon, olives noires",
+          "price": 34.75,
+          "oldPrice": 40,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-len-cas.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margarita",
+          "description": "Sauce tomate, fromages, thym",
+          "price": 34.75,
+          "oldPrice": 40,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__nos-pizzas__pizza-margarita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cheese Naans",
+      "products": [
+        {
+          "name": "L'en-cas Naan *BEST SELLER*",
+          "description": "Viande hachee, dinde, jambon, Cheese Stuffed",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__cheese-naans__len-cas-naan-best-seller.webp",
+          "available": true
+        },
+        {
+          "name": "India Naan",
+          "description": "Dinde Marine, mozarella , Onion Rings, choux,",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__cheese-naans__india-naan.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Panzzarotti",
+      "products": [
+        {
+          "name": "Panza mixte",
+          "description": "Viande hachée,Dinde,sauces ,fromage",
+          "price": 46.75,
+          "oldPrice": 55,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__panzzarotti__panza-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panza gold",
+          "description": "Dinde,jambon,sauces,fromage",
+          "price": 46.75,
+          "oldPrice": 55,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__panzzarotti__panza-gold.webp",
+          "available": true
+        },
+        {
+          "name": "Panza dinde",
+          "description": "Dinde,fromage,sauces",
+          "price": 42.5,
+          "oldPrice": 50,
+          "discount": 15,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__panzzarotti__panza-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Paninis",
+      "products": [
+        {
+          "name": "Panini Mixte",
+          "description": "Dinde, viande hachée, fromages",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__paninis__panini-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Dinde",
+          "description": "Dinde, fromages",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__paninis__panini-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade César",
+          "description": "Salade, verte, tomate, crouton, poulet, edam, sauce césar",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__salades__salade-cesar.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola",
+          "description": "25cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__coca-cola.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta citron",
+          "description": "25 cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__fanta-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite citron",
+          "description": "25 cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__sprite-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Coca zero",
+          "description": "25 cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__coca-zero.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta orange",
+          "description": "25 cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__fanta-orange.webp",
+          "available": true
+        },
+        {
+          "name": "Hawai tropical",
+          "description": "25 cl",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__hawai-tropical.webp",
+          "available": true
+        },
+        {
+          "name": "Eau Minérale 25 cl",
+          "description": "Eau Minérale",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-en-cas-ojd/products/snack-en-cas-ojd__boissons__eau-minerale-25-cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 464672,
+  "scrapedAt": "2026-08-24T10:38:03.315Z"
+}

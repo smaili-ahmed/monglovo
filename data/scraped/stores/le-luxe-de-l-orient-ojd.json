@@ -1,0 +1,539 @@
+{
+  "slug": "le-luxe-de-l-orient-ojd",
+  "name": "le luxe de l orient",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/le-luxe-de-l-orient-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Grill",
+    "Pasta",
+    "Sweets"
+  ],
+  "image": "/restaurants/le-luxe-de-l-orient-ojd/cover.webp",
+  "logoUrl": "/restaurants/le-luxe-de-l-orient-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Nos Plats à Travers le Monde",
+      "products": [
+        {
+          "name": "Chateaubriant",
+          "description": "Chateaubriant",
+          "price": 170,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__chateaubriant.webp",
+          "available": true
+        },
+        {
+          "name": "Saumon de Norvège",
+          "description": "Saumon de Norvège laqué au miel et soja",
+          "price": 162,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__saumon-de-norvege.webp",
+          "available": true
+        },
+        {
+          "name": "Émincé de boeuf Crémeux aux champignons",
+          "description": "Émincé de boeuf Crémeux aux champignons",
+          "price": 125,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__emince-de-boeuf-cremeux-aux-champignons.webp",
+          "available": true
+        },
+        {
+          "name": "Cordon Bleu",
+          "description": "Cordon bleu (maison) Revisité au Cheddar Fondu",
+          "price": 107,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Émincé de Poulet Crémeux aux Champignons",
+          "description": "Émincé de Poulet Crémeux aux Champignons",
+          "price": 107,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__emince-de-poulet-cremeux-aux-champignons.webp",
+          "available": true
+        },
+        {
+          "name": "Suprême de poulet",
+          "description": "Suprême de poulet",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__nos-plats-a-travers-le-monde__supreme-de-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les Entrées Froides & Chaudes",
+      "products": [
+        {
+          "name": "Salade césar",
+          "description": "Salade césar",
+          "price": 86,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-entrees-froides-chaudes__salade-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade italienne",
+          "description": "Salade italienne",
+          "price": 86,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-entrees-froides-chaudes__salade-italienne.webp",
+          "available": true
+        },
+        {
+          "name": "Tomate mozzarella",
+          "description": "Tomate mozzarella",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-entrees-froides-chaudes__tomate-mozzarella.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise Revisitée",
+          "description": "Laitue, riz au thon, haricot vert, pomme de terre, concombre, betterave, carotte, tomate cerise et anchois, avec des olives noires, un œuf dur et une sauce vinaigrette acidulée",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-entrees-froides-chaudes__salade-nicoise-revisitee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Spécialité Du Monde Pâtes & Paellas",
+      "products": [
+        {
+          "name": "Paellaa au fruits de mer",
+          "description": "Paellaa au fruits de mer",
+          "price": 113,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-du-monde-pates-paellas__paellaa-au-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Fruits De Mer",
+          "description": "Crevettes, calamars, champignons, moules, sauce blanche, parmesan, basilic, servis sur spaghetti ou tagliatelle",
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-du-monde-pates-paellas__pates-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Paella Mixte",
+          "description": "Paella garnie de poulet et de fruits de mer",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-du-monde-pates-paellas__paella-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Paellas de poulet",
+          "description": "Paellas de poulet",
+          "price": 88,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-du-monde-pates-paellas__paellas-de-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Carbonara",
+          "description": "Jambon fumé, jaune d'œuf, sauce blanche, parmesan, basilic, servis sur spaghetti ou tagliatelle",
+          "price": 83,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-du-monde-pates-paellas__pates-carbonara.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Spécialité Marocaine",
+      "products": [
+        {
+          "name": "Tajine poisson",
+          "description": "Tajine poisson",
+          "price": 88,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__tajine-poisson.webp",
+          "available": true
+        },
+        {
+          "name": "Reffissa",
+          "description": "Reffissa",
+          "price": 88,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__reffissa.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine de coquelet",
+          "description": "Tajine de coquelet",
+          "price": 87,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__tajine-de-coquelet.webp",
+          "available": true
+        },
+        {
+          "name": "Tajine De Kefta À La Tomate, Et Œufs",
+          "description": "Boulettes de viande hachée mijotées dans une sauce tomate, avec des œufs",
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__tajine-de-kefta-a-la-tomate-et-ufs.webp",
+          "available": true
+        },
+        {
+          "name": "Pastilla fruits de mer",
+          "description": "Pastilla fruits de mer",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__pastilla-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pastilla de poulet",
+          "description": "Pastilla de poulet",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__pastilla-de-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Salade marocain",
+          "description": "Salade marocain",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-marocaine__salade-marocain.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Snacking Tapas & Burgers",
+      "products": [
+        {
+          "name": "Burger Américain",
+          "description": "Bœuf haché, œuf, pepperoni, oignon crispy, cornichon, laitue, sauce BBQ",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-tapas-burgers__burger-americain.webp",
+          "available": true
+        },
+        {
+          "name": "Burger César",
+          "description": "Poulet grillé, oignons, laitue, parmesan, sauce César",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-tapas-burgers__burger-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "6 Pièces Oignon Rings",
+          "description": "Anneaux d'oignon frits",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-tapas-burgers__6-pieces-oignon-rings.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Spécialité Le Luxe De L'orient",
+      "products": [
+        {
+          "name": "Le Luxe Show It's Show Time!",
+          "description": "Tranches de filet de bœuf cuites au beurre chaud à votre table. Servi avec un mesclun de salade et deux accompagnements au choix (blé, frites, légumes sautés ou purée maison)",
+          "price": 314,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-le-luxe-de-lorient__le-luxe-show-its-show-time.webp",
+          "available": true
+        },
+        {
+          "name": "Golden Steak",
+          "description": "Filet de bœuf mature recouvert de feuilles d'or 24 carats. Servi avec un mesclun de salade et deux accompagnements au choix (blé, frites, légumes sautés ou purée maison)",
+          "price": 250,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-le-luxe-de-lorient__golden-steak.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Spécialité Turque",
+      "products": [
+        {
+          "name": "Brochette mixte",
+          "description": "Brochette mixte",
+          "price": 139,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-turque__brochette-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Brochette D'agneau",
+          "description": "Brochette D'agneau",
+          "price": 99,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-turque__brochette-dagneau.webp",
+          "available": true
+        },
+        {
+          "name": "Brochette poulet",
+          "description": "Brochette poulet",
+          "price": 95,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-turque__brochette-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pidè « Pizza Turque »",
+          "description": "Une pizza turque",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__specialite-turque__pide-pizza-turque.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Snacking Pizzas & Sandwichs",
+      "products": [
+        {
+          "name": "Pizza Quatre Saisons",
+          "description": "Pizza garnie de viande hachée, poulet, fruits de mer, thon et fromage",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__pizza-quatre-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Carbonara",
+          "description": "Pizza à base de sauce blanche, avec jambon fumé, œuf, fromage et origan",
+          "price": 87,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__pizza-carbonara.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos luxe gratiné",
+          "description": "Tacos luxe gratiné",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__tacos-luxe-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos poulet",
+          "description": "Tacos poulet",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__tacos-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos viande hachée",
+          "description": "Tacos viande hachée",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos nuggets",
+          "description": "Tacos nuggets de poulet",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos cordon bleu",
+          "description": "Tacos cordon bleu",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Français",
+          "description": "Pain, poulet fumé, dinde fumée, laitue, tomate, cheddar et sauce andalouse",
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__snacking-pizzas-sandwichs__sandwich-francais.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les Crêpes",
+      "products": [
+        {
+          "name": "Crêpe Aux Fruits De Mer",
+          "description": "Crêpe salée garnie de fruits de mer",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-crepes__crepe-aux-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Poulet Champignons",
+          "description": "Crêpe salée garnie de poulet, de champignons, de sauce blanche et de fromage",
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-crepes__crepe-poulet-champignons.webp",
+          "available": true
+        },
+        {
+          "name": "Nutella banane",
+          "description": "Nutella banane",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-crepes__nutella-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe nutella",
+          "description": "Crêpe nutella",
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-crepes__crepe-nutella.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Sucrée",
+          "description": "Une crêpe sucrée classique",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__les-crepes__crepe-sucree.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca zéro",
+          "description": "Coca zéro",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__coca-zero.webp",
+          "available": true
+        },
+        {
+          "name": "Schweppes tonic",
+          "description": "Schweppes tonic",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__schweppes-tonic.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique  ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__coca-cola-classique-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (33 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__sprite-classique-33-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__poms-pomme-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__hawai-tropical-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Orangina",
+          "description": "Orangina",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__orangina.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali -   (33cl ) Bouteille",
+          "description": "Bouteille d'eau minérale 33 cl",
+          "price": 6,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/le-luxe-de-l-orient-ojd/products/le-luxe-de-l-orient-ojd__boissons__sidi-ali-33cl-bouteille.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 533670,
+  "scrapedAt": "2026-08-24T10:51:49.108Z"
+}

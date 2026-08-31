@@ -1,0 +1,562 @@
+{
+  "slug": "societe-ste-najem-echam-ojd",
+  "name": "Chawarma Bayt Cham",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/societe-ste-najem-echam-ojd",
+  "rating": "95%",
+  "reviews": "329",
+  "cuisines": [
+    "Oriental",
+    "Shawarma"
+  ],
+  "image": "/restaurants/societe-ste-najem-echam-ojd/cover.webp",
+  "logoUrl": "/restaurants/societe-ste-najem-echam-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Combo Full",
+          "description": "2x Shawarma Poulet, 2x frites, assiette variée 2 personnes, 2x coca",
+          "price": 204.85,
+          "oldPrice": 241,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__promotions__combo-full.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Arabi",
+          "description": "shawarma poulet arabi plat,",
+          "price": 79.05,
+          "oldPrice": 93,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__promotions__combo-arabi.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Duo",
+          "description": "2x shawarma poulet, 2 frites,",
+          "price": 115.6,
+          "oldPrice": 136,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__promotions__combo-duo.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Combo Arabi",
+          "description": "shawarma poulet arabi plat,",
+          "price": 79.05,
+          "oldPrice": 93,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__top-sellers__combo-arabi.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Duo",
+          "description": "2x shawarma poulet, 2 frites,",
+          "price": 115.6,
+          "oldPrice": 136,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__top-sellers__combo-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Arabi Pain Pitta Shawarma Poulet",
+          "description": "Shawarma poulet, pain pita",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__top-sellers__arabi-pain-pitta-shawarma-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Coca Cola Deals -20%",
+      "products": [
+        {
+          "name": "Combo Full",
+          "description": "2x Shawarma Poulet, 2x frites, assiette variée 2 personnes, 2x coca",
+          "price": 204.85,
+          "oldPrice": 241,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__coca-cola-deals-20__combo-full.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Duo",
+          "description": "2x shawarma poulet, 2 frites,",
+          "price": 115.6,
+          "oldPrice": 136,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__coca-cola-deals-20__combo-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Arabi",
+          "description": "shawarma poulet arabi plat,",
+          "price": 79.05,
+          "oldPrice": 93,
+          "discount": 15,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__coca-cola-deals-20__combo-arabi.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Entree chaudes",
+      "products": [
+        {
+          "name": "Kibbeh(4pieces)",
+          "description": "Kibbeh . Viande",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-chaudes__kibbeh-4pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Samboussek viande 4 pieces",
+          "description": "Samboussek vainde 4 pieces",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-chaudes__samboussek-viande-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Roule viande 4 pieces",
+          "description": "Reoule viande 4 pieces",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-chaudes__roule-viande-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Samboussek fromage 5 pieces",
+          "description": "Samboussek fromage 5 pieces",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-chaudes__samboussek-fromage-5-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Falafel",
+          "description": "Falafel",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-chaudes__falafel.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cuisine orientale",
+      "products": [
+        {
+          "name": "Riz biryani",
+          "description": "Riz biryani",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__cuisine-orientale__riz-biryani.webp",
+          "available": true
+        },
+        {
+          "name": "RIZ Kabsa",
+          "description": "Riz kabsa",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__cuisine-orientale__riz-kabsa.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Assiette variee",
+      "products": [
+        {
+          "name": "Assiet variee 2 personne",
+          "description": "Assiet variee 2 personne",
+          "price": 135,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__assiette-variee__assiet-variee-2-personne.webp",
+          "available": true
+        },
+        {
+          "name": "Assiet variee 1 personne",
+          "description": "Assiet variee 1 personne",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__assiette-variee__assiet-variee-1-personne.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Entrée froide",
+      "products": [
+        {
+          "name": "Homos Avocat",
+          "description": "Crème de pois chiches au tahini, avocat",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__homos-avocat.webp",
+          "available": true
+        },
+        {
+          "name": "Homos Betterave",
+          "description": "Crème de pois chiches, tahini, betterave",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__homos-betterave.webp",
+          "available": true
+        },
+        {
+          "name": "Feuille de vigne (5 pieces)",
+          "description": "Feuille de vigne riz basmati legume",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__feuille-de-vigne-5-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Mchakel varie entree froide",
+          "description": "Homos,baba ghanouj,feuille de vigne .......",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__mchakel-varie-entree-froide.webp",
+          "available": true
+        },
+        {
+          "name": "Baba ghanouj",
+          "description": "Baba ghanouj",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__baba-ghanouj.webp",
+          "available": true
+        },
+        {
+          "name": "Mtabal aubergine",
+          "description": "Mtabal aubergin",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__mtabal-aubergine.webp",
+          "available": true
+        },
+        {
+          "name": "Houmous tahina",
+          "description": "Houmous tahina",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__houmous-tahina.webp",
+          "available": true
+        },
+        {
+          "name": "Laban khiyar",
+          "description": "Laban khiyar",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__laban-khiyar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Homos",
+          "description": "Homos, concombre, tomate, persil, citron",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__salade-homos.webp",
+          "available": true
+        },
+        {
+          "name": "Muhammara",
+          "description": "Muhammara",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__entree-froide__muhammara.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Taboulé",
+          "description": "Persil, tomate, oignon, menthe sèche, bourghol, huile d'olive, jus de citron",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__salades__salade-taboule.webp",
+          "available": true
+        },
+        {
+          "name": "Salade fettouche",
+          "description": "Concombres, laitue rouge, tomates cerises, menthe sèche, féta, huile d'olive",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__salades__salade-fettouche.webp",
+          "available": true
+        },
+        {
+          "name": "Salade chamia",
+          "description": "Persil, tomate, concombre, roquette, oignon,, huile d'olive,",
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__salades__salade-chamia.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwich",
+      "products": [
+        {
+          "name": "Arabi Pain Pitta Shawarma Poulet",
+          "description": "Shawarma poulet, pain pita",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__sandwich__arabi-pain-pitta-shawarma-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Shawarma Poulet",
+          "description": "Shawarma, frites, boisson",
+          "price": 64,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__sandwich__menu-shawarma-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Shawarma Poulet",
+          "description": "Sandwich garni de poulet shawarma",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__sandwich__shawarma-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Falafel",
+          "description": "Falafels, tahina souse",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__sandwich__sandwich-falafel.webp",
+          "available": true
+        },
+        {
+          "name": "Portion Frite",
+          "description": "Portion de frites",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__sandwich__portion-frite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Plat crespy",
+          "description": "Poulet",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__plats__plat-crespy.webp",
+          "available": true
+        },
+        {
+          "name": "Houmos chawarma poulet",
+          "description": "Houmos chawarma poulet",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__plats__houmos-chawarma-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "products": [
+        {
+          "name": "Mahalabia pistache",
+          "description": "Mahalabia",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__desserts__mahalabia-pistache.webp",
+          "available": true
+        },
+        {
+          "name": "Mahalabia Nature",
+          "description": "Crème de lait",
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__desserts__mahalabia-nature.webp",
+          "available": true
+        },
+        {
+          "name": "Salade De Fruit",
+          "description": "Assortiment de fruits",
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__desserts__salade-de-fruit.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Mojito",
+          "description": "Citron,menth",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__jus__mojito.webp",
+          "available": true
+        },
+        {
+          "name": "Jus Banane",
+          "description": "Jus frais",
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__jus__jus-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Jus Citron À La Menthe",
+          "description": "Jus frais",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__jus__jus-citron-a-la-menthe.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'orange",
+          "description": "Jus frais",
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__jus__jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Jus frais",
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__jus__jus-de-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola 33cl",
+          "description": "Boisson gazeuse",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__coca-cola-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Hawai 33cl",
+          "description": "Boisson gazeuse",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__hawai-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite 33cl",
+          "description": "Boisson gazeuse",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__sprite-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Poms 33cl",
+          "description": "Boisson gazeuse",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__poms-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Oulmess 25cl",
+          "description": "Eau gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__oulmess-25cl.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali 1.5l",
+          "description": "Eau minérale",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__sidi-ali-1-5l.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali 50cl",
+          "description": "Eau minérale",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/societe-ste-najem-echam-ojd/products/societe-ste-najem-echam-ojd__boissons__sidi-ali-50cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 524616,
+  "scrapedAt": "2026-08-24T10:39:09.541Z"
+}

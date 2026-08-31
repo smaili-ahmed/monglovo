@@ -1,0 +1,119 @@
+[
+  {
+    "level": "error",
+    "kind": "SCRAPE_ERROR",
+    "restaurant": "Nara Sushi",
+    "slug": "nara-sushi-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/nara-sushi-ojd",
+    "error": "page.evaluate: ReferenceError: config is not defined",
+    "timestamp": "2026-08-24T10:05:25.680Z"
+  },
+  {
+    "level": "error",
+    "kind": "SCRAPE_ERROR",
+    "restaurant": "Nara Sushi",
+    "slug": "nara-sushi-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/nara-sushi-ojd",
+    "error": "Too many arguments. If you need to pass more than 1 argument to the function wrap them in an object.",
+    "timestamp": "2026-08-24T10:07:53.777Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Pause à Paris Pâtisserie",
+    "slug": "pause-a-paris-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/pause-a-paris-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T10:30:59.556Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Flourish Bubble",
+    "slug": "flourish-bubble-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/flourish-bubble-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T10:45:36.377Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Pause à Paris Pâtisserie",
+    "slug": "pause-a-paris-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/pause-a-paris-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:05.503Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Snack la salsa",
+    "slug": "snack-la-salsa-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/snack-la-salsa-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:50.796Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Snack O'48 chez Lotfi",
+    "slug": "snack-o48-chez-lotfi-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/snack-o48-chez-lotfi-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:52.611Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Pikala Food",
+    "slug": "pikala-food-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/pikala-food-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:54.375Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Samad Food",
+    "slug": "samad-food-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/samad-food-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:56.150Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Snack Mehdi",
+    "slug": "snack-mehdi-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/snack-mehdi-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:57.976Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Smash N Tacos",
+    "slug": "smash-n-tacos-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/smash-n-tacos-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:46:59.709Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Sweetleaf",
+    "slug": "sweetleaf-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/sweetleaf-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:47:01.508Z"
+  },
+  {
+    "level": "warn",
+    "kind": "NO_MENU",
+    "restaurant": "Flourish Bubble",
+    "slug": "flourish-bubble-ojd",
+    "url": "https://glovoapp.com/en/ma/oujda/stores/flourish-bubble-ojd",
+    "error": "menu inaccessible (empty RSC payload)",
+    "timestamp": "2026-08-24T11:47:03.237Z"
+  }
+]

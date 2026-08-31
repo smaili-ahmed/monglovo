@@ -1,0 +1,490 @@
+{
+  "slug": "aura-ojd",
+  "name": "Aura",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/aura-ojd",
+  "rating": "90%",
+  "reviews": "32",
+  "cuisines": [
+    "Breakfast",
+    "Burgers",
+    "Tacos"
+  ],
+  "image": "/restaurants/aura-ojd/cover.webp",
+  "logoUrl": "/restaurants/aura-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Petit-Déj Croque",
+          "description": "Pain de mie, œufs, fromage râpé, jambon, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__top-sellers__petit-dej-croque.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Continental",
+          "description": "3 Œufs, dinde fumée, champignons, fromage râpé, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__top-sellers__petit-dej-continental.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Gourmand",
+          "description": "3 pancakes, Nutella, fruits frais, fruits secs, salade de fruits, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__top-sellers__petit-dej-gourmand.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Petits Déjeuners",
+      "products": [
+        {
+          "name": "Petit-Déj Gourmand",
+          "description": "3 pancakes, Nutella, fruits frais, fruits secs, salade de fruits, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-gourmand.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Espagnol",
+          "description": "3 Œufs, poivron, fromage râpé, olives, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-espagnol.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Continental",
+          "description": "3 Œufs, dinde fumée, champignons, fromage râpé, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-continental.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Catalan",
+          "description": "Mini baguette, sauce tomate, fromage, thon, 1 œuf, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-catalan.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Croque",
+          "description": "Pain de mie, œufs, fromage râpé, jambon, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-croque.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Fassi",
+          "description": "2 Œufs, khlie de qualité, fromage frais, olives, huile d'olive, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-fassi.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Cheesy",
+          "description": "2 Œufs, fromage rouge, olives, huile d'olive, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-cheesy.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Jambon",
+          "description": "2 Œufs, dinde fumée, olives, huile d'olive, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-jambon.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Beldi",
+          "description": "Harcha, msamen, œuf dur, fromage, miel, olives, huile d'olive, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-beldi.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Tomate",
+          "description": "2 Œufs, sauce tomate fraîche, olives, huile d'olive, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-tomate.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Nature",
+          "description": "2 Œufs, fromage, olives, huile d'olive, pain, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-nature.webp",
+          "available": true
+        },
+        {
+          "name": "Petit-Déj Express",
+          "description": "Pain complet grillé, beurre, miel, confiture, fromage, œuf dur, mini orange, bouteille d'eau 33cl, yaourt maison, boisson chaude , soupe",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__petits-dejeuners__petit-dej-express.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Pêcheur",
+          "description": "Crevettes, calamars, surimi, laitue, tomate cerise",
+          "price": 83,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__salades__salade-pecheur.webp",
+          "available": true
+        },
+        {
+          "name": "Salade César",
+          "description": "Laitue, blanc de poulet grillé, croûtons, parmesan, tomate cerise",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__salades__salade-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise",
+          "description": "Laitue, tomate, maïs, œufs, olives, poivron, oignon, thon",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__salades__salade-nicoise.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Brunchs",
+      "products": [
+        {
+          "name": "Brunch Aura",
+          "description": "Poulet, viande hachée, pain de mie, jambon, 2 œufs, raïb amlou, dattes",
+          "price": 98,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__brunchs__brunch-aura.webp",
+          "available": true
+        },
+        {
+          "name": "Brunch Anglais",
+          "description": "Steak poulet, saucisses, 2 œufs gratinés, salade de fruits, fromage frais, olives, huile d’olive",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__brunchs__brunch-anglais.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Mixte",
+          "description": "2 viandes au choix, frites, 2 sauces au choix",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande hachée",
+          "description": "Viande hachée, frites, 2 sauces au choix",
+          "price": 57,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets, frites, 2 sauces au choix",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet",
+          "description": "Poulet, frites, 2 sauces au choix",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__tacos__tacos-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Double Burger",
+          "description": "2x Steaks hachés, sauce, fromage, laitue, tomate",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__burgers__double-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Double Chicken",
+          "description": "2x Poulets panés, sauce, fromage",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__burgers__double-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Steak haché, sauce biggy, fromage, laitue, tomate",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__burgers__cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Poulet pané, sauce, fromage, laitue, tomate",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__burgers__chicken-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pastas",
+      "products": [
+        {
+          "name": "Pâtes Fruits de mer",
+          "description": "Sauce blanche, fruits de mer, fromage",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__pastas__pates-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet champignons",
+          "description": "Poulet, champignons, sauce, fromage",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__pastas__pates-poulet-champignons.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Bolognaises",
+          "description": "Sauce tomate, viande hachée, fromage",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__pastas__pates-bolognaises.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Carbonara",
+          "description": "Sauce blanche, jambon de dinde, fromage",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__pastas__pates-carbonara.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons Chaudes",
+      "products": [
+        {
+          "name": "Café Séparé",
+          "description": "Café",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__boissons-chaudes__cafe-separe.webp",
+          "available": true
+        },
+        {
+          "name": "Café Allongé",
+          "description": "Café  allongé",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__boissons-chaudes__cafe-allonge.webp",
+          "available": true
+        },
+        {
+          "name": "Double Espresso",
+          "description": "Café",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__boissons-chaudes__double-espresso.webp",
+          "available": true
+        },
+        {
+          "name": "Café Au Lait",
+          "description": "Café  au lait",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__boissons-chaudes__cafe-au-lait.webp",
+          "available": true
+        },
+        {
+          "name": "Café Noir",
+          "description": "Café  noir",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__boissons-chaudes__cafe-noir.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mojitos",
+      "products": [
+        {
+          "name": "Mojito Aromatisé",
+          "description": "Base mojito, parfum au choix",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__mojitos__mojito-aromatise.webp",
+          "available": true
+        },
+        {
+          "name": "Mojito Classique",
+          "description": "Citron, menthe, sucre de canne, glaçons, sprite",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__mojitos__mojito-classique.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mocktails",
+      "products": [
+        {
+          "name": "Mocktail Bora Bora",
+          "description": "Citron, ananas, fruits de la passion, grenadine",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__mocktails__mocktail-bora-bora.webp",
+          "available": true
+        },
+        {
+          "name": "Mocktail Bleu Paradise",
+          "description": "Citron, soda, blue curaçao",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__mocktails__mocktail-bleu-paradise.webp",
+          "available": true
+        },
+        {
+          "name": "Mocktail Virgin Piña Colada",
+          "description": "Lait de coco, ananas",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__mocktails__mocktail-virgin-pina-colada.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smoothies",
+      "products": [
+        {
+          "name": "Smoothie Black Garden",
+          "description": "Avocat, banane, oreo, miel, yaourt",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__smoothies__smoothie-black-garden.webp",
+          "available": true
+        },
+        {
+          "name": "Smoothie Cindrella",
+          "description": "Kiwi, banane, ananas, orange",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__smoothies__smoothie-cindrella.webp",
+          "available": true
+        },
+        {
+          "name": "Smoothie Exotique",
+          "description": "Mangue, ananas, fruits de la passion, orange",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__smoothies__smoothie-exotique.webp",
+          "available": true
+        },
+        {
+          "name": "Smoothie Healthy",
+          "description": "Carotte, bBetterave, pomme, orange",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/aura-ojd/products/aura-ojd__smoothies__smoothie-healthy.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 563220,
+  "scrapedAt": "2026-08-24T10:31:01.118Z"
+}
