@@ -1,7 +1,7 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import { ChevronDown, ChevronRight, CircleUserRound, MapPin, Search, ShoppingBag, X, Star, Clock, Flame, ArrowRight } from 'lucide-react'
+import { ChevronDown, CircleUserRound, MapPin, Search, ShoppingBag, X, Star, Clock } from 'lucide-react'
 import type { FrontRestaurant } from '@/lib/restaurant-service'
 import ThreeDBackground from './ThreeDBackground'
 
@@ -55,25 +55,25 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
     <main className="min-h-screen bg-background text-foreground">
       <ThreeDBackground />
 
-      <header className="relative z-10 mx-auto flex h-[72px] max-w-6xl items-center justify-between px-4 sm:px-6">
+      <header className="relative z-10 mx-auto flex h-[76px] max-w-6xl items-center justify-between px-4 sm:px-6">
         <a href="#" aria-label="Oujda Food" className="flex items-center gap-2.5">
-          <img src="/oujda-food-logo.svg" alt="" className="h-9 w-9" />
-          <span className="text-xl font-black tracking-tight">Oujda <span className="text-primary">Food</span></span>
+          <img src="/oujda-food-logo.svg" alt="" className="h-10 w-10" />
+          <span className="text-xl font-black tracking-tight">Oujda <span className="text-gradient-glovo">Food</span></span>
         </a>
         <div className="flex items-center gap-3">
-          <button onClick={() => setAddressOpen(true)} className="flex items-center gap-2 rounded-full bg-muted px-4 py-2 text-sm font-bold transition-colors hover:bg-muted/80">
+          <button onClick={() => setAddressOpen(true)} className="flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2 text-sm font-bold shadow-sm transition-all hover:shadow-md">
             <MapPin className="size-4 text-primary" /> Oujda <ChevronDown className="size-3.5" />
           </button>
-          <button onClick={() => setLoginOpen(true)} className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/20">
+          <button onClick={() => setLoginOpen(true)} className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/30">
             <CircleUserRound className="size-4" /> Connexion
           </button>
-          <button onClick={() => setCartOpen(true)} className="relative rounded-full p-2.5 transition-colors hover:bg-muted" aria-label="Panier">
+          <button onClick={() => setCartOpen(true)} className="relative rounded-full border border-border bg-card p-2.5 shadow-sm transition-all hover:shadow-md" aria-label="Panier">
             <ShoppingBag className="size-5" />
           </button>
         </div>
 
         {addressOpen && (
-          <div className="absolute left-1/2 top-[72px] z-30 w-[380px] -translate-x-1/2 rounded-2xl border border-border bg-card p-6 shadow-2xl animate-scale-in">
+          <div className="absolute left-1/2 top-[76px] z-30 w-[380px] -translate-x-1/2 rounded-2xl border border-border bg-card p-6 shadow-2xl animate-scale-in">
             <div className="flex gap-4">
               <div className="flex size-12 shrink-0 items-center justify-center rounded-full bg-primary/10 text-2xl">🌍</div>
               <div>
@@ -86,95 +86,105 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
         )}
       </header>
 
-      <section className="relative z-10 mx-auto max-w-6xl px-4 pt-8 sm:px-6">
-        <div className="rounded-3xl bg-gradient-to-br from-primary via-primary to-amber-600 px-8 py-12 text-white sm:px-12 sm:py-16">
-          <div className="mb-2 text-sm font-medium uppercase tracking-wider text-white/70">Oujda, Maroc</div>
-          <h1 className="text-3xl font-black leading-tight tracking-tight sm:text-5xl">
-            Votre repas prefere<br />livre a Oujda
-          </h1>
-          <p className="mt-4 max-w-lg text-base text-white/80 sm:text-lg">
-            Decouvrez les meilleurs restaurants de la ville et faites livrer vos plats favoris directement chez vous.
-          </p>
-          <div className="relative mt-8 max-w-xl">
-            <Search className="absolute left-4 top-1/2 size-5 -translate-y-1/2 text-muted-foreground" />
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Rechercher un restaurant ou un plat..."
-              className="h-14 w-full rounded-2xl bg-white pl-12 pr-4 text-base text-foreground shadow-xl outline-none placeholder:text-muted-foreground focus:ring-2 focus:ring-white/30"
-            />
-          </div>
-          <div className="mt-4 flex flex-wrap gap-2">
-            <button onClick={() => { setQuery(''); setActiveCategory('Tous') }} className="rounded-full bg-white/15 px-4 py-1.5 text-xs font-semibold text-white backdrop-blur-sm transition-colors hover:bg-white/25">Tous les restaurants</button>
-            <button onClick={() => { setTopRated(!topRated) }} className={`rounded-full px-4 py-1.5 text-xs font-semibold backdrop-blur-sm transition-colors ${topRated ? 'bg-white text-primary' : 'bg-white/15 text-white hover:bg-white/25'}`}>Meilleures notes</button>
+      <section className="relative z-10 mx-auto max-w-6xl px-4 pt-6 sm:px-6">
+        <div className="relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-primary via-[#ff5c8a] to-accent px-8 py-14 text-white shadow-2xl shadow-primary/20 sm:px-14 sm:py-20">
+          <div className="absolute -right-10 -top-10 size-64 rounded-full bg-white/10 blur-3xl" />
+          <div className="absolute right-14 bottom-0 hidden size-40 rounded-full border-2 border-white/20 sm:block animate-glow-pulse" />
+          <div className="relative">
+            <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-sm font-semibold backdrop-blur-sm">
+              🛵 Livraison en 20-35 min
+            </div>
+            <h1 className="text-4xl font-black leading-[1.05] tracking-tight sm:text-6xl">
+              Votre repas prefere<br />livre a <span className="underline decoration-accent decoration-8 underline-offset-4">Oujda</span>
+            </h1>
+            <p className="mt-5 max-w-lg text-base text-white/85 sm:text-lg">
+              Decouvrez les meilleurs restaurants de la ville et faites livrer vos plats favoris directement chez vous.
+            </p>
+            <div className="relative mt-9 max-w-xl">
+              <Search className="absolute left-5 top-1/2 size-5 -translate-y-1/2 text-muted-foreground" />
+              <input
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+                placeholder="Rechercher un restaurant ou un plat..."
+                className="h-15 w-full rounded-2xl bg-white pl-13 pr-4 text-base text-foreground shadow-2xl outline-none placeholder:text-muted-foreground focus:ring-4 focus:ring-white/30"
+              />
+            </div>
+            <div className="mt-5 flex flex-wrap gap-2.5">
+              <button onClick={() => { setQuery(''); setActiveCategory('Tous') }} className="rounded-full bg-white font-bold px-5 py-2 text-sm text-primary shadow-lg transition-transform hover:scale-105">Tous les restaurants</button>
+              <button onClick={() => { setTopRated(!topRated) }} className={`rounded-full px-5 py-2 text-sm font-semibold backdrop-blur-sm transition-all ${topRated ? 'bg-white text-primary' : 'bg-white/15 text-white hover:bg-white/25'}`}>⭐ Meilleures notes</button>
+            </div>
           </div>
         </div>
       </section>
 
       <section className="relative z-10 mx-auto max-w-6xl px-4 pt-10 sm:px-6">
         <div className="mb-6 flex items-center justify-between">
-          <h2 className="text-xl font-bold">Categories</h2>
+          <h2 className="text-2xl font-black tracking-tight">Categories</h2>
+          <span className="text-sm font-semibold text-muted-foreground">Glissez pour voir plus →</span>
         </div>
-        <div className="flex gap-4 overflow-x-auto pb-4 scrollbar-none">
+        <div className="flex gap-5 overflow-x-auto pb-4 scrollbar-none">
           <button
             onClick={() => setActiveCategory('Tous')}
-            className={`flex min-w-[80px] shrink-0 flex-col items-center gap-2.5 rounded-2xl p-3 transition-all ${activeCategory === 'Tous' ? 'bg-primary/10 text-primary ring-2 ring-primary/20' : 'bg-muted hover:bg-muted/80'}`}
+            className={`flex min-w-[84px] shrink-0 flex-col items-center gap-3 rounded-3xl p-3 transition-all ${activeCategory === 'Tous' ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-card border border-border hover:shadow-md'}`}
           >
-            <div className="flex size-14 items-center justify-center rounded-full bg-background text-2xl shadow-sm">🍽️</div>
-            <span className="text-xs font-semibold">Tous</span>
+            <div className="flex size-16 items-center justify-center rounded-full bg-background text-3xl shadow-sm">🍽️</div>
+            <span className="text-xs font-bold">Tous</span>
           </button>
           {categories.map(([name, emoji, image]) => (
             <button
               key={name}
               onClick={() => setActiveCategory(name)}
-              className={`flex min-w-[80px] shrink-0 flex-col items-center gap-2.5 rounded-2xl p-3 transition-all ${activeCategory === name ? 'bg-primary/10 text-primary ring-2 ring-primary/20' : 'bg-muted hover:bg-muted/80'}`}
+              className={`flex min-w-[84px] shrink-0 flex-col items-center gap-3 rounded-3xl p-3 transition-all ${activeCategory === name ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-card border border-border hover:shadow-md'}`}
             >
-              <div className="relative size-14 overflow-hidden rounded-full bg-background shadow-sm">
+              <div className="relative size-16 overflow-hidden rounded-full bg-muted shadow-sm">
                 <img src={image} alt="" className="size-full object-cover" />
               </div>
-              <span className="text-xs font-semibold">{name}</span>
+              <span className="text-xs font-bold">{name}</span>
             </button>
           ))}
         </div>
       </section>
 
-      <section className="relative z-10 mx-auto max-w-6xl px-4 pb-20 pt-6 sm:px-6">
-        <div className="mb-8 flex items-center justify-between">
-          <h2 className="text-2xl font-bold">
+      <section className="relative z-10 mx-auto max-w-6xl px-4 pb-20 pt-8 sm:px-6">
+        <div className="mb-8 flex items-end justify-between">
+          <h2 className="text-3xl font-black tracking-tight">
             {activeCategory !== 'Tous' ? activeCategory : 'Tous les etablissements'}
           </h2>
-          <span className="text-sm text-muted-foreground">{visibleRestaurants.length} restaurants</span>
+          <span className="text-sm font-semibold text-muted-foreground">{visibleRestaurants.length} restaurants</span>
         </div>
-        <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {visibleRestaurants.map((r: any, idx: number) => {
             const topRatedItem = Number(String(r.rating ?? '').replace('%', '')) >= 95
             return (
               <a
                 key={r.slug}
                 href={`/restaurant/${r.slug}`}
-                className="group block rounded-2xl bg-card shadow-sm transition-all duration-300 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1"
+                className="group block overflow-hidden rounded-3xl bg-card shadow-sm ring-1 ring-border transition-all duration-300 hover:shadow-2xl hover:shadow-primary/10 hover:-translate-y-1.5"
                 style={{ animationDelay: `${idx * 50}ms` }}
               >
-                <div className="relative aspect-[16/10] overflow-hidden rounded-t-2xl bg-muted">
-                  <img src={r.image} alt={r.name} className="size-full object-cover transition-transform duration-500 group-hover:scale-105" />
+                <div className="relative aspect-[16/10] overflow-hidden bg-muted">
+                  <img src={r.image} alt={r.name} className="size-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/25 to-transparent" />
                   {r.promotion && (
                     <span className="absolute left-3 top-3 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground shadow-lg">
                       {r.promotion}
                     </span>
                   )}
-                  <div className="absolute right-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-xs font-bold backdrop-blur-sm">
+                  <div className="absolute right-3 top-3 rounded-full bg-white/95 px-3 py-1.5 text-xs font-black shadow-lg backdrop-blur-sm">
                     <Star className="mr-1 inline size-3.5 fill-amber-400 text-amber-400" />
                     {r.rating ?? '--'}
                   </div>
+                  {topRatedItem && (
+                    <span className="absolute bottom-3 left-3 rounded-full bg-amber-400 px-3 py-1 text-xs font-black text-black shadow-lg">⭐ Top Rated</span>
+                  )}
                 </div>
-                <div className="p-4">
+                <div className="p-5">
                   <div className="flex items-start justify-between gap-2">
-                    <h3 className="text-base font-bold leading-tight">{r.name}</h3>
-                    {topRatedItem && <span className="shrink-0 rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-bold text-primary">Top Rated</span>}
+                    <h3 className="text-lg font-black leading-tight">{r.name}</h3>
                   </div>
-                  <div className="mt-2 flex items-center gap-3 text-xs text-muted-foreground">
-                    <span className="flex items-center gap-1"><Clock className="size-3" /> 20-35 min</span>
-                    <span>Gratuit</span>
+                  <div className="mt-3 flex items-center gap-3 text-sm font-medium text-muted-foreground">
+                    <span className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1"><Clock className="size-3.5 text-primary" /> 20-35 min</span>
+                    <span className="rounded-full bg-muted px-3 py-1">Gratuit</span>
                     <span>{r.reviews} avis</span>
                   </div>
                 </div>
@@ -190,20 +200,20 @@ export default function HomeClient({ restaurants }: { restaurants: (FrontRestaur
         )}
       </section>
 
-      <footer className="relative z-10 border-t border-border bg-card/50 backdrop-blur-sm">
-        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+      <footer className="relative z-10 border-t border-border bg-card/60 backdrop-blur-md">
+        <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
           <div className="flex flex-col items-center justify-between gap-6 sm:flex-row">
             <div className="flex items-center gap-2.5">
-              <img src="/oujda-food-logo.svg" alt="" className="h-8 w-8" />
-              <span className="text-lg font-black">Oujda <span className="text-primary">Food</span></span>
+              <img src="/oujda-food-logo.svg" alt="" className="h-9 w-9" />
+              <span className="text-lg font-black">Oujda <span className="text-gradient-glovo">Food</span></span>
             </div>
-            <div className="flex gap-6 text-sm text-muted-foreground">
-              <span>A propos</span>
-              <span>Contact</span>
-              <span>Conditions</span>
-              <span>Confidentialite</span>
+            <div className="flex gap-6 text-sm font-medium text-muted-foreground">
+              <span className="cursor-pointer transition-colors hover:text-foreground">A propos</span>
+              <span className="cursor-pointer transition-colors hover:text-foreground">Contact</span>
+              <span className="cursor-pointer transition-colors hover:text-foreground">Conditions</span>
+              <span className="cursor-pointer transition-colors hover:text-foreground">Confidentialite</span>
             </div>
-            <div className="text-sm text-muted-foreground">Oujda, Maroc</div>
+            <div className="text-sm font-semibold text-muted-foreground">Oujda, Maroc</div>
           </div>
         </div>
       </footer>

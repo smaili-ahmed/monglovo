@@ -1,7 +1,7 @@
 'use client'
 
 import { useMemo, useState } from 'react'
-import { ChevronDown, CircleUserRound, MapPin, Search, ShoppingBag, X, Star, Clock, SlidersHorizontal } from 'lucide-react'
+import { ChevronDown, CircleUserRound, MapPin, Search, Star, Clock } from 'lucide-react'
 import type { FrontRestaurant } from '@/lib/restaurant-service'
 import ThreeDBackground from './ThreeDBackground'
 
@@ -35,16 +35,16 @@ export default function RestaurantsPage({ restaurants }: { restaurants: (FrontRe
     <main className="relative min-h-screen bg-background text-foreground">
       <ThreeDBackground intensity="light" />
 
-      <header className="relative z-10 mx-auto flex h-[72px] max-w-6xl items-center justify-between px-4 sm:px-6">
+      <header className="relative z-10 mx-auto flex h-[76px] max-w-6xl items-center justify-between px-4 sm:px-6">
         <a href="/" aria-label="Oujda Food" className="flex items-center gap-2.5">
-          <img src="/oujda-food-logo.svg" alt="" className="h-9 w-9" />
-          <span className="text-xl font-black tracking-tight">Oujda <span className="text-primary">Food</span></span>
+          <img src="/oujda-food-logo.svg" alt="" className="h-10 w-10" />
+          <span className="text-xl font-black tracking-tight">Oujda <span className="text-gradient-glovo">Food</span></span>
         </a>
         <div className="flex items-center gap-3">
-          <button className="flex items-center gap-2 rounded-full bg-muted px-4 py-2 text-sm font-bold transition-colors hover:bg-muted/80">
+          <button className="flex items-center gap-2 rounded-full border border-border bg-card px-4 py-2 text-sm font-bold shadow-sm transition-all hover:shadow-md">
             <MapPin className="size-4 text-primary" /> Oujda <ChevronDown className="size-3.5" />
           </button>
-          <a href="/" className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/20">
+          <a href="/" className="flex items-center gap-2 rounded-full bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground transition-all hover:bg-primary/90 hover:shadow-lg hover:shadow-primary/30">
             <CircleUserRound className="size-4" /> Connexion
           </a>
         </div>
@@ -56,15 +56,15 @@ export default function RestaurantsPage({ restaurants }: { restaurants: (FrontRe
           <span className="text-muted-foreground">/</span>
           <span className="font-medium text-muted-foreground">Restaurants</span>
         </div>
-        <h1 className="text-3xl font-black tracking-tight sm:text-4xl">Tous les restaurants</h1>
-        <p className="mt-2 text-muted-foreground">{visibleRestaurants.length} etablissements disponibles a Oujda</p>
+        <h1 className="text-4xl font-black tracking-tight sm:text-5xl">Tous les <span className="text-gradient-glovo">restaurants</span></h1>
+        <p className="mt-3 text-base font-medium text-muted-foreground">{visibleRestaurants.length} etablissements disponibles a Oujda</p>
       </section>
 
       <section className="relative z-10 mx-auto max-w-6xl px-4 pt-6 sm:px-6">
         <div className="flex gap-3 overflow-x-auto pb-3 scrollbar-none">
-          <button onClick={() => setActiveCategory('Tous')} className={`shrink-0 rounded-full px-5 py-2.5 text-sm font-semibold transition-all ${activeCategory === 'Tous' ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-muted hover:bg-muted/80'}`}>Tous</button>
+          <button onClick={() => setActiveCategory('Tous')} className={`shrink-0 rounded-full px-5 py-2.5 text-sm font-bold transition-all ${activeCategory === 'Tous' ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-card border border-border hover:shadow-md'}`}>Tous</button>
           {categories.map(([name, emoji]) => (
-            <button key={name} onClick={() => setActiveCategory(name)} className={`shrink-0 rounded-full px-5 py-2.5 text-sm font-semibold transition-all ${activeCategory === name ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-muted hover:bg-muted/80'}`}>
+            <button key={name} onClick={() => setActiveCategory(name)} className={`shrink-0 rounded-full px-5 py-2.5 text-sm font-bold transition-all ${activeCategory === name ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-card border border-border hover:shadow-md'}`}>
               {emoji} {name}
             </button>
           ))}
@@ -72,35 +72,38 @@ export default function RestaurantsPage({ restaurants }: { restaurants: (FrontRe
         <div className="mt-4 flex flex-wrap items-center gap-3">
           <div className="relative flex-1 sm:max-w-sm">
             <Search className="absolute left-4 top-1/2 size-4 -translate-y-1/2 text-muted-foreground" />
-            <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Rechercher un restaurant..." className="h-11 w-full rounded-2xl bg-muted pl-11 pr-4 text-sm outline-none transition-colors focus:ring-2 focus:ring-primary/30" />
+            <input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Rechercher un restaurant..." className="h-12 w-full rounded-2xl bg-card border border-border pl-12 pr-4 text-sm font-medium outline-none transition-all focus:ring-2 focus:ring-primary/30" />
           </div>
-          <button onClick={() => setTopRated(!topRated)} className={`flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition-all ${topRated ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-muted hover:bg-muted/80'}`}>
+          <button onClick={() => setTopRated(!topRated)} className={`flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-bold transition-all ${topRated ? 'bg-primary text-primary-foreground shadow-lg shadow-primary/20' : 'bg-card border border-border hover:shadow-md'}`}>
             <Star className="size-4" /> Meilleures notes
           </button>
         </div>
       </section>
 
       <section className="relative z-10 mx-auto max-w-6xl px-4 pb-20 pt-8 sm:px-6">
-        <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {visibleRestaurants.map((r: any, idx: number) => {
             const topRatedItem = Number(String(r.rating ?? '').replace('%', '')) >= 95
             return (
-              <a key={r.slug} href={`/restaurant/${r.slug}`} className="group block rounded-2xl bg-card shadow-sm transition-all duration-300 hover:shadow-xl hover:shadow-primary/5 hover:-translate-y-1">
-                <div className="relative aspect-[16/10] overflow-hidden rounded-t-2xl bg-muted">
-                  <img src={r.image} alt={r.name} className="size-full object-cover transition-transform duration-500 group-hover:scale-105" />
+              <a key={r.slug} href={`/restaurant/${r.slug}`} className="group block overflow-hidden rounded-3xl bg-card shadow-sm ring-1 ring-border transition-all duration-300 hover:shadow-2xl hover:shadow-primary/10 hover:-translate-y-1.5">
+                <div className="relative aspect-[16/10] overflow-hidden bg-muted">
+                  <img src={r.image} alt={r.name} className="size-full object-cover transition-transform duration-500 group-hover:scale-110" />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/25 to-transparent" />
                   {r.promotion && <span className="absolute left-3 top-3 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground shadow-lg">{r.promotion}</span>}
-                  <div className="absolute right-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-xs font-bold backdrop-blur-sm">
+                  <div className="absolute right-3 top-3 rounded-full bg-white/95 px-3 py-1.5 text-xs font-black shadow-lg backdrop-blur-sm">
                     <Star className="mr-1 inline size-3.5 fill-amber-400 text-amber-400" />{r.rating ?? '--'}
                   </div>
+                  {topRatedItem && (
+                    <span className="absolute bottom-3 left-3 rounded-full bg-amber-400 px-3 py-1 text-xs font-black text-black shadow-lg">⭐ Top Rated</span>
+                  )}
                 </div>
-                <div className="p-4">
+                <div className="p-5">
                   <div className="flex items-start justify-between gap-2">
-                    <h3 className="text-base font-bold leading-tight">{r.name}</h3>
-                    {topRatedItem && <span className="shrink-0 rounded-full bg-primary/10 px-2 py-0.5 text-[10px] font-bold text-primary">Top Rated</span>}
+                    <h3 className="text-lg font-black leading-tight">{r.name}</h3>
                   </div>
-                  <div className="mt-2 flex items-center gap-3 text-xs text-muted-foreground">
-                    <span className="flex items-center gap-1"><Clock className="size-3" /> 20-35 min</span>
-                    <span>Gratuit</span>
+                  <div className="mt-3 flex items-center gap-3 text-sm font-medium text-muted-foreground">
+                    <span className="flex items-center gap-1.5 rounded-full bg-muted px-3 py-1"><Clock className="size-3.5 text-primary" /> 20-35 min</span>
+                    <span className="rounded-full bg-muted px-3 py-1">Gratuit</span>
                     <span>{r.reviews} avis</span>
                   </div>
                 </div>
