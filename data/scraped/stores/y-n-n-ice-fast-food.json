@@ -1,0 +1,483 @@
+{
+  "slug": "y-n-n-ice-fast-food",
+  "name": "Y N N Ice Fast Food",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/y-n-n-ice-fast-food",
+  "rating": "91%",
+  "reviews": "150",
+  "cuisines": [
+    "Italian"
+  ],
+  "image": "/restaurants/y-n-n-ice-fast-food/cover.webp",
+  "logoUrl": "/restaurants/y-n-n-ice-fast-food/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Pizza Hawaïenne - Grande",
+          "description": "Blanc de poulet caramélisé, fromage, ananas, champignons",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__promotions__pizza-hawaienne-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages - Grande",
+          "description": "Fromages (bleu, brie, camembert, édam) et mozzarelle",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__promotions__pizza-4-fromages-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons - Moyenne",
+          "description": "Fromage, fruits de mer, bolognaise charcuterie, poulet",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__promotions__pizza-4-saisons-moyenne.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Pizza Fruits de Mer - Moyenne",
+          "description": "Fromage, crevettes, calmars, champignons, câpres, origan",
+          "price": 55.8,
+          "oldPrice": 62,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__top-sellers__pizza-fruits-de-mer-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons - Grande",
+          "description": "Fromage, fruits de mer, bolognaise charcuterie, poulet",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__top-sellers__pizza-4-saisons-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons - Moyenne",
+          "description": "Fromage, fruits de mer, bolognaise charcuterie, poulet",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__top-sellers__pizza-4-saisons-moyenne.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Summer Coca Cola Deals",
+      "products": [
+        {
+          "name": "Combo Pizza trio",
+          "description": "3x Pizzas (margharita, bolognaise, 4 saisons), 2x coca cola",
+          "price": 155.7,
+          "oldPrice": 173,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-pizza-trio.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Italiano",
+          "description": "Calzone, rations nuggets 6p, tiramisu, Coca cola",
+          "price": 127.8,
+          "oldPrice": 142,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-italiano.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Pizza Grande",
+          "description": "Pizza 4 saisons G, frites, Soda 1L",
+          "price": 125.1,
+          "oldPrice": 139,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-pizza-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Individuel Full",
+          "description": "Tacos viande hachée gratiné, ration nuggets 6p, frites, tiramisu, coca cola",
+          "price": 113.4,
+          "oldPrice": 126,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-individuel-full.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Entre Amis",
+          "description": "2x tacos poulet, 2x frites, 2x coca cola",
+          "price": 109.8,
+          "oldPrice": 122,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-entre-amis.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Pizza Duo",
+          "description": "2x Pizzas (bolognaise, margharita), 2x coca cola",
+          "price": 106.2,
+          "oldPrice": 118,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-pizza-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Combo Malin",
+          "description": "Tacos poulet, frite, coca cola, tiramisu",
+          "price": 66.6,
+          "oldPrice": 74,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__summer-coca-cola-deals__combo-malin.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Mixte Gratiné",
+          "description": "Viande hachée, poulet, frites, sauce fromagère",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-mixte-gratine.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "..Tacos Viande Hachée",
+          "price": 34.2,
+          "oldPrice": 38,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nugget",
+          "description": "..Tacos Nugget",
+          "price": 34.2,
+          "oldPrice": 38,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-nugget.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "..Tacos Cordon Bleu",
+          "price": 34.2,
+          "oldPrice": 38,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "..Tacos Mixte",
+          "price": 34.2,
+          "oldPrice": 38,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet",
+          "description": "Poulet, frites, sauce fromagère",
+          "price": 31.5,
+          "oldPrice": 35,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__tacos__tacos-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "Chikenn Burger",
+          "description": "Chikenn Burge.r",
+          "price": 31.5,
+          "oldPrice": 35,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__burgers__chikenn-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcio",
+      "products": [
+        {
+          "name": "Pasticcio Fruits De Mer",
+          "description": "Fruits de mer, frites, sauce béchamel, fromage",
+          "price": 44.1,
+          "oldPrice": 49,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pasticcio__pasticcio-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Poulet",
+          "description": "Pasticcio Poulet",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pasticcio__pasticcio-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Charcuterie",
+          "description": "Pasticcio Charcuterie",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pasticcio__pasticcio-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Viande Hachée",
+          "description": "....'.......",
+          "price": 36,
+          "oldPrice": 40,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pasticcio__pasticcio-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Poulet",
+          "description": "...................................j",
+          "price": 36,
+          "oldPrice": 40,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pasticcio__pasticcio-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza - Moyennes",
+      "products": [
+        {
+          "name": "Pizza Fruits de Mer - Moyenne",
+          "description": "Fromage, crevettes, calmars, champignons, câpres, origan",
+          "price": 55.8,
+          "oldPrice": 62,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-fruits-de-mer-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages - Moyenne",
+          "description": "Fromages (bleu, brie, camembert, édam) et mozzarelle",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-4-fromages-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons - Moyenne",
+          "description": "Fromage, fruits de mer, bolognaise charcuterie, poulet",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-4-saisons-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza YNN - Moyenne",
+          "description": "Fromages, crevettes, calamars, champignons, surimi, poulet, charcuterie, basilic, viande hachée",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-ynn-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Calzone",
+          "description": "Sauce tomate, poulet, viande hachée, champignons, poivrons, fromage",
+          "price": 53.1,
+          "oldPrice": 59,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__calzone.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Légumes - Moyenne",
+          "description": "Fromages, légumes de saisons variés",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-4-legumes-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Mario Altono - Moyenne",
+          "description": "Fromages, thon Mario, poivrons vert, tomates cerises",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-mario-altono-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Hawaïenne - Moyenne",
+          "description": "Blanc de poulet caramélisé, fromage, ananas, champignons",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-hawaienne-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Porto Fino - Moyenne",
+          "description": "Fromage, boulettes de viande hachée, œuf olives noires, poivron vert et rouge",
+          "price": 49.5,
+          "oldPrice": 55,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-porto-fino-moyenne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margarita - Moyenne",
+          "description": "Fromages, olives noires, tomates cerises, basilic",
+          "price": 37.8,
+          "oldPrice": 42,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-moyennes__pizza-margarita-moyenne.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza - Grandes",
+      "products": [
+        {
+          "name": "Pizza YNN - Grande",
+          "description": "Fromages, crevettes, calamars, champignons, surimi, poulet, charcuterie, basilic, viande hachée",
+          "price": 62.1,
+          "oldPrice": 69,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-ynn-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits de Mer - Grande",
+          "description": "Fromage, crevettes, calmars, champignons, câpres, origan",
+          "price": 62.1,
+          "oldPrice": 69,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-fruits-de-mer-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages - Grande",
+          "description": "Fromages (bleu, brie, camembert, édam) et mozzarelle",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-4-fromages-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons - Grande",
+          "description": "Fromage, fruits de mer, bolognaise charcuterie, poulet",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-4-saisons-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Légumes - Grande",
+          "description": "Fromages, légumes de saisons variés",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-4-legumes-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Mario Altono - Grande",
+          "description": "Fromages, thon Mario, poivrons vert, tomates cerises",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-mario-altono-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Hawaïenne - Grande",
+          "description": "Blanc de poulet caramélisé, fromage, ananas, champignons",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-hawaienne-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Porto Fino - Grande",
+          "description": "Fromage, boulettes de viande hachée, œuf olives noires, poivron vert et rouge",
+          "price": 58.5,
+          "oldPrice": 65,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-porto-fino-grande.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margarita - Grande",
+          "description": "Fromages, olives noires, tomates cerises, basilic",
+          "price": 43.2,
+          "oldPrice": 48,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__pizza-grandes__pizza-margarita-grande.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "products": [
+        {
+          "name": "Coca Cola 25cl",
+          "description": "25cl",
+          "price": 13.5,
+          "oldPrice": 15,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__soda__coca-cola-25cl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "products": [
+        {
+          "name": "tiramisu lotus",
+          "description": null,
+          "price": 25.2,
+          "oldPrice": 28,
+          "discount": 10,
+          "image": "/restaurants/y-n-n-ice-fast-food/products/y-n-n-ice-fast-food__dessert__tiramisu-lotus.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 257141,
+  "scrapedAt": "2026-08-24T10:36:12.512Z"
+}

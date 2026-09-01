@@ -1,0 +1,1663 @@
+{
+  "slug": "asian-nijiri-house",
+  "name": "Tapas",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/asian-nijiri-house",
+  "rating": "92%",
+  "reviews": "16",
+  "cuisines": [
+    "Asian",
+    "Sushi"
+  ],
+  "image": "/restaurants/asian-nijiri-house/cover.webp",
+  "logoUrl": "/restaurants/asian-nijiri-house/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "BATEAUX VIP 80P",
+          "description": null,
+          "price": 810,
+          "oldPrice": 900,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__promotions__bateaux-vip-80p.webp",
+          "available": true
+        },
+        {
+          "name": "BATEAUX GOLD 100P",
+          "description": null,
+          "price": 972,
+          "oldPrice": 1080,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__promotions__bateaux-gold-100p.webp",
+          "available": true
+        },
+        {
+          "name": "BATEAUX SILVER 50P",
+          "description": null,
+          "price": 486,
+          "oldPrice": 540,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__promotions__bateaux-silver-50p.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "ASSORTIMENT CLASSIC 20 PIECES",
+          "description": "6 fry ebi fry 4 Ebi fry 4 cream cheese 6 maki saumon",
+          "price": 138,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__top-sellers__assortiment-classic-20-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soupes",
+      "products": [
+        {
+          "name": "SOUPE TOM YUM",
+          "description": "patte tom yum, crevette, champignon frais oignon, tomate cerise, citronnelle",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__soupes__soupe-tom-yum.webp",
+          "available": true
+        },
+        {
+          "name": "SOUPE ROYAL",
+          "description": "crevette, calamar, poisson blanc,champignon frais, champignon noir , vermicelle",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__soupes__soupe-royal.webp",
+          "available": true
+        },
+        {
+          "name": "SOUPE FRUIT DE MER",
+          "description": "crevette. poisson blanc. calamar. champignons frais. champignon noirs. gingembre",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__soupes__soupe-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "SOUPE VIET",
+          "description": "Crevette, boulette de poulet champignon noir, vermicelle",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__soupes__soupe-viet.webp",
+          "available": true
+        },
+        {
+          "name": "TOM KA KAY",
+          "description": "poulet. champignon frais. lait de coco. citronnelle",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__soupes__tom-ka-kay.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "SALADE FRUITS DE MER",
+          "description": null,
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "SALADE VIETNAM",
+          "description": "salade, choux, carotte, crevettes, poulet, mangue, avocat, maÏs",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-vietnam.webp",
+          "available": true
+        },
+        {
+          "name": "SALADE POULET",
+          "description": "salade, choux, carotte, POULET pané mangue, CONCOMBRE, avocat",
+          "price": 79,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "SALADE WAKAMI SAUMON",
+          "description": "salade, goma wakamé, saumon avocat",
+          "price": 79,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-wakami-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "SALADE FROMAGE",
+          "description": "salade, choux, carotte, GOUDA pané mangue, CONCOMBRE, avocat",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "SALADE EXOTIQUE",
+          "description": "salade, choux, carotte, crevettes panées mangue, ananas, surimi, avocat",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__salades__salade-exotique.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poke Bowl",
+      "products": [
+        {
+          "name": "POKE BOWL CREVETTES",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__poke-bowl__poke-bowl-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "POKE BOWL SAUMON",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__poke-bowl__poke-bowl-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "POKE BOWL POULET",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__poke-bowl__poke-bowl-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tartare",
+      "products": [
+        {
+          "name": "TARTARE SAUMON",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__tartare__tartare-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "TARTARE CREVETTE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__tartare__tartare-crevette.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "TARTARE TROPICAL",
+      "products": [
+        {
+          "name": "TARTARE TROPICAL",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__tartare-tropical__tartare-tropical.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les Entrées Chaudes",
+      "products": [
+        {
+          "name": "CREVETTES PANNE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__crevettes-panne.webp",
+          "available": true
+        },
+        {
+          "name": "CROQUETTES SAUMON",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__croquettes-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "DYNAMITE POULET",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__dynamite-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "DYNAMITE CREVETTES",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__dynamite-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "NEMS CREVETTES",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__nems-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "nems poulet",
+          "description": null,
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-entrees-chaudes__nems-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "DIM SUM",
+      "products": [
+        {
+          "name": "DIM SUM CREVETTE",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__dim-sum__dim-sum-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "DIM SUM POULET",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__dim-sum__dim-sum-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Brochettes",
+      "products": [
+        {
+          "name": "BROCHETTES MIXTE",
+          "description": null,
+          "price": 119,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__brochettes-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "BROCHETTE SALMON",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__brochette-salmon.webp",
+          "available": true
+        },
+        {
+          "name": "BROCHETTE BOEUF FROMAGE PANE",
+          "description": null,
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__brochette-boeuf-fromage-pane.webp",
+          "available": true
+        },
+        {
+          "name": "BROCHETTE BOEUF FROMAGE",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__brochette-boeuf-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "BROCHETTE GAMBAS",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__brochette-gambas.webp",
+          "available": true
+        },
+        {
+          "name": "BOULETTES DE POULET",
+          "description": null,
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__brochettes__boulettes-de-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sashimi",
+      "products": [
+        {
+          "name": "SASHIMI SAUMON",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sashimi__sashimi-saumon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tataki",
+      "products": [
+        {
+          "name": "TATAKI SAUMON",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__tataki__tataki-saumon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Temaki",
+      "products": [
+        {
+          "name": "TEMAKI CRABE",
+          "description": null,
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__temaki__temaki-crabe.webp",
+          "available": true
+        },
+        {
+          "name": "TEMAKI SAUMON",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__temaki__temaki-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "TEMAKI CREVETTES",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__temaki__temaki-crevettes.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Futomaki",
+      "products": [
+        {
+          "name": "FUTOMAKI CREVETTES",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__futomaki__futomaki-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "FUTOMAKI ANGUILLE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__futomaki__futomaki-anguille.webp",
+          "available": true
+        },
+        {
+          "name": "FUTOMAKI SAUMON",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__futomaki__futomaki-saumon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nigiri",
+      "products": [
+        {
+          "name": "NIGIRI ANGUILLE",
+          "description": null,
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nigiri__nigiri-anguille.webp",
+          "available": true
+        },
+        {
+          "name": "NIGIRI SAUMON BRAISE",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nigiri__nigiri-saumon-braise.webp",
+          "available": true
+        },
+        {
+          "name": "NIGIRI SAUMON",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nigiri__nigiri-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "NIGIRI CREVETTES",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nigiri__nigiri-crevettes.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Maki",
+      "products": [
+        {
+          "name": "MAKI ANGUILLE",
+          "description": null,
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-anguille.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI SAUMON AVOCAT",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-saumon-avocat.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI CREVETTE",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI SAUMON",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI SURIMI",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-surimi.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI AVOCAT",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-avocat.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI CONCOMBRE",
+          "description": null,
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki__maki-concombre.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Aromakis",
+      "products": [
+        {
+          "name": "AROMAKIS HAWAI",
+          "description": null,
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-hawai.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS NEW YORK",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-new-york.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS SAUMON",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS SPRING EBI",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-spring-ebi.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS SAUMON WAKAME",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-saumon-wakame.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS SPRING POULET",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-spring-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKIS CREVETTE",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromakis__aromakis-crevette.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "aromaki shaki yaki",
+      "products": [
+        {
+          "name": "aromaki shaki yaki",
+          "description": null,
+          "price": 82,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aromaki-shaki-yaki__aromaki-shaki-yaki.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "California Rolls",
+      "products": [
+        {
+          "name": "CALIFORNIA ROLLS CRUNCHY SAUMON",
+          "description": "saumon pané, cheese, panoké",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-crunchy-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS NORVEGIAN",
+          "description": "crevettes panées, avocat, cheese,saumon",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-norvegian.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS SHAKE YAKE",
+          "description": "saumon cuit, avocat, tobiko",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-shake-yake.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS CREAM CHEESE",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-cream-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS CRUNCHY CREVETTE",
+          "description": "double crevette panée, cheesepanoké",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-crunchy-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS SAUMON AVOCAT",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-saumon-avocat.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS EBI FRY",
+          "description": "crevettes panées, avocat, cheese ciboulette",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-ebi-fry.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS EBI TOBIKO",
+          "description": "crevette panées, avocat,cheese tobiko",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-ebi-tobiko.webp",
+          "available": true
+        },
+        {
+          "name": "CALIFORNIA ROLLS CLASSIQUE",
+          "description": "surimi, avocat, concombre, tobiko",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__california-rolls__california-rolls-classique.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Speciaux",
+      "products": [
+        {
+          "name": "TIGER",
+          "description": "crevette pané, surimi, cheese, tobiko, crabe",
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__tiger.webp",
+          "available": true
+        },
+        {
+          "name": "HAVANA",
+          "description": "saumon pané, crevette panée mangue, saumon cheese tobiko",
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__havana.webp",
+          "available": true
+        },
+        {
+          "name": "ANACONDA",
+          "description": "thon rouge, crevette panée, unagille goma wakamé, cheese",
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__anaconda.webp",
+          "available": true
+        },
+        {
+          "name": "KING CRABE",
+          "description": "crabe, crevettes panées, avocat, saumon, cheese tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__king-crabe.webp",
+          "available": true
+        },
+        {
+          "name": "MANILLE",
+          "description": "saumon pané, crevette pané, fromage brie, banane, cheese",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__manille.webp",
+          "available": true
+        },
+        {
+          "name": "BANGKOK",
+          "description": "thon rouge, crevette, concombre, goma wakamé, cheese",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__bangkok.webp",
+          "available": true
+        },
+        {
+          "name": "IBIZA",
+          "description": "crevette panée, avocat, cheesetobiko, thon rouge, episy",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__ibiza.webp",
+          "available": true
+        },
+        {
+          "name": "JAKARTA",
+          "description": "tobiko, thon rouge, episy crevette panée, avocat, cheese tobiko, saumon, episy",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__jakarta.webp",
+          "available": true
+        },
+        {
+          "name": "TOKYO",
+          "description": "surimi pané, saumon fumé, mangue, cheese tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__tokyo.webp",
+          "available": true
+        },
+        {
+          "name": "RAINBOW",
+          "description": "crabe, avocat, cheese, mangue, crevette, saumon",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__rainbow.webp",
+          "available": true
+        },
+        {
+          "name": "OSLO",
+          "description": "crevette panée, saumon fumé surimi, mangue, cheese tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__oslo.webp",
+          "available": true
+        },
+        {
+          "name": "OSAKA",
+          "description": "crevette panée, surimi pané, crabe, cheese tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__osaka.webp",
+          "available": true
+        },
+        {
+          "name": "NEW YORK",
+          "description": "saumon pané, cheese, crevette tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__new-york.webp",
+          "available": true
+        },
+        {
+          "name": "HAWAI",
+          "description": "avocat, crevette panée, crabe, mangue, cheese, tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__speciaux__hawai.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "FRESH ROLL SAUMON",
+      "products": [
+        {
+          "name": "FRESH ROLL SAUMON",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "FRESH ROLL CREVETTE",
+      "products": [
+        {
+          "name": "FRESH ROLL CREVETTE",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "FRESH ROLL CRABE",
+      "products": [
+        {
+          "name": "FRESH ROLL CRABE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "FRESH ROLL OKINAWA",
+      "products": [
+        {
+          "name": "FRESH ROLL OKINAWA",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Crispy",
+      "products": [
+        {
+          "name": "CRISPY VOLCANO",
+          "description": null,
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-volcano.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY DOUBLE GAMBAS",
+          "description": null,
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-double-gambas.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY AROMAKI PANE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-aromaki-pane.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY DRAGON EYE",
+          "description": null,
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-dragon-eye.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY SALAMON FRY",
+          "description": null,
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-salamon-fry.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY CASABLANCA",
+          "description": null,
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-casablanca.webp",
+          "available": true
+        },
+        {
+          "name": "CRISPY FRY EBI FRY",
+          "description": null,
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__crispy__crispy-fry-ebi-fry.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Maki Crispy",
+      "products": [
+        {
+          "name": "MAKI CRISPY CRABE",
+          "description": "crabe mariné, fromage gouda",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki-crispy__maki-crispy-crabe.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI CRISPY CREVETTES",
+          "description": "crevettes marinées, fromage gouda",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki-crispy__maki-crispy-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI CRISPY SAUMON",
+          "description": "saumon episy, fromage gouda",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki-crispy__maki-crispy-saumon.webp",
+          "available": true
+        },
+        {
+          "name": "MAKI CRISPY SURIMI",
+          "description": "surimi mariné, fromage gouda",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__maki-crispy__maki-crispy-surimi.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza",
+      "products": [
+        {
+          "name": "PIZZA ANGUILLE",
+          "description": "saumon, anguille, avocat cheese tobiko",
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__pizza__pizza-anguille.webp",
+          "available": true
+        },
+        {
+          "name": "PIZZA ROYALE",
+          "description": "saumon, crabe, avocat, cheese tobiko",
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__pizza__pizza-royale.webp",
+          "available": true
+        },
+        {
+          "name": "PIZZA EBI MANGUE",
+          "description": "crevette ebi, mangue, surime, cheese tobiko",
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__pizza__pizza-ebi-mangue.webp",
+          "available": true
+        },
+        {
+          "name": "PIZZA SAUMON MOZZA",
+          "description": "saumon, mozarella,cheese tobiko",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__pizza__pizza-saumon-mozza.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nouilles",
+      "products": [
+        {
+          "name": "NOUILLES FRUITS DE MER",
+          "description": null,
+          "price": 120,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nouilles__nouilles-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "NOUILLES CREVETTES",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nouilles__nouilles-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "NOUILLES BŒUF",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nouilles__nouilles-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "NOUILLES POULET",
+          "description": null,
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__nouilles__nouilles-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Riz Cantonais",
+      "products": [
+        {
+          "name": "RIZ CONTONAIS FRUITS DE MER",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__riz-cantonais__riz-contonais-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "RIZ CONTONAIS CREVETTES",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__riz-cantonais__riz-contonais-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "RIZ CONTONAIS BŒUF",
+          "description": null,
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__riz-cantonais__riz-contonais-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "RIZ CONTONAIS POULET",
+          "description": null,
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__riz-cantonais__riz-contonais-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Vermicelles",
+      "products": [
+        {
+          "name": "VERMICELLES FRUITS DE MER",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__vermicelles__vermicelles-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "VERMICELLES BŒUF",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__vermicelles__vermicelles-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "VERMICELLES CREVETTE",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__vermicelles__vermicelles-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "VERMICELLES POULET",
+          "description": null,
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__vermicelles__vermicelles-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Aigre Doux",
+      "products": [
+        {
+          "name": "AIGRE DOUX FRUITS DE MER",
+          "description": null,
+          "price": 142,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aigre-doux__aigre-doux-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "AIGRE DOUX CREVETTE",
+          "description": null,
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aigre-doux__aigre-doux-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "AIGRE DOUX BOEUF",
+          "description": null,
+          "price": 119,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aigre-doux__aigre-doux-boeuf.webp",
+          "available": true
+        },
+        {
+          "name": "AIGRE DOUX POULET",
+          "description": null,
+          "price": 107,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__aigre-doux__aigre-doux-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sate",
+      "products": [
+        {
+          "name": "SATÉ FRUITS DE MER",
+          "description": null,
+          "price": 114,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sate__sate-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "SATÉ CREVETTE",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sate__sate-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "SATÉ BŒUF",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sate__sate-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "SATÉ POULET",
+          "description": null,
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sate__sate-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Curry Thai",
+      "products": [
+        {
+          "name": "CURRY THAI FRUITS DE MER",
+          "description": null,
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__curry-thai__curry-thai-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "CURRY THAI CREVETTE",
+          "description": null,
+          "price": 120,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__curry-thai__curry-thai-crevette.webp",
+          "available": true
+        },
+        {
+          "name": "CURRY THAI BŒUF",
+          "description": null,
+          "price": 108,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__curry-thai__curry-thai-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "CURRY THAI POULET",
+          "description": null,
+          "price": 96,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__curry-thai__curry-thai-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Les assortiments",
+      "products": [
+        {
+          "name": "ASSORTIMENT SMART CLUB 36 PIECE",
+          "description": "6 Salmon fry 6 aromaki saumon 4 FRESH EBI 4 Ebi FRY 4 CREAM CHEESE 6 Fry ebi fry 6 Aromaki panné",
+          "price": 382,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-smart-club-36-piece.webp",
+          "available": true
+        },
+        {
+          "name": "ASSORTIMENT  TASTY CLUB  34 PIECE",
+          "description": "6 aromaki saumon 4 fresh saumon 8 pizza royal 4 anaconda 4 king crabe 4 norvégian 4 osaka",
+          "price": 360,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-tasty-club-34-piece.webp",
+          "available": true
+        },
+        {
+          "name": "ASSORTIMENT FRESH CLUB 26 PIECES",
+          "description": "4 Saumon sésame 2 nigiri ebi 6 maki saumon 2 nigiri saumon 4 fresh saumon 4 shake yaki 4 ibiza",
+          "price": 260,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-fresh-club-26-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "ASSORTIMENT FRY LOVERS 26 PIECES",
+          "description": "8 Salmon mozza 6 salamon fry 6 fry ebi fry 6 aromaki pané",
+          "price": 210,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-fry-lovers-26-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "ASSORTIMENT CLASSIC 20 PIECES",
+          "description": "6 fry ebi fry 4 Ebi fry 4 cream cheese 6 maki saumon",
+          "price": 138,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-classic-20-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "ASSORTIMENT CRUNCHY 12 PIECES",
+          "description": "6 Fry ebi fry 6 Aromaki pané",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__les-assortiments__assortiment-crunchy-12-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bateaux",
+      "products": [
+        {
+          "name": "BATEAUX GOLD 100P",
+          "description": null,
+          "price": 972,
+          "oldPrice": 1080,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__bateaux__bateaux-gold-100p.webp",
+          "available": true
+        },
+        {
+          "name": "BATEAUX VIP 80P",
+          "description": null,
+          "price": 810,
+          "oldPrice": 900,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__bateaux__bateaux-vip-80p.webp",
+          "available": true
+        },
+        {
+          "name": "BATEAUX SILVER 50P",
+          "description": null,
+          "price": 486,
+          "oldPrice": 540,
+          "discount": 10,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__bateaux__bateaux-silver-50p.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "products": [
+        {
+          "name": "SALADE FRUITS",
+          "description": null,
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__desserts__salade-fruits.webp",
+          "available": true
+        },
+        {
+          "name": "BANOFIE PIE",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__desserts__banofie-pie.webp",
+          "available": true
+        },
+        {
+          "name": "AROMAKI NUTELLABANANE",
+          "description": null,
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__desserts__aromaki-nutellabanane.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "JUS D ANANAS",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-d-ananas.webp",
+          "available": true
+        },
+        {
+          "name": "JUS DE MANGUE ORANGE",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-de-mangue-orange.webp",
+          "available": true
+        },
+        {
+          "name": "JUS  PINA COLADA",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-pina-colada.webp",
+          "available": true
+        },
+        {
+          "name": "JUS DE CITRON GINGEMBRE",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-de-citron-gingembre.webp",
+          "available": true
+        },
+        {
+          "name": "JUS D ORANGE CAROTTE",
+          "description": null,
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-d-orange-carotte.webp",
+          "available": true
+        },
+        {
+          "name": "JUS D ORANGE",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-d-orange.webp",
+          "available": true
+        },
+        {
+          "name": "JUS DE CITRON",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus__jus-de-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "JUS MOJITO",
+      "products": [
+        {
+          "name": "JUS MOJITO",
+          "description": null,
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__jus-mojito__jus-mojito.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "EAU MINERALE",
+      "products": [
+        {
+          "name": "EAU MINERALE PETIT",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__eau-minerale__eau-minerale-petit.webp",
+          "available": true
+        },
+        {
+          "name": "EAU MINERALE GRAND",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__eau-minerale__eau-minerale-grand.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Coca Normal",
+      "products": [
+        {
+          "name": "Coca Normal",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__coca-normal__coca-normal.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sprite",
+      "products": [
+        {
+          "name": "Sprite",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__sprite__sprite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Coca Zero",
+      "products": [
+        {
+          "name": "Coca Zero",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__coca-zero__coca-zero.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "products": [
+        {
+          "name": "Hawaii",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__hawaii__hawaii.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Shweps Citron",
+      "products": [
+        {
+          "name": "Shweps Citron",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__shweps-citron__shweps-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poms",
+      "products": [
+        {
+          "name": "Poms",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__poms__poms.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Shweps Tonic",
+      "products": [
+        {
+          "name": "Shweps Tonic",
+          "description": null,
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/asian-nijiri-house/products/asian-nijiri-house__shweps-tonic__shweps-tonic.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 238997,
+  "scrapedAt": "2026-08-24T10:42:58.609Z"
+}

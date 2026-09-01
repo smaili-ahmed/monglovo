@@ -1,0 +1,110 @@
+{
+  "slug": "inyas-food-ojd",
+  "name": "Inyas Food",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/inyas-food-ojd",
+  "rating": "98%",
+  "reviews": "16",
+  "cuisines": [
+    "Tacos"
+  ],
+  "image": "/restaurants/inyas-food-ojd/cover.webp",
+  "logoUrl": "/restaurants/inyas-food-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Fruits De Mer",
+          "description": "Fruits de mer, sauce aux choix . Frite apart",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__tacos__tacos-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets .  sauce aux choix . Frite apart",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Viande hachée, sauce aux choix. Frite apart",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Dinde , viande hachée sauce aux choix . Frite apart",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Dinde, sauce aux choix . Frite apart",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Classique (25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__boissons__sprite-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Classique (25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__boissons__poms-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Orange - Classique (25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/inyas-food-ojd/products/inyas-food-ojd__boissons__fanta-orange-classique-25cl-canette.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 464634,
+  "scrapedAt": "2026-08-24T10:39:05.517Z"
+}

@@ -1,0 +1,677 @@
+{
+  "slug": "snack-au-regal-ojd",
+  "name": "Snack Au Regal",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/snack-au-regal-ojd",
+  "rating": "92%",
+  "reviews": "62",
+  "cuisines": [
+    "Pizza",
+    "Sandwich",
+    "Shawarma",
+    "Tacos"
+  ],
+  "image": "/restaurants/snack-au-regal-ojd/cover.webp",
+  "logoUrl": "/restaurants/snack-au-regal-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Sauce tomate, mozzarella, fruits de mer, champignons, câpres",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__top-sellers__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Chawarma Mixte",
+          "description": "Galette de blé, dinde, viande hachée, salade, tomate, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__top-sellers__chawarma-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Tortilla, viande hachée, dinde, frites, fromage, salade, sauce",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__top-sellers__tacos-mixte.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwich",
+      "products": [
+        {
+          "name": "Sandwich Fromage Œuf Jumbo",
+          "description": "Pain, fromage, œuf, jambon, purée, salade, cornichons",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__sandwich__sandwich-fromage-uf-jumbo.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Jumbo Dinde",
+          "description": "Pain, jambon de dinde, salade, purée, cornichons, olives",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__sandwich__sandwich-jumbo-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Œuf Fromage",
+          "description": "Pain, œuf, fromage, salade, purée, cornichons",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__sandwich__sandwich-uf-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Fromage Thon",
+          "description": "Pain, fromage, thon, cornichons, carottes, purée",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__sandwich__sandwich-fromage-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Normal",
+          "description": "Pain, purée, thon, oignons, salade, cornichons",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__sandwich__sandwich-normal.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Paninis",
+      "products": [
+        {
+          "name": "Panini Mixte",
+          "description": "Pain panini grillé, viande hachée, dinde, fromage, sauce, salade",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__paninis__panini-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panini Fruit De Mer",
+          "description": "Pain panini grillé, fruits de mer, fromage, sauce, salade",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Panini Viande Hachée",
+          "description": "Pain panini grillé, viande hachée, fromage, sauce, salade",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Panini Dinde",
+          "description": "Pain panini grillé, dinde, fromage, sauce, salade",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__paninis__panini-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Frite",
+          "description": "Frites",
+          "price": 14,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__paninis__plat-frite.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos Gratiné",
+      "products": [
+        {
+          "name": "Tacos Gratiné Fruits De Mer",
+          "description": "Tacos gratiné au four, fruits de mer, fromage",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos-gratine__tacos-gratine-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné Mixte",
+          "description": "Tacos gratiné au four, viande hachée, dinde, fromage",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos-gratine__tacos-gratine-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné Viande Hachée",
+          "description": "Tacos gratiné au four, viande hachée, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos-gratine__tacos-gratine-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Gratiné Dinde",
+          "description": "Tacos gratiné au four, dinde, fromage",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos-gratine__tacos-gratine-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Xl Mixte",
+          "description": "Grande tortilla, viande hachée, dinde, frites, fromage, salade, sauce",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-xl-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Xl Dinde",
+          "description": "Grande tortilla, dinde, frites, fromage, salade, sauce",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-xl-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Fruit De Mer",
+          "description": "Tortilla, fruits de mer, frites, fromage, salade, sauce",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Tortilla, viande hachée, frites, fromage, salade, sauce",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Tortilla, nuggets de poulet, frites, fromage, salade, sauce",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Tortilla, viande hachée, dinde, frites, fromage, salade, sauce",
+          "price": 43,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Tortilla, dinde, frites, fromage, salade, sauce",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Au Régal",
+          "description": "Pomme de terre, thon, tomates, carottes, avocat, dinde, salade verte",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__salades__salade-au-regal.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Rosa",
+          "description": "Riz, crevettes, thon, fromage, salade verte",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__salades__salade-rosa.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Spécial",
+          "description": "Riz, fromage, thon, maïs, salade verte, olives",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__salades__salade-special.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Variée",
+          "description": "Salade verte, tomates, oignons, maïs, concombres",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__salades__salade-variee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Sauce tomate, mozzarella, viande hachée, champignons, dinde, thon",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "Sauce tomate, mozzarella, fruits de mer, champignons, câpres",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon",
+          "description": "Sauce tomate, mozzarella, thon, fromage",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Catalan",
+          "description": "Sauce tomate, mozzarella, viande hachée, dinde",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-catalan.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Piscito",
+          "description": "Sauce tomate, mozzarella, dinde, champignons, jumbo dinde",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-piscito.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Au Régal",
+          "description": "Sauce tomate, mozzarella, viande hachée, dinde, surimi",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-au-regal.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Napolitaine",
+          "description": "Sauce tomate, mozzarella, olives, champignons",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-napolitaine.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margarita",
+          "description": "Sauce tomate, mozzarella, olives, herbes de Provence",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pizzas__pizza-margarita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Chawarmas",
+      "products": [
+        {
+          "name": "Chawarma Fruit De Mer",
+          "description": "Galette de blé, fruits de mer, salade, tomate, sauce",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__chawarmas__chawarma-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Chawarma Mixte",
+          "description": "Galette de blé, dinde, viande hachée, salade, tomate, sauce",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__chawarmas__chawarma-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Chawarma Dinde",
+          "description": "Viande de dinde grillée, légumes, sauce. Allergènes",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__chawarmas__chawarma-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Chawarma Viande Hachée",
+          "description": "Galette de blé, viande hachée, salade, tomate, sauce",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__chawarmas__chawarma-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Plat Viande Hachée",
+          "description": "Viande hachée, frites, salade",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__plats__plat-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Nuggets",
+          "description": "Nuggets de poulet, frites, salade",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__plats__plat-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Mixte",
+          "description": "Assortiment de dinde et de viande hachée, frites, salade",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__plats__plat-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Plat Dinde",
+          "description": "Dinde, frites, salade",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__plats__plat-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcio",
+      "products": [
+        {
+          "name": "Gratin Fruit De Mer",
+          "description": "Fruits de mer, crevettes, fromage",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pasticcio__gratin-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Fruit De Mer",
+          "description": "Pâtes, fruits de mer, sauce",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pasticcio__pasticcio-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Mixte",
+          "description": "Pâtes, dinde, viande hachée, sauce",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pasticcio__pasticcio-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "Pâtes, dinde, sauce",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pasticcio__pasticcio-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Viande Hachée",
+          "description": "Pâtes, viande hachée, sauce",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__pasticcio__pasticcio-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Panzerotti",
+      "products": [
+        {
+          "name": "Panzerotti Fruits De Mer",
+          "description": "Chausson frit, fruits de mer, fromage",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__panzerotti__panzerotti-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Panzerotti Mixte",
+          "description": "Chausson frit, viande hachée, dinde, fromage",
+          "price": 51,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__panzerotti__panzerotti-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panzerotti Viande Hachée",
+          "description": "Chausson frit, viande hachée, fromage",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__panzerotti__panzerotti-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Panzerotti Dinde",
+          "description": "Chausson frit, dinde, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__panzerotti__panzerotti-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Dessert",
+      "products": [
+        {
+          "name": "Salade Fruits",
+          "description": "Assortiment de fruits de saison",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__dessert__salade-fruits.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Jus D'orange",
+          "description": "Orange",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Jus De Banane",
+          "description": "Banane",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__jus__jus-de-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'avocat",
+          "description": "Avocat",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__jus__jus-davocat.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Citron",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__jus__jus-de-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Pomme",
+          "description": "Pomme",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__jus__jus-de-pomme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Zero ( 33cl )",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__coca-cola-zero-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique ( 33cl )",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__coca-cola-classique-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï - Tropical ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__hawai-tropical-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__sprite-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Orange  (33 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__fanta-orange-33-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali - ( 33cl ) Bouteille",
+          "description": "Eau minérale",
+          "price": 4,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-au-regal-ojd/products/snack-au-regal-ojd__boissons__sidi-ali-33cl-bouteille.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 540751,
+  "scrapedAt": "2026-08-24T10:33:30.271Z"
+}

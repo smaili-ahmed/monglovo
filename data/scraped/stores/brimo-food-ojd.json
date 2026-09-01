@@ -1,0 +1,776 @@
+{
+  "slug": "brimo-food-ojd",
+  "name": "Brimo Chicken",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/brimo-food-ojd",
+  "rating": "92%",
+  "reviews": "500+",
+  "cuisines": [
+    "Chicken",
+    "Sandwich"
+  ],
+  "image": "/restaurants/brimo-food-ojd/cover.webp",
+  "logoUrl": "/restaurants/brimo-food-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Menu B-Tacos",
+          "description": "B-Tacos frites, boisson au choix",
+          "price": 73.01,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__promotions__menu-b-tacos.webp",
+          "available": true
+        },
+        {
+          "name": "Le Gourmet",
+          "description": "Mac & cheese chicanos , menu soda, chicken burger",
+          "price": 130.05,
+          "oldPrice": 153,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__promotions__le-gourmet.webp",
+          "available": true
+        },
+        {
+          "name": "Twin Meal",
+          "description": "2 Chicken burger , salade colslow, 6 piece sticky wings, frites, soda 1l",
+          "price": 204,
+          "oldPrice": 240,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__promotions__twin-meal.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Menu  B-chicken",
+          "description": "Sandwich B-Chicken servi avec frites et boisson au choix !",
+          "price": 73.1,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__top-sellers__menu-b-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "4-Mix",
+          "description": "Dinde, kefta, tenders, dinde fumée, frites, sauce fromagère",
+          "price": 77,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__top-sellers__4-mix.webp",
+          "available": true
+        },
+        {
+          "name": "Menu B-Smoky",
+          "description": "Sandwich B-Smoky servi avec frites et boisson au choix !",
+          "price": 73.1,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__top-sellers__menu-b-smoky.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "B-Crousty",
+      "products": [
+        {
+          "name": "Thaisty",
+          "description": "Riz Basmati - Sauce Mystère - Tendets en Morceaux - Sauce Chilli Thai - Crispy oignon",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-crousty__thaisty.webp",
+          "available": true
+        },
+        {
+          "name": "Citruss Spicy",
+          "description": "Riz Basmati - Sauce Mystère - Tendets en Morceaux - Chilli Lemon - Crispy oignon",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-crousty__citruss-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Curry Crispy",
+          "description": "Riz Basmati - Sauce Mystère - Tendets en Morceaux - Curry - Crispy oignon",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-crousty__curry-crispy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salade",
+      "products": [
+        {
+          "name": "Salade Chicken",
+          "description": "Laitue - Tomate - Olive - Maïs\nCarottes râpées - Crispy chicken",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__salade__salade-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Macaroni",
+          "description": "Macaroni - maïs - Carottes râpées \nchou - Dinde fumée - marinée vinaigrette",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__salade__salade-macaroni.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Colslow",
+          "description": "chou blanc et violets - marinée vinaigrette",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__salade__salade-colslow.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "B-Box",
+      "products": [
+        {
+          "name": "Family Team",
+          "description": "Pockito , swiss wrap, mac & kefta, 6 piece sticky wings, 2 frites, soda 1",
+          "price": 283.9,
+          "oldPrice": 334,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-box__family-team.webp",
+          "available": true
+        },
+        {
+          "name": "Twin Meal",
+          "description": "2 Chicken burger , salade colslow, 6 piece sticky wings, frites, soda 1l",
+          "price": 204,
+          "oldPrice": 240,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-box__twin-meal.webp",
+          "available": true
+        },
+        {
+          "name": "L's7ab",
+          "description": "Poutine mix , mac & cheese, chicanos, soda 1l, frites",
+          "price": 177.23,
+          "oldPrice": 208.5,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-box__ls7ab.webp",
+          "available": true
+        },
+        {
+          "name": "Le Gourmet",
+          "description": "Mac & cheese chicanos , menu soda, chicken burger",
+          "price": 130.05,
+          "oldPrice": 153,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-box__le-gourmet.webp",
+          "available": true
+        },
+        {
+          "name": "Solo Crunchy",
+          "description": "2 Tenders, 2 hot wings, 2 drumstick, menu soda, salade colslow",
+          "price": 119,
+          "oldPrice": 140,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__b-box__solo-crunchy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Menus Exclusifs",
+      "products": [
+        {
+          "name": "Menu Swiss Wrap",
+          "description": "Sandwich Swiss Wrap servi avec frites et boisson au choix !",
+          "price": 85.85,
+          "oldPrice": 101,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-swiss-wrap.webp",
+          "available": true
+        },
+        {
+          "name": "Menu B-Fold",
+          "description": "B-Fold, Frites, Boisson au choix",
+          "price": 85.85,
+          "oldPrice": 101,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-b-fold.webp",
+          "available": true
+        },
+        {
+          "name": "Menu B-Spicy",
+          "description": "B-Spicy, Frites, Boisson au choix",
+          "price": 79.9,
+          "oldPrice": 94,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-b-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Menu  B-chicken",
+          "description": "Sandwich B-Chicken servi avec frites et boisson au choix !",
+          "price": 73.1,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-b-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Menu B-Smoky",
+          "description": "Sandwich B-Smoky servi avec frites et boisson au choix !",
+          "price": 73.1,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-b-smoky.webp",
+          "available": true
+        },
+        {
+          "name": "Menu B-Tacos",
+          "description": "B-Tacos frites, boisson au choix",
+          "price": 73.01,
+          "oldPrice": 86,
+          "discount": 15,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__nos-menus-exclusifs__menu-b-tacos.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Fried Chicken Style",
+      "products": [
+        {
+          "name": "Family Bucket - 24 pièces",
+          "description": "8 tenders + 8 wings + 8 drumsticks + 3 frites +  2 boisson 1L",
+          "price": 326,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__family-bucket-24-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Family Bucket - 18 Pièces",
+          "description": "6 tenders + 6 wings + 6 drumsticks + 2 frites +  boisson 1L",
+          "price": 273,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__family-bucket-18-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Tenders - 8 Pièces",
+          "description": "Filet de Poulet",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__tenders-8-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Wings - 12 Pièces",
+          "description": "Ailes de Poulet",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__wings-12-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Drumstick - 4 Pièces",
+          "description": "Cuisse de Poulet",
+          "price": 73,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__drumstick-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Tenders - 4 Pièces",
+          "description": "Filet De Poulet",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__tenders-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Wings - 6 Pièces",
+          "description": "Ailes De Poulet",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__wings-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Drumstick - 2 Pièces",
+          "description": "Cuisse De Poulet",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-style__drumstick-2-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Fried Chicken Sandwiches",
+      "products": [
+        {
+          "name": "B-Spicy",
+          "description": "Pain long - Salade - Tomate - Tenders - Fromage Cheddar - Cornichon - Jalapinos - Sauce Algerienne",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-sandwiches__b-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "B-Chicken",
+          "description": "Tenders, Laitue, Tomate, Fromage Cheddar, Sauce Magic, Oignon",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-sandwiches__b-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "B-Smoky",
+          "description": "Tenders, Laitue, Tomate, Dinde Fumée, Sauce Barbecue",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__fried-chicken-sandwiches__b-smoky.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "products": [
+        {
+          "name": "Biggest",
+          "description": "Big Buns, Double Tenders, Fromage Cheddar, Laitue, Sauce Oignon",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__crispy-chicken-burger__biggest.webp",
+          "available": true
+        },
+        {
+          "name": "Rosti Chicken",
+          "description": "Big Buns, Tenders, Pomme De Terre Rosti, Fromage Cheddar, Laitue, Sauce Oignon",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__crispy-chicken-burger__rosti-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Big Buns, Tenders, Fromage Cheddar, Laitue, Sauce Magic, Oignon",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__crispy-chicken-burger__chicken-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Pockito",
+          "description": "Tenders, Steak Viande Hachée100g, Pomme De Terre Rosti, Laitue, Tomate, Fromage Cheddar, Sauce, Oignon",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__wraps__pockito.webp",
+          "available": true
+        },
+        {
+          "name": "Swiss Wrap",
+          "description": "Tenders, Pomme De Terre Rosti, Laitue, Tomate, Fromage Cheddar, Sauce Bbq, Mayonnaise",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__wraps__swiss-wrap.webp",
+          "available": true
+        },
+        {
+          "name": "B-Fold",
+          "description": "Tortilla - Laitue - Tenders - cornichon - Fromage Cheddar - Sauce",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__wraps__b-fold.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smash Burger",
+      "products": [
+        {
+          "name": "B-Hattrick",
+          "description": "Pain gourmet, steak kefta 300g, laitue, oignon caramelisé, champignon, bacon, fromage cheddar, sauce biggy",
+          "price": 100,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__smash-burger__b-hattrick.webp",
+          "available": true
+        },
+        {
+          "name": "B-Tower",
+          "description": "Pain gourmet, steak kefta 200g, laitue, oignon caramelisé, champignon, bacon, fromage cheddar, sauce biggy",
+          "price": 86,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__smash-burger__b-tower.webp",
+          "available": true
+        },
+        {
+          "name": "B-One",
+          "description": "Pain gourmet, steak kefta 100g, laitue, oignon caramelisé, champignon bacon, fromage cheddar, sauce biggy",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__smash-burger__b-one.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Classic Burgers",
+      "products": [
+        {
+          "name": "American Burger",
+          "description": "Big buns, steak kefta 100g, laitue, tomate, fromage cheddar, bacon, sauce biggy",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__classic-burgers__american-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Texas Burger",
+          "description": "Big buns, steak kefta 100g, laitue, tomate fromage cheddar, sauce biggy",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__classic-burgers__texas-burger.webp",
+          "available": true
+        },
+        {
+          "name": "B-Cheese",
+          "description": "Big Buns, Steak Kefta 100g, Laitue, Tomate, Fromage Cheddar, Sauce Biggy",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__classic-burgers__b-cheese.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "4-Mix",
+          "description": "Dinde, kefta, tenders, dinde fumée, frites, sauce fromagère",
+          "price": 77,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__tacos__4-mix.webp",
+          "available": true
+        },
+        {
+          "name": "Tacomix",
+          "description": "Viande hachée, frites, sauce fromagère, dinde",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__tacos__tacomix.webp",
+          "available": true
+        },
+        {
+          "name": "Kentacos",
+          "description": "Frites, sauce fromagère, tenders",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__tacos__kentacos.webp",
+          "available": true
+        },
+        {
+          "name": "B-Tacos",
+          "description": "Frites, sauce fromagère, dinde",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__tacos__b-tacos.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mac & Cheese",
+      "products": [
+        {
+          "name": "Chicanos",
+          "description": "Macaroni, sauce fromage, tenders, jalapinos",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__mac-cheese__chicanos.webp",
+          "available": true
+        },
+        {
+          "name": "Mac & Kefta",
+          "description": "Macaroni, sauce fromage, viande hachée, oignon caramelisé",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__mac-cheese__mac-kefta.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Korean Fried Chicken Style",
+      "products": [
+        {
+          "name": "Sticky Wings Sweety BBQ 12 - Pièces",
+          "description": "Fried Wings sauté sauce BBQ",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-sweety-bbq-12-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Wings Volcano 12 - Pièces",
+          "description": "Fried wings sauté sauce BBQ",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-volcano-12-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Sweety Bbq 8 - Pièces",
+          "description": "Tenders sauté sauce BBQ",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-sweety-bbq-8-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Hot Chilli 8 - Pèces",
+          "description": "Tenders sauté sauce chilli thai",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-hot-chilli-8-peces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Curry 8 - Pièces",
+          "description": "Tenders sauté sauce curry",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-curry-8-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Wings Chilli Lemon 12 pcs",
+          "description": "12 Fried Wings Enrobé de sauce Chilli Lemon",
+          "price": 93,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-chilli-lemon-12-pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Wings Chilli Lemon 6pcs",
+          "description": "6 Fried Wings Enrobé de sauce Chilli Lemon",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-chilli-lemon-6pcs.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Wings Sweety BBQ 6 - Pièces",
+          "description": "Fried wings sauté sauce bbq",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-sweety-bbq-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Wings Volcano 6 - Pièces",
+          "description": "Fried wings sauté sauce chilli thai",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-wings-volcano-6-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Sweety Bbq 4 - Pièces",
+          "description": "Tenders sauté sauce bbq",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-sweety-bbq-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Hot Chilli 4 - Pièces",
+          "description": "Tenders sauté sauce chilli thai",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-hot-chilli-4-pieces.webp",
+          "available": true
+        },
+        {
+          "name": "Sticky Strips Curry 4 - Pièces",
+          "description": "Tenders sauté sauce curry",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__korean-fried-chicken-style__sticky-strips-curry-4-pieces.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poutine",
+      "products": [
+        {
+          "name": "Poutine Mix",
+          "description": "Frites, tenders, sauce fromage, dinde fumée",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__poutine__poutine-mix.webp",
+          "available": true
+        },
+        {
+          "name": "Crispy Poutine",
+          "description": "Frites, tenders, sauce fromage, crispy oignon",
+          "price": 67,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__poutine__crispy-poutine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Jus D'orange",
+          "description": "Orange",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__jus__jus-dorange.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Soda",
+      "products": [
+        {
+          "name": "Oasis - Tropical ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__oasis-tropical-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Oasis - Framboise ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__oasis-framboise-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pepsi - ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__pepsi-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda - Orange ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__mirinda-orange-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda - Pomme ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__mirinda-pomme-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda - Citron ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__mirinda-citron-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "7up - ( 33cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/brimo-food-ojd/products/brimo-food-ojd__soda__7up-33cl-canette.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 518984,
+  "scrapedAt": "2026-08-24T10:47:04.449Z"
+}

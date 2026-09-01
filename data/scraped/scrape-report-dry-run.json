@@ -1,0 +1,426 @@
+{
+  "city": "oujda",
+  "dryRun": true,
+  "results": [
+    {
+      "slug": "mcdonaldsr-ojd-ojd",
+      "status": "SUCCESS",
+      "categories": 12,
+      "products": 133
+    },
+    {
+      "slug": "mistral-club-ojd",
+      "status": "SUCCESS",
+      "categories": 20,
+      "products": 62
+    },
+    {
+      "slug": "makdal-oujda-ojd",
+      "status": "SUCCESS",
+      "categories": 15,
+      "products": 95
+    },
+    {
+      "slug": "city-meal-ojd",
+      "status": "SUCCESS",
+      "categories": 12,
+      "products": 43
+    },
+    {
+      "slug": "pizza-hut-ojd1",
+      "status": "SUCCESS",
+      "categories": 23,
+      "products": 105
+    },
+    {
+      "slug": "blankok-burger-ojd",
+      "status": "SUCCESS",
+      "categories": 21,
+      "products": 104
+    },
+    {
+      "slug": "dc-chicken-ojd",
+      "status": "SUCCESS",
+      "categories": 13,
+      "products": 46
+    },
+    {
+      "slug": "la-pelle-a-pizza",
+      "status": "SUCCESS",
+      "categories": 16,
+      "products": 57
+    },
+    {
+      "slug": "le-best-ojd",
+      "status": "SUCCESS",
+      "categories": 14,
+      "products": 94
+    },
+    {
+      "slug": "nijiri-house",
+      "status": "SUCCESS",
+      "categories": 39,
+      "products": 158
+    },
+    {
+      "slug": "nara-sushi-ojd",
+      "status": "SUCCESS",
+      "categories": 25,
+      "products": 89
+    },
+    {
+      "slug": "crousty-48-ojd",
+      "status": "SUCCESS",
+      "categories": 10,
+      "products": 34
+    },
+    {
+      "slug": "y-n-n-ice-fast-food",
+      "status": "SUCCESS",
+      "categories": 10,
+      "products": 46
+    },
+    {
+      "slug": "le-petit-dejeuner-opheon",
+      "status": "SUCCESS",
+      "categories": 8,
+      "products": 44
+    },
+    {
+      "slug": "mr-sushi-ojd",
+      "status": "SUCCESS",
+      "categories": 41,
+      "products": 123
+    },
+    {
+      "slug": "pause-a-paris-ojdd",
+      "status": "SUCCESS",
+      "categories": 24,
+      "products": 139
+    },
+    {
+      "slug": "tajine-city-ojd",
+      "status": "SUCCESS",
+      "categories": 12,
+      "products": 49
+    },
+    {
+      "slug": "etoile-rouge-ojd",
+      "status": "SUCCESS",
+      "categories": 14,
+      "products": 88
+    },
+    {
+      "slug": "opheon",
+      "status": "SUCCESS",
+      "categories": 28,
+      "products": 113
+    },
+    {
+      "slug": "piri-piri-urban-food-ojd",
+      "status": "SUCCESS",
+      "categories": 9,
+      "products": 48
+    },
+    {
+      "slug": "fee-maison-chez-samah-ojd",
+      "status": "SUCCESS",
+      "categories": 7,
+      "products": 48
+    },
+    {
+      "slug": "breakfast-by-espace-al-hanine",
+      "status": "SUCCESS",
+      "categories": 4,
+      "products": 26
+    },
+    {
+      "slug": "aura-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 46
+    },
+    {
+      "slug": "le-cordon-bleu-ojd",
+      "status": "SUCCESS",
+      "categories": 4,
+      "products": 19
+    },
+    {
+      "slug": "champs-elysees-ojd",
+      "status": "SUCCESS",
+      "categories": 13,
+      "products": 56
+    },
+    {
+      "slug": "chez-remy-ojd",
+      "status": "SUCCESS",
+      "categories": 7,
+      "products": 34
+    },
+    {
+      "slug": "creperie-y-n-n-ice",
+      "status": "SUCCESS",
+      "categories": 17,
+      "products": 73
+    },
+    {
+      "slug": "asian-nijiri-house",
+      "status": "SUCCESS",
+      "categories": 46,
+      "products": 157
+    },
+    {
+      "slug": "le-luxe-de-l-orient-ojd",
+      "status": "SUCCESS",
+      "categories": 10,
+      "products": 52
+    },
+    {
+      "slug": "bbq-ojd",
+      "status": "SUCCESS",
+      "categories": 15,
+      "products": 51
+    },
+    {
+      "slug": "y-n-n-ice",
+      "status": "SUCCESS",
+      "categories": 8,
+      "products": 20
+    },
+    {
+      "slug": "cafe-restaurant-al-hanine",
+      "status": "SUCCESS",
+      "categories": 10,
+      "products": 48
+    },
+    {
+      "slug": "snack-ynn-ojd",
+      "status": "SUCCESS",
+      "categories": 15,
+      "products": 75
+    },
+    {
+      "slug": "societe-ste-najem-echam-ojd",
+      "status": "SUCCESS",
+      "categories": 14,
+      "products": 69
+    },
+    {
+      "slug": "pause-a-paris-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "urban-food-ojd",
+      "status": "SUCCESS",
+      "categories": 3,
+      "products": 13
+    },
+    {
+      "slug": "mr-chef-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 41
+    },
+    {
+      "slug": "snack-au-regal-ojd",
+      "status": "SUCCESS",
+      "categories": 14,
+      "products": 65
+    },
+    {
+      "slug": "brunchs-cafe-restaurant-ojd",
+      "status": "SUCCESS",
+      "categories": 19,
+      "products": 67
+    },
+    {
+      "slug": "mmm-yummy-ojd",
+      "status": "SUCCESS",
+      "categories": 12,
+      "products": 56
+    },
+    {
+      "slug": "brofood-ojd",
+      "status": "SUCCESS",
+      "categories": 8,
+      "products": 25
+    },
+    {
+      "slug": "snack-slaoui-ojd",
+      "status": "SUCCESS",
+      "categories": 5,
+      "products": 11
+    },
+    {
+      "slug": "drif-food-ojd",
+      "status": "SUCCESS",
+      "categories": 16,
+      "products": 94
+    },
+    {
+      "slug": "snack-slm-ojd",
+      "status": "SUCCESS",
+      "categories": 8,
+      "products": 40
+    },
+    {
+      "slug": "regalbuns-ojd",
+      "status": "SUCCESS",
+      "categories": 6,
+      "products": 27
+    },
+    {
+      "slug": "snack-bravo-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 48
+    },
+    {
+      "slug": "snack-en-cas-ojd",
+      "status": "SUCCESS",
+      "categories": 14,
+      "products": 54
+    },
+    {
+      "slug": "inyas-food-ojd",
+      "status": "SUCCESS",
+      "categories": 2,
+      "products": 9
+    },
+    {
+      "slug": "palermos-snack-pizzeria-ojd",
+      "status": "SUCCESS",
+      "categories": 10,
+      "products": 57
+    },
+    {
+      "slug": "cafe-plais-trocadero-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 41
+    },
+    {
+      "slug": "chef-chaouni-ojd",
+      "status": "SUCCESS",
+      "categories": 7,
+      "products": 33
+    },
+    {
+      "slug": "bnin-ojd",
+      "status": "SUCCESS",
+      "categories": 16,
+      "products": 62
+    },
+    {
+      "slug": "hole-mole-ojd",
+      "status": "SUCCESS",
+      "categories": 12,
+      "products": 58
+    },
+    {
+      "slug": "restaurant-al-madina-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 39
+    },
+    {
+      "slug": "cups-ojd",
+      "status": "SUCCESS",
+      "categories": 9,
+      "products": 43
+    },
+    {
+      "slug": "brimo-food-ojd",
+      "status": "SUCCESS",
+      "categories": 18,
+      "products": 74
+    },
+    {
+      "slug": "yassines-snack-ojd",
+      "status": "SUCCESS",
+      "categories": 7,
+      "products": 31
+    },
+    {
+      "slug": "lemeraude-ojd",
+      "status": "SUCCESS",
+      "categories": 16,
+      "products": 83
+    },
+    {
+      "slug": "complex-golden-foot-ojd",
+      "status": "SUCCESS",
+      "categories": 11,
+      "products": 48
+    },
+    {
+      "slug": "romano-ojd",
+      "status": "SUCCESS",
+      "categories": 7,
+      "products": 26
+    },
+    {
+      "slug": "choufouni-ojd",
+      "status": "SUCCESS",
+      "categories": 5,
+      "products": 21
+    },
+    {
+      "slug": "c-tacos-ojd",
+      "status": "SUCCESS",
+      "categories": 6,
+      "products": 27
+    },
+    {
+      "slug": "snack-la-salsa-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "snack-o48-chez-lotfi-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "pikala-food-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "samad-food-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "snack-mehdi-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "smash-n-tacos-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "sweetleaf-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    },
+    {
+      "slug": "flourish-bubble-ojd",
+      "status": "NO_MENU",
+      "categories": 0,
+      "products": 0
+    }
+  ]
+}

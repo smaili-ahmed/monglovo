@@ -1,0 +1,234 @@
+{
+  "slug": "choufouni-ojd",
+  "name": "CHOUFOUNI",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/choufouni-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Burgers",
+    "Pizza"
+  ],
+  "image": "/restaurants/choufouni-ojd/cover.webp",
+  "logoUrl": "/restaurants/choufouni-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "tacos",
+      "products": [
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Viande hachée, frites, fromage, sauce",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Poulet, viande hachée, frites, fromage, sauce",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "Cordon bleu, frites, fromage, sauce",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets, frites, fromage, sauce",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet",
+          "description": "Poulet, frites, fromage, sauce",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__tacos__tacos-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Mixte",
+          "description": "Sandwich avec un mélange de viandes, fromage",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__sandwichs__sandwich-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Viande Hachée",
+          "description": "Sandwich à la viande hachée, fromage, tomates, laitue",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__sandwichs__sandwich-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Dinde",
+          "description": "Sandwich dinde, laitue, tomates, fromage",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__sandwichs__sandwich-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza Viande Hachée",
+          "description": "Sauce barbecue viande hachée tomates oignon poivron  fromage",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pizzas__pizza-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Tomate thon viande hachée poulet champignon fruit de mer olive fromage",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pizzas__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruit De Mer",
+          "description": "Tomate cocktail de fruit de mer fromage - persil",
+          "price": 70,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pizzas__pizza-fruit-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chicken",
+          "description": "Poulet pomme de terre oignon fromage olive - crème fraîche",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pizzas__pizza-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margaretta",
+          "description": "Tomates fromage",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pizzas__pizza-margaretta.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasticcios",
+      "products": [
+        {
+          "name": "Pasticcio Mixte",
+          "description": "Pâtes gratinées avec un mélange savoureux de viande hachée et poulet",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pasticcios__pasticcio-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Kefta",
+          "description": "Pâtes gratinées avec une savoureuse sauce à la viande hachée",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pasticcios__pasticcio-kefta.webp",
+          "available": true
+        },
+        {
+          "name": "Pasticcio Dinde",
+          "description": "Pâtes gratinées avec des morceaux de dinde et une sauce crémeuse",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__pasticcios__pasticcio-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boisson",
+      "products": [
+        {
+          "name": "Sprite 25cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__boisson__sprite-25cl.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola Zero 25cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__boisson__coca-cola-zero-25cl.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaii 25cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__boisson__hawaii-25cl.webp",
+          "available": true
+        },
+        {
+          "name": "Poms 25cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__boisson__poms-25cl.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola 25 Cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/choufouni-ojd/products/choufouni-ojd__boisson__coca-cola-25-cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 526924,
+  "scrapedAt": "2026-08-24T10:47:31.339Z"
+}

@@ -1,0 +1,523 @@
+{
+  "slug": "sweetleaf-ojd",
+  "name": "Sweetleaf",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/sweetleaf-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Burgers",
+    "Sweets",
+    "Tacos"
+  ],
+  "image": "/restaurants/sweetleaf-ojd/cover.webp",
+  "logoUrl": "/restaurants/sweetleaf-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Crêpe Poulet Champi",
+          "description": "Crêpe garnie de poulet, champignons et fromage",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__top-sellers__crepe-poulet-champi.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Entrées",
+      "products": [
+        {
+          "name": "Crevettes Pilpil",
+          "description": "Crevettes sautées à l'ail et piment",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__entrees__crevettes-pilpil.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Poke Bowl",
+          "description": "Riz au teriyaki , concombre, tomates cerises , carotte , avocat , mangue , ananas , œuf mollet , sésame noir et blanc , herbes",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__poke-bowl.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Avocat & Crevettes",
+          "description": "Avocat frais, crevettes sautées, tomates cerises, roquette et sauce citronnée",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__salade-avocat-crevettes.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Niçoise",
+          "description": "Laitue, thon , maïs , carotte , concombre , olives noires , tomates , œuf , haricots verts",
+          "price": 73,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__salade-nicoise.webp",
+          "available": true
+        },
+        {
+          "name": "Salade César",
+          "description": "Laitue croquante, poulet grillé, croûtons, copeaux de parmesan et sauce César",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__salade-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Mexicaine",
+          "description": "Riz , thon , olive noire , poivron , maïs, poulet sauce , œuf , fromage",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__salade-mexicaine.webp",
+          "available": true
+        },
+        {
+          "name": "Tartines au Guacamole & œuf",
+          "description": "Pain de campagne , fromage frais , guacamole , œuf",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__salades__tartines-au-guacamole-uf.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Mixte",
+          "description": "Tortilla garnie de viande hachée et poulet, fromage, frites et sauces au choix",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Bœuf",
+          "description": "Tortilla garnie de viande hachée, fromage, frites et sauces au choix",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__tacos__tacos-b-uf.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet",
+          "description": "Tortilla garnie de poulet, fromage, frites et sauces au choix",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__tacos__tacos-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Philly Steak Sandwich",
+          "description": "Pain garni de steak de bœuf, oignons caramélisés, poivrons, fromage fondant et sauce maison",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__sandwichs__philly-steak-sandwich.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Poulet Grillé",
+          "description": "Pain garni de poulet grillé, laitue, tomates fraîches, fromage et sauce légère",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__sandwichs__sandwich-poulet-grille.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "New York Burger",
+          "description": "Pain burger, steak de bœuf, cheddar, tomates, laitue et sauce spéciale",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__burgers__new-york-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Sweet Leaf Chicken",
+          "description": "Burger au poulet croustillant, fromage, salade, tomates et sauce maison",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__burgers__sweet-leaf-chicken.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pâtes",
+      "products": [
+        {
+          "name": "Pâtes Bolognaise",
+          "description": "Pâtes à la sauce bolognaise",
+          "price": 92,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__pates__pates-bolognaise.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet Crème",
+          "description": "Pâtes au poulet et crème fraîche",
+          "price": 86,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__pates__pates-poulet-creme.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes fruits de mer",
+          "description": "Crevettes , calamars , tomates cerises , sauce blanche , parmesan",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__pates__pates-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes à la Carbonara",
+          "description": "Beurre , jambon de dinde , crème fraîche, parmesan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__pates__pates-a-la-carbonara.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Plats",
+      "products": [
+        {
+          "name": "Escalope Milanaise",
+          "description": "Escalope de poulet panée à l'italienne",
+          "price": 99,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__plats__escalope-milanaise.webp",
+          "available": true
+        },
+        {
+          "name": "Émincé Poulet Crème",
+          "description": "Émincé de poulet à la crème",
+          "price": 88,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__plats__emince-poulet-creme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Petit  déjeuner",
+      "products": [
+        {
+          "name": "Croque Chic",
+          "description": "Croque-monsieur au jambon de dinde, fromage fondu et salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__petit-dejeuner__croque-chic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Crêpes",
+      "products": [
+        {
+          "name": "Crêpe Poulet Champi",
+          "description": "Crêpe garnie de poulet, champignons et fromage",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-poulet-champi.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Dinde Fumée",
+          "description": "Crêpe garnie de dinde fumée, fromage et sauce",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-dinde-fumee.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Oréo",
+          "description": "Crêpe garnie de Nutella et morceaux d'Oréo",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-oreo.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Nutella Banane",
+          "description": "Crêpe au Nutella et rondelles de banane",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-nutella-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Nutella",
+          "description": "Crêpe garnie de pâte à tartiner Nutella",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-nutella.webp",
+          "available": true
+        },
+        {
+          "name": "Crêpe Sucre Ou Confiture",
+          "description": "Crêpe simple au sucre ou confiture",
+          "price": 26,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__crepes__crepe-sucre-ou-confiture.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Gauffres",
+      "products": [
+        {
+          "name": "Gaufre Nutella Banane",
+          "description": "Gaufre garnie de Nutella et rondelles de banane",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__gauffres__gaufre-nutella-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Gaufre Nutella",
+          "description": "Gaufre garnie de Nutella",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__gauffres__gaufre-nutella.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Choco Love",
+          "description": "Milkshake chocolat",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__milkshakes__choco-love.webp",
+          "available": true
+        },
+        {
+          "name": "Oreo Crush",
+          "description": "Milkshake au biscuit Oréo",
+          "price": 46,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__milkshakes__oreo-crush.webp",
+          "available": true
+        },
+        {
+          "name": "Vanilla Sky",
+          "description": "Milkshake vanille",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__milkshakes__vanilla-sky.webp",
+          "available": true
+        },
+        {
+          "name": "Strawberry Dream",
+          "description": "Milkshake à la fraise",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__milkshakes__strawberry-dream.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Cocktails Fruits",
+          "description": "Cocktail de fruits variés",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__cocktails-fruits.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'avocat",
+          "description": "Jus d'avocat crémeux",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-davocat.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Mangue",
+          "description": "Jus de mangue fraîche",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-de-mangue.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'ananas",
+          "description": "Jus d'ananas frais",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-dananas.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Carotte",
+          "description": "Jus à base de carotte fraîche",
+          "price": 33,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-de-carotte.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Banane",
+          "description": "Jus à base de banane",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-de-banane.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'orange",
+          "description": "Jus d'orange frais pressé",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Jus de citron frais pressé",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__jus__jus-de-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Classique  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__coca-cola-classique-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (33 Cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__sprite-classique-33-cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__hawai-tropical-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__fanta-orange-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   ( 33Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__poms-pomme-33cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali - ( 50Cl ) Bouteille",
+          "description": "Eau minérale",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/sweetleaf-ojd/products/sweetleaf-ojd__boissons__sidi-ali-50cl-bouteille.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 533474,
+  "scrapedAt": "2026-08-24T10:45:08.676Z"
+}

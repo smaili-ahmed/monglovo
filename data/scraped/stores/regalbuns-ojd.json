@@ -1,0 +1,294 @@
+{
+  "slug": "regalbuns-ojd",
+  "name": "Regalbuns",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/regalbuns-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Burgers",
+    "Sandwich",
+    "Tacos"
+  ],
+  "image": "/restaurants/regalbuns-ojd/cover.webp",
+  "logoUrl": null,
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Bowl",
+      "products": [
+        {
+          "name": "Bowl Le Dynamite",
+          "description": "Viande hachée, escalope, boursin, raclette, dinde fumée, frites, fromagère, sauce bbq et brazil",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__bowl__bowl-le-dynamite.webp",
+          "available": true
+        },
+        {
+          "name": "Bowl Must",
+          "description": "Viande hachée, tenders croustillants, oignons crispy, frites, dinde fumée, sauce fromagère, sauce tasty",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__bowl__bowl-must.webp",
+          "available": true
+        },
+        {
+          "name": "Bowl Monster",
+          "description": "Cordon bleu, tenders, rosty, frites, fromagère, sauce bbq",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__bowl__bowl-monster.webp",
+          "available": true
+        },
+        {
+          "name": "Bowl Oriental",
+          "description": "Viande hachée, oignons crispy, poivrons grillés, frites, fromagère, sauce thaï",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__bowl__bowl-oriental.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smash Burger",
+      "products": [
+        {
+          "name": "Smash Big",
+          "description": "Deux steaks frais smashés, cheddar, cornichons, salade, oignons caramélisés, sauce big mac. servi avec frites",
+          "price": 83,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__smash-burger__smash-big.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Spicy",
+          "description": "Deux steaks frais smashés, cheddar, poivrons grillés, salade, oignons caramélisés, sauce thaï épicée. servi avec frites",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__smash-burger__smash-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Classic",
+          "description": "Deux steaks frais smashés, cheddar, salade, oignons caramélisés, moutarde, ketchup. servi avec frites",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__smash-burger__smash-classic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Régalade",
+          "description": "Viande hachée, cordon bleu, fromagère, rosty, frite, sauce biggy. servi avec frites",
+          "price": 98,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-regalade.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Boursin",
+          "description": "Escalope, boursin, fromagère, dinde fumée, frite, sauce brazil. servi avec frites",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-boursin.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Savoyard",
+          "description": "Viande hachée, raclette, fromagère, dinde fumée, frite, sauce brazil. servi avec frites",
+          "price": 74,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-savoyard.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Crousty",
+          "description": "Tenders, rosty, fromagère, frite, sauce biggy. servi avec frites",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-crousty.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Morocc",
+          "description": "Viande hachée, oignons caramélisés, poivrons, fromagère, frite, sauce marocaine. servi avec frites",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-morocc.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Délice",
+          "description": "Viande hachée, tenders, oeufs, dinde fumée, fromagère, frite, sauce bbq. servi avec frites",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-delice.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mexicain",
+          "description": "Escalope, oignons caramélisés, poivrons, fromagère, frite, sauce algérienne. servi avec frites",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-mexicain.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Classic",
+          "description": "Viande hachée et escalope, fromagère, frite. servi avec frites",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__tacos__tacos-classic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwich",
+      "products": [
+        {
+          "name": "Sandwich Buffalo",
+          "description": "2 steaks, cheddar, oeufs, dinde fumée, salade, tomate, oignons caramélisés, sauce biggy. servi avec frites",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__sandwich__sandwich-buffalo.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Spicy",
+          "description": "Escalope, crème fraîche, cheddar, salade, tomate, oignons caramélisés, sauce algérienne. servi avec frites",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__sandwich__sandwich-spicy.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Curry",
+          "description": "Escalope curry, crème fraîche, cheddar, salade, tomate, oignons caramélisés, sauce mayonnaise. servi avec frites",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__sandwich__sandwich-curry.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Formules",
+      "products": [
+        {
+          "name": "Formule Option 1",
+          "description": "Frite , boisson 33cl",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__formules__formule-option-1.webp",
+          "available": true
+        },
+        {
+          "name": "Formule Option 2",
+          "description": "Frite , boisson 25cl",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__formules__formule-option-2.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Zero ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__coca-cola-zero-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Citron  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__fanta-citron-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (- 25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__sprite-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   (25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/regalbuns-ojd/products/regalbuns-ojd__boissons__poms-pomme-25cl-canette.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 598223,
+  "scrapedAt": "2026-08-24T10:36:24.986Z"
+}

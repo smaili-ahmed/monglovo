@@ -1,0 +1,462 @@
+{
+  "slug": "smash-n-tacos-ojd",
+  "name": "Smash N Tacos",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/smash-n-tacos-ojd",
+  "rating": "96%",
+  "reviews": "469",
+  "cuisines": [
+    "Burgers",
+    "Tacos"
+  ],
+  "image": "/restaurants/smash-n-tacos-ojd/cover.webp",
+  "logoUrl": "/restaurants/smash-n-tacos-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "MENU FAMILY",
+          "description": "1 smash Classic \n1 smash crispy \n2 menu kids\n2 frites + 2 boissons 25cl",
+          "price": 209.7,
+          "oldPrice": 233,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__promotions__menu-family.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Mixte",
+          "description": "1 SMASH CLASSIC + 1 SMASH CRISPY\n2 FRITES + 2 BOISSONS 25CL",
+          "price": 141.3,
+          "oldPrice": 157,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__promotions__menu-duo-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "MENU DUO SMASH CLASSIC",
+          "description": "2 smashs classics\n2 frites + 2 boissons 25cl",
+          "price": 147.6,
+          "oldPrice": 164,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__promotions__menu-duo-smash-classic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "MENU SMASH CRISPY",
+          "description": "Potato bun, tenders crispy, oignons crisopy, cheddar, sauce boursinette\nFristes + boissons 25 cl",
+          "price": 67.5,
+          "oldPrice": 75,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__top-sellers__menu-smash-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "MENU SMASH CLASSIC",
+          "description": "SMASH CLASSIC: Potato bun, 2 steaks smachés, cheddars, cornichons, oignions caramélises, sauce tasty \nfrites + boisons 25cl",
+          "price": 73.8,
+          "oldPrice": 82,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__top-sellers__menu-smash-classic.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Mixte",
+          "description": "1 SMASH CLASSIC + 1 SMASH CRISPY\n2 FRITES + 2 BOISSONS 25CL",
+          "price": 141.3,
+          "oldPrice": 157,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__top-sellers__menu-duo-mixte.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Offres Exclusives",
+      "products": [
+        {
+          "name": "MENU FAMILY",
+          "description": "1 smash Classic \n1 smash crispy \n2 menu kids\n2 frites + 2 boissons 25cl",
+          "price": 209.7,
+          "oldPrice": 233,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__offres-exclusives__menu-family.webp",
+          "available": true
+        },
+        {
+          "name": "MENU DUO SMASH CLASSIC",
+          "description": "2 smashs classics\n2 frites + 2 boissons 25cl",
+          "price": 147.6,
+          "oldPrice": 164,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__offres-exclusives__menu-duo-smash-classic.webp",
+          "available": true
+        },
+        {
+          "name": "Menu Duo Mixte",
+          "description": "1 SMASH CLASSIC + 1 SMASH CRISPY\n2 FRITES + 2 BOISSONS 25CL",
+          "price": 141.3,
+          "oldPrice": 157,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__offres-exclusives__menu-duo-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "MENU SMASH CLASSIC",
+          "description": "SMASH CLASSIC: Potato bun, 2 steaks smachés, cheddars, cornichons, oignions caramélises, sauce tasty \nfrites + boisons 25cl",
+          "price": 73.8,
+          "oldPrice": 82,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__offres-exclusives__menu-smash-classic.webp",
+          "available": true
+        },
+        {
+          "name": "MENU SMASH CRISPY",
+          "description": "Potato bun, tenders crispy, oignons crisopy, cheddar, sauce boursinette\nFristes + boissons 25 cl",
+          "price": 67.5,
+          "oldPrice": 75,
+          "discount": 10,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__offres-exclusives__menu-smash-crispy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "NOUVEAUTÉ",
+      "products": [
+        {
+          "name": "SMASH TRUFFÉ",
+          "description": "Potato bun, 2 steaks smashé, cheddars, onions crispy, champignons grillés, sauce mayo a la truffe maison",
+          "price": 73,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__nouveaute__smash-truffe.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "SMASH BURGER",
+      "products": [
+        {
+          "name": "Smash Dam",
+          "description": "2 Steak viande hachée, sauce, masdam,ognion crispy ,ciboulette",
+          "price": 68,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__smash-burger__smash-dam.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Classic",
+          "description": "2 Steak viande hachée,sauce , chidar,  cornichos, ognions caramélisé",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__smash-burger__smash-classic.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Crispy",
+          "description": "Poulet crispy, sauce, chidar,cornichos, ognions crispy",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__smash-burger__smash-crispy.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos maxi",
+          "description": "Viande hachée , dinde , nuggets ,fromager, frites, sauce",
+          "price": 80,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-maxi.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Viande hachée, fromager, sauce,frites",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Poulet, viande hachée, fromager,frites, sauce",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Crispy Tenders",
+          "description": "poulet crispy, fromager, frites,sauce",
+          "price": 53,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-crispy-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos dinde",
+          "description": "Dinde , fromager, sauce,frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cerdon Bleu",
+          "description": "Cerdon bleu, fromager ,frites ,sauce",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-cerdon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "Nuggets, fromager, frites, sauce",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Bowl",
+      "products": [
+        {
+          "name": "Tasty Crousty Bowl",
+          "description": "Poulet crispy , riz, sauce maisson ,ognion crispy, ciboulette, sauce thai (picant)",
+          "price": 59,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__bowl__tasty-crousty-bowl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "supplement",
+      "products": [
+        {
+          "name": "Frites",
+          "description": "Frites",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__frites.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... ketchop",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-ketchop.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... mayo",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-mayo.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... barbecue",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-barbecue.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... samourai",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-samourai.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... BiGGY",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-biggy.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... andalous",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-andalous.webp",
+          "available": true
+        },
+        {
+          "name": "Suppl... algeriane",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__supplement__suppl-algeriane.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Finger food",
+      "products": [
+        {
+          "name": "Strips Tenders crispy",
+          "description": "3 pieces",
+          "price": 34,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__finger-food__strips-tenders-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "Moza sticks (5 ps)",
+          "description": null,
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__finger-food__moza-sticks-5-ps.webp",
+          "available": true
+        },
+        {
+          "name": "Nugettes 4 ps",
+          "description": "Nugettes poulet",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__finger-food__nugettes-4-ps.webp",
+          "available": true
+        },
+        {
+          "name": "Onion rings (5 ps)",
+          "description": null,
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__finger-food__onion-rings-5-ps.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Classique ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Zéro ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__coca-cola-zero-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï - Tropical  ( 25Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   ( 25Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__poms-pomme-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite -   ( 35Cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__sprite-35cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta orange",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__fanta-orange.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta citron",
+          "description": "Boisson gazeuse",
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__boissons__fanta-citron.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Jus",
+      "products": [
+        {
+          "name": "Jus Bissap",
+          "description": "Hibiscus, sucre",
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/smash-n-tacos-ojd/products/smash-n-tacos-ojd__jus__jus-bissap.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 495961,
+  "scrapedAt": "2026-08-24T10:51:26.643Z"
+}

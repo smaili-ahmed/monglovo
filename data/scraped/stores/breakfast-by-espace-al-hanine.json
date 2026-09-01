@@ -1,0 +1,273 @@
+{
+  "slug": "breakfast-by-espace-al-hanine",
+  "name": "Breakfast By Espace Al Hanine",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/breakfast-by-espace-al-hanine",
+  "rating": "58%",
+  "reviews": "10",
+  "cuisines": [
+    "Breakfast"
+  ],
+  "image": "/restaurants/breakfast-by-espace-al-hanine/cover.webp",
+  "logoUrl": "/restaurants/breakfast-by-espace-al-hanine/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Nos Omelettes",
+      "products": [
+        {
+          "name": "Tajine Khlii",
+          "description": "khli3 , œufs",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__tajine-khlii.webp",
+          "available": true
+        },
+        {
+          "name": "Omelette Tortilla",
+          "description": "œufs",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-tortilla.webp",
+          "available": true
+        },
+        {
+          "name": "omelette champignons",
+          "description": "œufs , champignons  .",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-champignons.webp",
+          "available": true
+        },
+        {
+          "name": "omelette charcuterie",
+          "description": "œufs , charcuterie.",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-charcuterie.webp",
+          "available": true
+        },
+        {
+          "name": "Omelette Jben",
+          "description": "œufs, jben nature",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-jben.webp",
+          "available": true
+        },
+        {
+          "name": "omelette fromage",
+          "description": "œufs , fromage  toast .",
+          "price": 24,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "Deux Œufs au Plat",
+          "description": "deux œufs",
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__deux-ufs-au-plat.webp",
+          "available": true
+        },
+        {
+          "name": "omelette nature",
+          "description": "Œufs .sel.",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-omelettes__omelette-nature.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Marocains",
+      "products": [
+        {
+          "name": "harcha nature",
+          "description": "semoule ,",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-marocains__harcha-nature.webp",
+          "available": true
+        },
+        {
+          "name": "harcha chiir",
+          "description": "chiir ,semoule",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-marocains__harcha-chiir.webp",
+          "available": true
+        },
+        {
+          "name": "Mlaoui Nature",
+          "description": "farine, blé dure",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-marocains__mlaoui-nature.webp",
+          "available": true
+        },
+        {
+          "name": "Mlaoui Agrich",
+          "description": null,
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Boissons Chaudes",
+      "products": [
+        {
+          "name": "Chocolat Viennois avec Chantilly",
+          "description": null,
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__chocolat-viennois-avec-chantilly.webp",
+          "available": true
+        },
+        {
+          "name": "café royal",
+          "description": null,
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cafe-royal.webp",
+          "available": true
+        },
+        {
+          "name": "cappuccino chantilly",
+          "description": null,
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cappuccino-chantilly.webp",
+          "available": true
+        },
+        {
+          "name": "chocolat fondu",
+          "description": null,
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__chocolat-fondu.webp",
+          "available": true
+        },
+        {
+          "name": "Cappuccino Simple",
+          "description": null,
+          "price": 23,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cappuccino-simple.webp",
+          "available": true
+        },
+        {
+          "name": "café séparé",
+          "description": null,
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cafe-separe.webp",
+          "available": true
+        },
+        {
+          "name": "café noir",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cafe-noir.webp",
+          "available": true
+        },
+        {
+          "name": "café crème",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cafe-creme.webp",
+          "available": true
+        },
+        {
+          "name": "café allongé",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__cafe-allonge.webp",
+          "available": true
+        },
+        {
+          "name": "lait chaud",
+          "description": null,
+          "price": 13,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__lait-chaud.webp",
+          "available": true
+        },
+        {
+          "name": "Lait Froid",
+          "description": null,
+          "price": 11,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-boissons-chaudes__lait-froid.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Infusions",
+      "products": [
+        {
+          "name": "thé à la menthe",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-infusions__the-a-la-menthe.webp",
+          "available": true
+        },
+        {
+          "name": "verveine au lait",
+          "description": null,
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-infusions__verveine-au-lait.webp",
+          "available": true
+        },
+        {
+          "name": "thé noir",
+          "description": null,
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/breakfast-by-espace-al-hanine/products/breakfast-by-espace-al-hanine__nos-infusions__the-noir.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 241909,
+  "scrapedAt": "2026-08-24T10:30:11.051Z"
+}

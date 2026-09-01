@@ -1,0 +1,361 @@
+{
+  "slug": "chez-remy-ojd",
+  "name": "Chez Rémy",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/chez-remy-ojd",
+  "rating": "95%",
+  "reviews": "29",
+  "cuisines": [
+    "Pizza",
+    "Sandwich"
+  ],
+  "image": "/restaurants/chez-remy-ojd/cover.webp",
+  "logoUrl": "/restaurants/chez-remy-ojd/logo.webp",
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Panzerotti Mixte",
+          "description": "Viande hachée, dinde, sauce tomate, mozzarella, champignons, poivrons, oignons caramélisés",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__top-sellers__panzerotti-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Américaine",
+          "description": "Sauce tomate, mozzarella, viande hachée, champignons, olives, oignons, origan",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__top-sellers__pizza-americaine.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "products": [
+        {
+          "name": "Pizza Reine",
+          "description": "Sauce tomate, mozzarella, viande hachée, poulet, dinde fumée, champignons, olives, origan",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-reine.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Sicilienne",
+          "description": "Sauce tomate, mozzarella, thon, champignons, olives, oignons, origan",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-sicilienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Américaine",
+          "description": "Sauce tomate, mozzarella, viande hachée, champignons, olives, oignons, origan",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-americaine.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Marinara",
+          "description": "Sauce tomate, mozzarella, fruits de mer",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-marinara.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fermière",
+          "description": "Sauce tomate, mozzarella, poulet, champignons, olives, origan",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-fermiere.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "description": "Tomate, mozzarella, poivrons, champignons, aubergines, olives, origan",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-vegetarienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Sauce tomate, mozzarella, origan",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__pizzas__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Panzerotti (Calzone)",
+      "products": [
+        {
+          "name": "Panzerotti Mixte",
+          "description": "Viande hachée, dinde, sauce tomate, mozzarella, champignons, poivrons, oignons caramélisés",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__panzerotti-calzone__panzerotti-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Panzerotti Viande Hachée",
+          "description": "Sauce tomate, mozzarella, champignons, poivrons, oignons caramélisés",
+          "price": 63,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__panzerotti-calzone__panzerotti-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Panzerotti Escalope Dinde",
+          "description": "Sauce tomate, mozzarella, champignons, poivrons, oignons, caramélisée",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__panzerotti-calzone__panzerotti-escalope-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Mixte",
+          "description": "À base sauce fromagère",
+          "price": 56,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Cordon Bleu",
+          "description": "À base sauce fromagère",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__tacos__tacos-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Nuggets",
+          "description": "À base sauce fromagère",
+          "price": 49,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__tacos__tacos-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "À base sauce fromagère",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__tacos__tacos-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Poulet",
+          "description": "À base sauce fromagère",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__tacos__tacos-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs Pain Maison Au Four",
+      "products": [
+        {
+          "name": "Le mixte",
+          "description": "Salade, tomate, cheddar, escalope de dinde marinée, viande hachée.",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Le Crispy",
+          "description": "Salade, tomate, cheddar, tenders poulet",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-crispy.webp",
+          "available": true
+        },
+        {
+          "name": "Le Suisse",
+          "description": "Salade, tomate, cheddar, champignons, poulet à la sauce blanche",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-suisse.webp",
+          "available": true
+        },
+        {
+          "name": "Le Traditionnel",
+          "description": "Salade, tomate, cheddar, viande hachée",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-traditionnel.webp",
+          "available": true
+        },
+        {
+          "name": "Le Curry",
+          "description": "Salade, tomate, cheddar, poulet mariné au curry",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-curry.webp",
+          "available": true
+        },
+        {
+          "name": "Le Spécial",
+          "description": "Salade, tomate, cheddar, escalope de dinde marinée, olives et poivrons",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__sandwichs-pain-maison-au-four__le-special.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poutines",
+      "products": [
+        {
+          "name": "Poutine Fruits De Mer",
+          "description": "À la base de sauce blanche, fromage et frites, fruits de mer",
+          "price": 58,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__poutines__poutine-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Viande Hachée",
+          "description": "À la base de sauce blanche, fromage et frites, viande hachée",
+          "price": 52,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__poutines__poutine-viande-hachee.webp",
+          "available": true
+        },
+        {
+          "name": "Poutine Escalope Poulet",
+          "description": "À la base de sauce blanche, fromage et frites, escalope poulet",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__poutines__poutine-escalope-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Hawaii tropical",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__hawaii-tropical.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__coca-cola.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola Zéro",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__coca-cola-zero.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__sprite.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Orange",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__fanta-orange.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Citron",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__fanta-citron.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's",
+          "description": "Boisson gazeuse",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__poms.webp",
+          "available": true
+        },
+        {
+          "name": "Eau Minérale 25cl",
+          "description": "Eau minérale",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/chez-remy-ojd/products/chez-remy-ojd__boissons__eau-minerale-25cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 425220,
+  "scrapedAt": "2026-08-24T10:50:11.752Z"
+}

@@ -1,0 +1,269 @@
+{
+  "slug": "snack-la-salsa-ojd",
+  "name": "Snack la salsa",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/snack-la-salsa-ojd",
+  "rating": null,
+  "reviews": null,
+  "cuisines": [
+    "Burgers",
+    "Sandwich",
+    "Tacos"
+  ],
+  "image": "/restaurants/snack-la-salsa-ojd/cover.webp",
+  "logoUrl": null,
+  "promotion": null,
+  "open": false,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "La Salsa Bowl",
+          "description": "Poulet, fusilli, maïs, olives, gruyère, haricot rouge.",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__salades__la-salsa-bowl.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Le Compagnard",
+          "description": "Dinde, champignons, cheddar, oignons caramélisés, sauce forestière.",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__sandwichs__sandwich-le-compagnard.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Le Boursin",
+          "description": "Poulet grillé, fromage boursin, laitue, tomates.",
+          "price": 32,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__sandwichs__sandwich-le-boursin.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Smash Burgers",
+      "products": [
+        {
+          "name": "Smash Bacon",
+          "description": "Deux steaks smash, cheddar, bacon, oignons caramélisés, sauce maison.",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__smash-burgers__smash-bacon.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Truffé",
+          "description": "Steak smash, cheddar, sauce truffée, oignons caramélisés.",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__smash-burgers__smash-truffe.webp",
+          "available": true
+        },
+        {
+          "name": "Smash Classic",
+          "description": "Steak smash, cheddar, sauce burger.",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__smash-burgers__smash-classic.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Classic Burgers",
+      "products": [
+        {
+          "name": "Double Cheese",
+          "description": "Deux steaks hachés, double cheddar, laitue, tomates, sauce burger.",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__classic-burgers__double-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Chicken patty pané, cheddar, laitue, tomates, sauce maison.",
+          "price": 28,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__classic-burgers__chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Steak haché, cheddar, laitue, tomates, sauce burger.",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__classic-burgers__cheese-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "French Tacos",
+      "products": [
+        {
+          "name": "Tacos Dinde",
+          "description": "Tortilla garnie d'émincés de dinde cuits, de frites et de sauce fromagère.",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__french-tacos__tacos-dinde.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Hachée",
+          "description": "Tortilla garnie de viande de bœuf hachée, de frites et de sauce fromagère.",
+          "price": 37,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__french-tacos__tacos-viande-hachee.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burritos Panés",
+      "products": [
+        {
+          "name": "Fajitas",
+          "description": "Poulet, poivrons, oignons caramélisés, frites.",
+          "price": 38,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__burritos-panes__fajitas.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cossamya",
+      "products": [
+        {
+          "name": "Cossamya Dinde",
+          "description": "Frites nappées de sauce fromagère et recouvertes",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__cossamya__cossamya-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Poutine",
+      "products": [
+        {
+          "name": "Poutine Dinde",
+          "description": "Frites et sauce accompagnées d'émincés de dinde cuite.",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__poutine__poutine-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Mac & Cheese",
+      "products": [
+        {
+          "name": "Mac Bacon",
+          "description": "Macaroni au fromage cheddar fondant agrémentés de lamelles de bacon grillé.",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__mac-cheese__mac-bacon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Coca Cola - Classique  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï  - Tropical  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Citron  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__fanta-citron-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange  ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique (- 25cl) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__sprite-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme   (25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 7,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__poms-pomme-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sidi Ali 33Cl",
+          "description": "Eau minérale",
+          "price": 5,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/snack-la-salsa-ojd/products/snack-la-salsa-ojd__boissons__sidi-ali-33cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 603596,
+  "scrapedAt": "2026-08-24T10:50:05.175Z"
+}

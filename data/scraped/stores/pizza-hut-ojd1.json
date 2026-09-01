@@ -1,0 +1,1079 @@
+{
+  "slug": "pizza-hut-ojd1",
+  "name": "Pizza Hut",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/pizza-hut-ojd1",
+  "rating": "91%",
+  "reviews": "365",
+  "cuisines": [
+    "Pizza"
+  ],
+  "image": "/restaurants/pizza-hut-ojd1/cover.webp",
+  "logoUrl": "/restaurants/pizza-hut-ojd1/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Pair Deal Individuel",
+          "description": "2 Pizzas individuelles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 110,
+          "oldPrice": 171.82,
+          "discount": 36,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__promotions__pair-deal-individuel.webp",
+          "available": true
+        },
+        {
+          "name": "Dej Express Individuelle",
+          "description": "1 Pizza individuelle + 1 bouteille de soda 33Cl ou 4 Chicken Wings ou 6 Nuggets ou 4 Pain à l'ail ou Potatoes",
+          "price": 75,
+          "oldPrice": 122.15,
+          "discount": 39,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pair Deal Double",
+          "description": "2 Pizzas doubles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 190,
+          "oldPrice": 309.8,
+          "discount": 39,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Dej Express Individuelle",
+          "description": "1 Pizza individuelle + 1 bouteille de soda 33Cl ou 4 Chicken Wings ou 6 Nuggets ou 4 Pain à l'ail ou Potatoes",
+          "price": 75,
+          "oldPrice": 122.15,
+          "discount": 39,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pair Deal Individuel",
+          "description": "2 Pizzas individuelles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 110,
+          "oldPrice": 171.82,
+          "discount": 36,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__top-sellers__pair-deal-individuel.webp",
+          "available": true
+        },
+        {
+          "name": "Pair Deal Double",
+          "description": "2 Pizzas doubles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 190,
+          "oldPrice": 309.8,
+          "discount": 39,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Crafted Flatzz",
+      "products": [
+        {
+          "name": "Flatzz Max",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-max.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Essentiel",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-essentiel.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Korean BBQ",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-korean-bbq.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Garlic Chicken Parmesan",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-garlic-chicken-parmesan.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Pepperoni Duo",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-pepperoni-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Beefy",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-beefy.webp",
+          "available": true
+        },
+        {
+          "name": "Flatzz Chicken Alfredo",
+          "description": "Une pizza ovale, crunchy et fun, pensée pour une pause individuelle gourmande, rapide et à petit prix.",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__crafted-flatzz__flatzz-chicken-alfredo.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "New",
+      "products": [
+        {
+          "name": "Dej ExpressTriple",
+          "description": "1 Pizza Triple + 1 bouteille de soda 1L ou 4 Chicken Wings ou 6 Nuggets ou 4 Pain à l'ail ou Potatoes",
+          "price": 200,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__new__dej-expresstriple.webp",
+          "available": true
+        },
+        {
+          "name": "Dej Express Double",
+          "description": "1 Pizza Double + 1 bouteille de soda 1L ou 4 Chicken Wings ou 6 Nuggets ou 4 Pain à l'ail ou Potatoes",
+          "price": 130,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__new__dej-express-double.webp",
+          "available": true
+        },
+        {
+          "name": "Dej Express Individuelle",
+          "description": "1 Pizza individuelle + 1 bouteille de soda 33Cl ou 4 Chicken Wings ou 6 Nuggets ou 4 Pain à l'ail ou Potatoes",
+          "price": 75,
+          "oldPrice": 122.15,
+          "discount": 39,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "My Box Delight",
+          "description": "1 Pizza Individuelle + 1 Potatoes ou 2 Pains à l'ail",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__new__my-box-delight.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Promotion - Les Deals du Moment",
+      "products": [
+        {
+          "name": "Pair Deal Triple",
+          "description": "2 Pizzas triples au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 250,
+          "oldPrice": 378.56,
+          "discount": 34,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Hut Feast",
+          "description": "1 Pizza double cheezy Crust au choix + 1 pizza individuelle (supplément cheezy crust payant) + Potatoes + Bouteille de soda 1L",
+          "price": 190,
+          "oldPrice": 285.54,
+          "discount": 33,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pair Deal Double",
+          "description": "2 Pizzas doubles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 190,
+          "oldPrice": 309.8,
+          "discount": 39,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pair Deal Individuel",
+          "description": "2 Pizzas individuelles au choix + 1L Boisson (supplément cheezy crust payant et par pizza)",
+          "price": 110,
+          "oldPrice": 171.82,
+          "discount": 36,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__promotion-les-deals-du-moment__pair-deal-individuel.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Hut Delights - SOLO",
+      "products": [
+        {
+          "name": "Beefy Delight",
+          "description": "Viande hachée bœuf, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-solo__beefy-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Pepperoni Delight",
+          "description": "Pepperoni bœuf, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-solo__pepperoni-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Alfredo Delight",
+          "description": "Poulet grillé, champignons, mozzarella et sauce alfredo",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-solo__chicken-alfredo-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Veggie Delight",
+          "description": "Tomate fraiches, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-solo__veggie-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Tuna Delight",
+          "description": "Thon, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 55,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-solo__tuna-delight.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Hut Delights - Double",
+      "products": [
+        {
+          "name": "Beefy Delight",
+          "description": "Viande hachée bœuf, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-double__beefy-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Pepperoni Delight",
+          "description": "Pepperoni bœuf, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-double__pepperoni-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Alfredo Delight",
+          "description": "Poulet grillé, champignons, mozzarella et sauce alfredo",
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-double__chicken-alfredo-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Veggie Delight",
+          "description": "Tomate fraiches, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-double__veggie-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Tuna Delight",
+          "description": "Thon, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 105,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-double__tuna-delight.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Hut Delights - Triple",
+      "products": [
+        {
+          "name": "Beefy Delight",
+          "description": "Viande hachée bœuf, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-triple__beefy-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Pepperoni Delight",
+          "description": "Pepperoni bœuf, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-triple__pepperoni-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Alfredo Delight",
+          "description": "Poulet grillé, champignons, mozzarella et sauce alfredo",
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-triple__chicken-alfredo-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Veggie Delight",
+          "description": "Tomate fraiches, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-triple__veggie-delight.webp",
+          "available": true
+        },
+        {
+          "name": "Tuna Delight",
+          "description": "Thon, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 132,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__hut-delights-triple__tuna-delight.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Inédites - SOLO",
+      "products": [
+        {
+          "name": "Pizza Marina",
+          "description": "Thon, olives noires, dès de tomates, oignons, mozarella et sauce tomate aux herbes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-marina.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Forestière",
+          "description": "Viande hachée bœuf, champignons, tomates, mozzarella et sauce tomate aux herbes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-forestiere.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Beefy",
+          "description": "Viande hachée bœuf, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-beefy.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Spicy Hot Poulet",
+          "description": "Poulet, piments verts, tomates fraiches, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-spicy-hot-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Bbq",
+          "description": "Poulet grillé, oignons, poivrons verts, mozzarella et sauce barbecue",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-poulet-sauce-bbq.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "description": "Champignons, poivrons verts, oignons, tomates fraiches, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-vegetarienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Mozzarella et sauce tomate aux herbes",
+          "price": 50,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-solo__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Inédites - Double",
+      "products": [
+        {
+          "name": "Pizza Marina",
+          "description": "Thon, olives noires, dès de tomates, oignons, mozarella et sauce tomate aux herbes",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-marina.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Forestière",
+          "description": "Viande hachée bœuf, champignons, tomates, mozzarella et sauce tomate aux herbes",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-forestiere.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Beefy",
+          "description": "Viande hachée bœuf, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-beefy.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Spicy Hot Poulet",
+          "description": "Poulet, piments verts, tomates fraiches, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-spicy-hot-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Bbq",
+          "description": "Poulet grillé, oignons, poivrons verts, mozzarella et sauce barbecue",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-poulet-sauce-bbq.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "description": "Champignons, poivrons verts, oignons, tomates fraiches, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 133,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-vegetarienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Mozzarella et sauce tomate aux herbes",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-double__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Inédites - Triple",
+      "products": [
+        {
+          "name": "Pizza Marina",
+          "description": "Thon, olives noires, dès de tomates, oignons, mozarella et sauce tomate aux herbes",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-marina.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Forestière",
+          "description": "Viande hachée bœuf, champignons, tomates, mozzarella et sauce tomate aux herbes",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-forestiere.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Beefy",
+          "description": "Viande hachée bœuf, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-beefy.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Spicy Hot Poulet",
+          "description": "Poulet, piments verts, tomates fraiches, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-spicy-hot-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Bbq",
+          "description": "Poulet grillé, oignons, poivrons verts, mozzarella et sauce barbecue",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-poulet-sauce-bbq.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Végétarienne",
+          "description": "Champignons, poivrons verts, oignons, tomates fraiches, olives noires, mozzarella et sauce tomate aux herbes",
+          "price": 167,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-vegetarienne.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Mozzarella et sauce tomate aux herbes",
+          "price": 120,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-inedites-triple__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Spéciales - SOLO",
+      "products": [
+        {
+          "name": "Pizza Shawarma",
+          "description": "Poulet grillé aux épices shawarma,tomates, cornichons et sauce à l’ail .",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-solo__pizza-shawarma.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Lovers",
+          "description": "Extra portion de pepperoni bœuf, mozzarella et sauce tomate aux herbes",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-solo__pizza-pepperoni-lovers.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Suprême",
+          "description": "Viande hachée bœuf, pepperoni bœuf, champignons, poivrons verts, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-solo__pizza-supreme.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Ranch",
+          "description": "Poulet grillé, champignons, poivrons verts, oignons, mozzarella et sauce ranch",
+          "price": 75,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-solo__pizza-poulet-sauce-ranch.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Spéciales - Double",
+      "products": [
+        {
+          "name": "Pizza Shawarma",
+          "description": "Poulet grillé aux épices shawarma,tomates, cornichons et sauce à l’ail .",
+          "price": 144,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-double__pizza-shawarma.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Lovers",
+          "description": "Extra portion de pepperoni bœuf, mozzarella et sauce tomate aux herbes",
+          "price": 144,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-double__pizza-pepperoni-lovers.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Suprême",
+          "description": "Viande hachée bœuf, pepperoni bœuf, champignons, poivrons verts, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 144,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-double__pizza-supreme.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Ranch",
+          "description": "Poulet grillé, champignons, poivrons verts, oignons, mozzarella et sauce ranch",
+          "price": 144,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-double__pizza-poulet-sauce-ranch.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Spéciales - Triple",
+      "products": [
+        {
+          "name": "Pizza Shawarma",
+          "description": "Poulet grillé aux épices shawarma,tomates, cornichons et sauce à l’ail .",
+          "price": 179,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-triple__pizza-shawarma.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Pepperoni Lovers",
+          "description": "Extra portion de pepperoni bœuf, mozzarella et sauce tomate aux herbes",
+          "price": 179,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-triple__pizza-pepperoni-lovers.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Suprême",
+          "description": "Viande hachée bœuf, pepperoni bœuf, champignons, poivrons verts, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 179,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-triple__pizza-supreme.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Poulet Sauce Ranch",
+          "description": "Poulet grillé, champignons, poivrons verts, oignons, mozzarella et sauce ranch",
+          "price": 179,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-speciales-triple__pizza-poulet-sauce-ranch.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Gourmandes - SOLO",
+      "products": [
+        {
+          "name": "Pizza Super Suprême",
+          "description": "Viande hachée bœuf, double portion de pepperoni bœuf, champignons, poivrons verts, olives noires, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 81,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-gourmandes-solo__pizza-super-supreme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Gourmandes - Double",
+      "products": [
+        {
+          "name": "Pizza Super Suprême",
+          "description": "Viande hachée bœuf, double portion de pepperoni bœuf, champignons, poivrons verts, olives noires, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 156,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-gourmandes-double__pizza-super-supreme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizza Gourmandes - Triple",
+      "products": [
+        {
+          "name": "Pizza Super Suprême",
+          "description": "Viande hachée bœuf, double portion de pepperoni bœuf, champignons, poivrons verts, olives noires, oignons, mozzarella et sauce tomate aux herbes",
+          "price": 197,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pizza-gourmandes-triple__pizza-super-supreme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "products": [
+        {
+          "name": "Penne Poulet Crème Tomate",
+          "description": "Gratin de penne, parmesan, champignons, blanc de poulet, tomates cerises, sauce tomate et sauche alfredo",
+          "price": 64,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pasta__penne-poulet-creme-tomate.webp",
+          "available": true
+        },
+        {
+          "name": "Penne Poulet Alfredo",
+          "description": "Gratin de penne, mozzarella, parmesan, champignons, blanc de poulet et sauce alfredo",
+          "price": 64,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__pasta__penne-poulet-alfredo.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Calzones",
+      "products": [
+        {
+          "name": "Calzone Suprême",
+          "description": "Viande hachée bœuf, pepperoni bœuf, champignons, oignons, poivrons verts, mozzarella et sauce tomate aux herbes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__calzones__calzone-supreme.webp",
+          "available": true
+        },
+        {
+          "name": "Calzone Cheese",
+          "description": "Mozzarella et sauce tomate aux herbes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__calzones__calzone-cheese.webp",
+          "available": true
+        },
+        {
+          "name": "Calzone Poulet Bbq",
+          "description": "Poulet grillé, oignons, poivrons verts, mozzarella et sauce barbecue",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__calzones__calzone-poulet-bbq.webp",
+          "available": true
+        },
+        {
+          "name": "Calzone Beef Pepperoni",
+          "description": "Viande hachée bœuf ,pepperoni bœuf ,mozzarella et sauce tomate aux herbes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__calzones__calzone-beef-pepperoni.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Pepperoni Lovers",
+          "description": "Pepperoni bœuf, laitue, totmates fraîches, mayonnaise et mozzarella + Potaotes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__sandwichs__pepperoni-lovers.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Super Beef",
+          "description": "Viande hachée bœuf, laitue, oignons, tomates fraiches, mayonnaise et mozzarella + Potaotes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__sandwichs__sandwich-super-beef.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Au Thon",
+          "description": "Thon, laitue, totmates fraîches, oignons, mayonnaise et mozzarella , Potaotes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__sandwichs__sandwich-au-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Poulet",
+          "description": "Poulet grillé, laitue, mayonnaise et mozzarella , Potatoes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__sandwichs__sandwich-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Super Suprême",
+          "description": "Viande hachée bœuf, pepperoni bœuf ,laitue, tomates fraiches, mayonnaise et mozzarella ,Potaotes",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__sandwichs__sandwich-super-supreme.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Accompagnements",
+      "products": [
+        {
+          "name": "Trio",
+          "description": "4 pièces de pepperoni breadsticks , potatoes , 4 chicken wings.",
+          "price": 69,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__trio.webp",
+          "available": true
+        },
+        {
+          "name": "Pepperoni Breadsticks",
+          "description": "Pepperoni Breadsticks",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__pepperoni-breadsticks.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Chicken Wings",
+          "price": 44,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__chicken-wings.webp",
+          "available": true
+        },
+        {
+          "name": "Cheezy Pops",
+          "description": "Cheezy Pops",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__cheezy-pops.webp",
+          "available": true
+        },
+        {
+          "name": "Nuggets",
+          "description": "Nuggets",
+          "price": 39,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Pain à L'ail Pepperoni",
+          "description": "Pain, ail et fines herbes, mozzarella et Pepperoni",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__pain-a-lail-pepperoni.webp",
+          "available": true
+        },
+        {
+          "name": "Pain À L'ail Fromage",
+          "description": "Pain, ail et fines herbes",
+          "price": 27,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__pain-a-lail-fromage.webp",
+          "available": true
+        },
+        {
+          "name": "Potatoes",
+          "description": "Potatoes",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__accompagnements__potatoes.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Glaces & Desserts",
+      "products": [
+        {
+          "name": "Sorbet Fraise",
+          "description": "Pot de 125 ml, parfum fraise",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__glaces-desserts__sorbet-fraise.webp",
+          "available": true
+        },
+        {
+          "name": "Glace Chocolat",
+          "description": "Pot de 125 ml, parfum chocolat",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__glaces-desserts__glace-chocolat.webp",
+          "available": true
+        },
+        {
+          "name": "Sorbet Mangue",
+          "description": "Pot de 125 ml, parfum mangue",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__glaces-desserts__sorbet-mangue.webp",
+          "available": true
+        },
+        {
+          "name": "Glace Yaourt Fruit Des Bois",
+          "description": "Pot de 125 ml, parfum yaourt fruit des bois",
+          "price": 40,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__glaces-desserts__glace-yaourt-fruit-des-bois.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Pepsi 1.5L",
+          "description": "Bouteille de 1,5L",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__pepsi-1-5l.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda Orange 1.5 L",
+          "description": "Bouteille de 1,5L",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__mirinda-orange-1-5-l.webp",
+          "available": true
+        },
+        {
+          "name": "Seven Up 1.5 l",
+          "description": "Bouteille de 1,5L",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__seven-up-1-5-l.webp",
+          "available": true
+        },
+        {
+          "name": "Pepsi 1l",
+          "description": "Bouteille de 1L",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__pepsi-1l.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda Orange 1l",
+          "description": "Bouteille de 1L",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__mirinda-orange-1l.webp",
+          "available": true
+        },
+        {
+          "name": "Seven Up 1l",
+          "description": "Bouteille de 1L",
+          "price": 16,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__seven-up-1l.webp",
+          "available": true
+        },
+        {
+          "name": "Aquafina",
+          "description": "Bouteille de 50Cl",
+          "price": 15,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__aquafina.webp",
+          "available": true
+        },
+        {
+          "name": "Pepsi 33 cl",
+          "description": "Bouteille de 33CL",
+          "price": 14,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__pepsi-33-cl.webp",
+          "available": true
+        },
+        {
+          "name": "Mirinda Orange 33cl",
+          "description": "Bouteille de 33CL",
+          "price": 14,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__mirinda-orange-33cl.webp",
+          "available": true
+        },
+        {
+          "name": "Seven Up 33cl",
+          "description": "Bouteille de 33CL",
+          "price": 14,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/pizza-hut-ojd1/products/pizza-hut-ojd1__boissons__seven-up-33cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 125457,
+  "scrapedAt": "2026-08-24T10:27:54.466Z"
+}

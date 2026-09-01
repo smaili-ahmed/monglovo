@@ -1,0 +1,949 @@
+{
+  "slug": "makdal-oujda-ojd",
+  "name": "Mak'dal Oujda",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/makdal-oujda-ojd",
+  "rating": "96%",
+  "reviews": "1k+",
+  "cuisines": [
+    "International"
+  ],
+  "image": "/restaurants/makdal-oujda-ojd/cover.webp",
+  "logoUrl": "/restaurants/makdal-oujda-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Big Mak DUO",
+          "description": "Big Mak x2 + Frites x2 + Coca Cola 25cl x2",
+          "price": 118.8,
+          "oldPrice": 132,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__promotions__big-mak-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Extra Best of",
+          "description": "Double cheese burger + Giant Burger + frites x2 + Coca Cola 25cl x2",
+          "price": 113.4,
+          "oldPrice": 126,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__promotions__extra-best-of.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Best Of",
+          "description": "Crispy burger + Rosty chicken burger + frites x2 + Coca Cola 25cl x2",
+          "price": 118.8,
+          "oldPrice": 132,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__promotions__chicken-best-of.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "Sandwich Le Majestic",
+          "description": "Steak, cordon bleu, jambon de dinde, filet de poulet, salade, tomate, cheddar",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__top-sellers__sandwich-le-majestic.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T7",
+          "description": "Cordon bleu, jambon de dinde, tenders",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__top-sellers__tacos-t7.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T4",
+          "description": "Steaks, tenders, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__top-sellers__tacos-t4.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers Menu DUO",
+      "products": [
+        {
+          "name": "Big Mak DUO",
+          "description": "Big Mak x2 + Frites x2 + Coca Cola 25cl x2",
+          "price": 118.8,
+          "oldPrice": 132,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers-menu-duo__big-mak-duo.webp",
+          "available": true
+        },
+        {
+          "name": "Chicken Best Of",
+          "description": "Crispy burger + Rosty chicken burger + frites x2 + Coca Cola 25cl x2",
+          "price": 118.8,
+          "oldPrice": 132,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers-menu-duo__chicken-best-of.webp",
+          "available": true
+        },
+        {
+          "name": "Extra Best of",
+          "description": "Double cheese burger + Giant Burger + frites x2 + Coca Cola 25cl x2",
+          "price": 113.4,
+          "oldPrice": 126,
+          "discount": 10,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers-menu-duo__extra-best-of.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Menu Best Seller",
+      "products": [
+        {
+          "name": "Menu Le Magestic",
+          "description": "Shandwich Le Magestic + Frites + Coca Cola 25cl",
+          "price": 85,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__menu-best-seller__menu-le-magestic.webp",
+          "available": true
+        },
+        {
+          "name": "Menu NAAN Le Chawarma",
+          "description": "Cheesenaan Le Chawarma + Frites + Coca Cola 25cl",
+          "price": 78,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__menu-best-seller__menu-naan-le-chawarma.webp",
+          "available": true
+        },
+        {
+          "name": "Menu NAAN Le Tanddori",
+          "description": "Cheesenaan Le Tandori + Frites + Coca Cola 25cl",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__menu-best-seller__menu-naan-le-tanddori.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Naan Burgers",
+      "products": [
+        {
+          "name": "Le MASTER",
+          "description": "Tenders KFC, 1 steak 90g, Cheddar, oeuf, jambon de dinde, oignon caramélisé, salade",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__naan-burgers__le-master.webp",
+          "available": true
+        },
+        {
+          "name": "Le Tower",
+          "description": "Tenders KFC, 1 steak 90g, cheddar, oignon caramélisé, salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__naan-burgers__le-tower.webp",
+          "available": true
+        },
+        {
+          "name": "Le Rosty",
+          "description": "Tenders KFC, Rosty, cheddar, oignon caramélisé, salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__naan-burgers__le-rosty.webp",
+          "available": true
+        },
+        {
+          "name": "Le Mega",
+          "description": "2 steak 90g, cheddar, oignon caramélisé, cornichon, Salade",
+          "price": 65,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__naan-burgers__le-mega.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Cheesenaans",
+      "products": [
+        {
+          "name": "Cheesenaan Le Farmer",
+          "description": "Steaks, tenders, œuf, jambon de dinde,cheddar, crudités",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-farmer.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Naan Dal",
+          "description": "Steak, cheddar, escalope, rosty crudités",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-naan-dal.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Mix",
+          "description": "Escalope, steak, crème fraîche, cheddar, crudités",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-mix.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan L'imperial",
+          "description": "Cordon bleu, escalope, jambon de dinde, cheddar, crudités",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-limperial.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Cordon Bleu",
+          "description": "Cordon bleu, jambon de dinde, cheddar crudités",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-cordon-bleu.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Chawarma",
+          "description": "Poulet épices chawarma, cheddar, crudités",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-chawarma.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Tanddori",
+          "description": "Poulet mariné au tandoori, cheddar, crudités",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-tanddori.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Curry",
+          "description": "Poulet mariné au curry cheddar, crudités",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-curry.webp",
+          "available": true
+        },
+        {
+          "name": "Cheesenaan Le Tenders",
+          "description": "Tenders, cheddar, crudités",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__cheesenaans__cheesenaan-le-tenders.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos T9",
+          "description": "Cordon bleu, steak, jambon de dinde, rosty",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t9.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T12",
+          "description": "Cordon bleu, steak, jambon de dinde, merguez",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t12.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T4",
+          "description": "Steaks, tenders, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t4.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T5",
+          "description": "Escalope, nuggets, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t5.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T6",
+          "description": "Escalope, steak, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t6.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T7",
+          "description": "Cordon bleu, jambon de dinde, tenders",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t7.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T8",
+          "description": "Cordon bleu, jambon de dinde, escalope",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t8.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T10",
+          "description": "Steaks, merguez, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t10.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T11",
+          "description": "Escalope, merguez",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t11.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T13",
+          "description": "Nuggets, tenders, jambon de dinde",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t13.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T1",
+          "description": "Escaolpe",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t1.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T2",
+          "description": "Steaks, jambon de dinde",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t2.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos T3",
+          "description": "Tandoori, curry",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__tacos__tacos-t3.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Sandwichs",
+      "products": [
+        {
+          "name": "Sandwich Le Majestic",
+          "description": "Steak, cordon bleu, jambon de dinde, filet de poulet, salade, tomate, cheddar",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-le-majestic.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Mak'dal",
+          "description": "Steak, poulet, rosty salade, tomate, cheddar",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-makdal.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Royal",
+          "description": "Steak, poulet mariné massala, salade, tomate, cheddar, crème fraîche",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-royal.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Le Merguez",
+          "description": "Merguez, steaks, jambon de dinde, salade, tomate, cheddar",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-le-merguez.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Asia",
+          "description": "Poulet mariné au tandoori, salade, tomate, cheddar",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-asia.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich India",
+          "description": "Poulet mariné au curry, salade, tomate, cheddar",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Sandwich Triple Steak",
+          "description": "3 Steaks, jambon dinde, salade, tomate cheddar",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-triple-steak.webp",
+          "available": true
+        },
+        {
+          "name": "Sandwich Le Nabab",
+          "description": "Poulet épices chawarma, salade, tomate, cheddar",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__sandwichs__sandwich-le-nabab.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "products": [
+        {
+          "name": "King Dal Burger",
+          "description": "2 Steaks hachés, cheddar rosty, salade, tomate",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__king-dal-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Mix Dal Burger",
+          "description": "Steak haché 80g, Poulet Pané, rosty salade, tomate, cheddar",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__mix-dal-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Mak Chicken Burger",
+          "description": "2 Poulet pané, rosty cheddar salade",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__mak-chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Le Suprême Burger",
+          "description": "Cordon bleu, steak haché, poulet pané, salade,",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__le-supreme-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Grand Big Mak",
+          "description": "Salade, 2 tranches de cheddar 2 steaks haches de de 80g, cornichon, vinaigre",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__grand-big-mak.webp",
+          "available": true
+        },
+        {
+          "name": "Double Chicken Burger",
+          "description": "2 Poulets panés, cheddar, salade",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__double-chicken-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Le Cordon Bleu Burger",
+          "description": "Cordon bleu, poulet pané, cheddar, salade, tomate",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__le-cordon-bleu-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Burger Giant",
+          "description": "3 Steaks, salade, cheddar",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__burger-giant.webp",
+          "available": true
+        },
+        {
+          "name": "Crispy Burger",
+          "description": "Poulet pané crispy, cheddar salade",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__crispy-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Big Mak",
+          "description": "Salade, cheddar, 2 steaks, cornichons, sauce big mak",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__big-mak.webp",
+          "available": true
+        },
+        {
+          "name": "Double Cheese Burger",
+          "description": "2 Steaks haché, cheddar",
+          "price": 36,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__double-cheese-burger.webp",
+          "available": true
+        },
+        {
+          "name": "Cheese Burger",
+          "description": "Steaks haché, cheddar",
+          "price": 30,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__burgers__cheese-burger.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas Sénior",
+      "products": [
+        {
+          "name": "Pizza 4 Saisons Sénior",
+          "description": "Assortiments de 4 viandes, poivrons, olives, mozzarelia, origan",
+          "price": 90,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-4-saisons-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits de Mer Sénior",
+          "description": "sauce tomate, crevettes, calamar, champignons, poivrons, olives, origan",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-fruits-de-mer-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chèvre Miel Sénior",
+          "description": "Sauce gruyère, viande au choix, mozzarella, chèvre miel, origan",
+          "price": 84,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-chevre-miel-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon Sénior",
+          "description": "Sauce tomate, mozzarella, thon, poivrons, olives, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-thon-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chicken Sénior",
+          "description": "Sauce tomate, mozzarella, poulet, poivrons, olives, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-chicken-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages Sénior",
+          "description": "Sauce tomate, assortiment de fromages, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-4-fromages-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Orientale Sénior",
+          "description": "Sauce tomate, pepperoni, mozzarella, poivrons, oignons, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-orientale-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza New Régina Sénior",
+          "description": "Sauce gruyère, mozzarella, champignons, jambon de dinde, pommes de terre, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-new-regina-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fermière Sénior",
+          "description": "Sauce guryère, mozzarella, poulet, pomme de terre, oignons, origan",
+          "price": 72,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-fermiere-senior.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita Sénior",
+          "description": "Sauce tomate, mozzarella, origan",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-senior__pizza-margherita-senior.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Pizzas Junior",
+      "products": [
+        {
+          "name": "Pizza 4 Saisons",
+          "description": "Assortiments de 4 viandes, poivrons, olives, mozzarelia, origan",
+          "price": 60,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-4-saisons.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fruits De Mer",
+          "description": "sauce tomate, crevettes, calamar, champignons, poivrons, olives, origan",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-fruits-de-mer.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chèvre Miel",
+          "description": "Sauce gruyère, viande au choix, mozzarella, chèvre miel, origan",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-chevre-miel.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Thon",
+          "description": "Sauce tomate, mozzarella, thon, poivrons, olives, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Chicken",
+          "description": "Sauce tomate, mozzarella, poulet, poivrons, olives, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-chicken.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza 4 Fromages",
+          "description": "Sauce tomate, assortiment de fromages, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-4-fromages.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Orientale",
+          "description": "Sauce tomate, pepperoni, mozzarella, poivrons, oignons, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-orientale.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza New Regina",
+          "description": "Sauce gruyère, mozzarella, champignons, jambon de dinde, pommes de terre, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-new-regina.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Fermière",
+          "description": "Sauce guryère, mozzarella, poulet, pomme de terre, oignons, origan",
+          "price": 48,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-fermiere.webp",
+          "available": true
+        },
+        {
+          "name": "Pizza Margherita",
+          "description": "Sauce tomate, mozzarella, origan",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__pizzas-junior__pizza-margherita.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Nos Pâtes",
+      "products": [
+        {
+          "name": "Pâtes Fruits de Mer",
+          "description": "Choisissez votre type de pâtes et de fromage!",
+          "price": 66,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet Champignons",
+          "description": "Choisissez votre type de pâtes et de fromage!",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        },
+        {
+          "name": "Pâtes Carbonara",
+          "description": "Choisissez votre type de pâtes et de fromage!",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade Thon",
+          "description": "Salade, tomates, pâtes, sauce blanche, thon",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__salades__salade-thon.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Escalope",
+          "description": "Salade, tomates, pâtes, sauce blanche, poulet",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__salades__salade-escalope.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Nuggets",
+          "description": "Salade, tomates, pâtes, sauce blanche, nuggets",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__salades__salade-nuggets.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Poulet Pane",
+          "description": "Salade, tomates, pâtes, sauce blanche",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__salades__salade-poulet-pane.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Extras",
+      "products": [
+        {
+          "name": "Frites",
+          "description": "Frites",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__extras__frites.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Lipton Iced Tea Pêche",
+          "description": "iced tea",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__lipton-iced-tea-peche.webp",
+          "available": true
+        },
+        {
+          "name": "Oasis Tropical",
+          "description": "Boisson gazeuse",
+          "price": 18,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__oasis-tropical.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola Original 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__coca-cola-original-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola Zéro 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__coca-cola-zero-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__sprite-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawai 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__hawai-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__poms-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Citron 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__fanta-citron-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta Orange 25cl Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/makdal-oujda-ojd/products/makdal-oujda-ojd__boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 457260,
+  "scrapedAt": "2026-08-24T10:49:33.337Z"
+}

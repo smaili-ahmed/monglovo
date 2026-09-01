@@ -1,0 +1,426 @@
+{
+  "slug": "piri-piri-urban-food-ojd",
+  "name": "Piri Piri Poulet Braisé",
+  "glovoUrl": "https://glovoapp.com/en/ma/oujda/stores/piri-piri-urban-food-ojd",
+  "rating": "98%",
+  "reviews": "52",
+  "cuisines": [
+    "Chicken",
+    "Sandwich",
+    "Tacos"
+  ],
+  "image": "/restaurants/piri-piri-urban-food-ojd/cover.webp",
+  "logoUrl": "/restaurants/piri-piri-urban-food-ojd/logo.webp",
+  "promotion": null,
+  "open": true,
+  "dataMissing": false,
+  "categories": [
+    {
+      "name": "Promotions",
+      "products": [
+        {
+          "name": "Coca Cola - Classique ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 9.6,
+          "oldPrice": 12,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__promotions__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pâtes Poulet",
+          "description": "Penne, poulet, sauce blanche",
+          "price": 32,
+          "oldPrice": 40,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__promotions__pates-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Riz basmati au Poulet",
+          "description": "Riz, poulet, légumes",
+          "price": 32,
+          "oldPrice": 40,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__promotions__riz-basmati-au-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Top sellers",
+      "products": [
+        {
+          "name": "2 Brochettes Poulet",
+          "description": "Brochettes de poulet, accompagnement",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__top-sellers__2-brochettes-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "2 Tenders Poulet",
+          "description": "Blanc de poulet crispy, accompagnement",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__top-sellers__2-tenders-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Tenders",
+          "description": "Tenders, frites, sauce fromagère",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__top-sellers__tacos-tenders.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Salades",
+      "products": [
+        {
+          "name": "Salade César",
+          "description": "Poulet, laitue, tomate, concombre, fromage blanc, oignon, maïs",
+          "price": 35,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__salades__salade-cesar.webp",
+          "available": true
+        },
+        {
+          "name": "Salade Thon",
+          "description": "Thon, salade, tomate, œuf, olives",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__salades__salade-thon.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Wrap",
+      "products": [
+        {
+          "name": "Twister",
+          "description": "Tortilla, tenders, laitue, tomate, fromage, mayonaise, frites",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__wrap__twister.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Tacos",
+      "products": [
+        {
+          "name": "Tacos Tenders",
+          "description": "Tenders, frites, sauce fromagère",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__tacos__tacos-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Mixte",
+          "description": "Viande hachée, poulet marinée, frites, sauce fromagère",
+          "price": 47,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__tacos__tacos-mixte.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Viande Haché",
+          "description": "Viande hachée, sauce fromagère, frites",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__tacos__tacos-viande-hache.webp",
+          "available": true
+        },
+        {
+          "name": "Tacos Dinde",
+          "description": "Dinde marinée, sauce fromagère, frites",
+          "price": 42,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__tacos__tacos-dinde.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Assiettes",
+      "products": [
+        {
+          "name": "2 Tenders Poulet",
+          "description": "Blanc de poulet crispy, accompagnement",
+          "price": 54,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__assiettes__2-tenders-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "2 Brochettes Poulet",
+          "description": "Brochettes de poulet, accompagnement",
+          "price": 45,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__assiettes__2-brochettes-poulet.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "A La Carte",
+      "products": [
+        {
+          "name": "Pâtes Poulet",
+          "description": "Penne, poulet, sauce blanche",
+          "price": 32,
+          "oldPrice": 40,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__pates-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Riz basmati au Poulet",
+          "description": "Riz, poulet, légumes",
+          "price": 32,
+          "oldPrice": 40,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__riz-basmati-au-poulet.webp",
+          "available": true
+        },
+        {
+          "name": "Grande portion de frite",
+          "description": "Grande portion de frite",
+          "price": 19,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__grande-portion-de-frite.webp",
+          "available": true
+        },
+        {
+          "name": "Un tenders",
+          "description": "Filet de dinde panet",
+          "price": 10,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__un-tenders.webp",
+          "available": true
+        },
+        {
+          "name": "Petit sachet de frites",
+          "description": "Un sachet de frites",
+          "price": 9,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__petit-sachet-de-frites.webp",
+          "available": true
+        },
+        {
+          "name": "Une brochette",
+          "description": "Brochette de dinde mariné",
+          "price": 8,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__a-la-carte__une-brochette.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "products": [
+        {
+          "name": "Tiramisu",
+          "description": "A base de biscuit",
+          "price": 29,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__desserts__tiramisu.webp",
+          "available": true
+        },
+        {
+          "name": "Raib",
+          "description": "Raib Sucré artisanal",
+          "price": 8.02,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__desserts__raib.webp",
+          "available": true
+        }
+      ]
+    },
+    {
+      "name": "Boissons",
+      "products": [
+        {
+          "name": "Jus panaché",
+          "description": "Orange, pomme, banane, raisin, kiwi, mangue",
+          "price": 25,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__jus-panache.webp",
+          "available": true
+        },
+        {
+          "name": "Jus D'orange",
+          "description": "Orange nature",
+          "price": 22,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__jus-dorange.webp",
+          "available": true
+        },
+        {
+          "name": "Bissap",
+          "description": "Fleur d'hibiscus",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__bissap.webp",
+          "available": true
+        },
+        {
+          "name": "Jus De Citron",
+          "description": "Citron, menthe",
+          "price": 20,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__jus-de-citron.webp",
+          "available": true
+        },
+        {
+          "name": "LA CIGOGNE",
+          "description": "La cigogne 25 cl",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__la-cigogne.webp",
+          "available": true
+        },
+        {
+          "name": "Ice tea peche",
+          "description": "25 cl",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__ice-tea-peche.webp",
+          "available": true
+        },
+        {
+          "name": "Oulmes 33 cl",
+          "description": "Eau gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__oulmes-33-cl.webp",
+          "available": true
+        },
+        {
+          "name": "Orangina 25 cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__orangina-25-cl.webp",
+          "available": true
+        },
+        {
+          "name": "Hawaï ananas 25 cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__hawai-ananas-25-cl.webp",
+          "available": true
+        },
+        {
+          "name": "Schweppes mojito 25 cl",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__schweppes-mojito-25-cl.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Zero ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__coca-cola-zero-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Fanta - Orange ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__fanta-orange-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Hawai - Tropical ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__hawai-tropical-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Sprite - Classique ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__sprite-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Pom's - Pomme ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 12,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__poms-pomme-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Coca Cola - Classique ( 25cl ) Canette",
+          "description": "Boisson gazeuse",
+          "price": 9.6,
+          "oldPrice": 12,
+          "discount": 20,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__coca-cola-classique-25cl-canette.webp",
+          "available": true
+        },
+        {
+          "name": "Eau sidi ali 33 cl",
+          "description": "Eau plate",
+          "price": 6,
+          "oldPrice": null,
+          "discount": null,
+          "image": "/restaurants/piri-piri-urban-food-ojd/products/piri-piri-urban-food-ojd__boissons__eau-sidi-ali-33-cl.webp",
+          "available": true
+        }
+      ]
+    }
+  ],
+  "glovoStoreId": 493492,
+  "scrapedAt": "2026-08-24T10:31:44.897Z"
+}
