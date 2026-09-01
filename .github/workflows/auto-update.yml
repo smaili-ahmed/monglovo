@@ -1,0 +1,72 @@
+name: Auto-Update Glovo Data (Daily)
+
+on:
+  schedule:
+    # Daily at 03:00 UTC (04:00 in Morocco) — tous les jours à 4h du matin
+    - cron: "0 3 * * *"
+  workflow_dispatch: # Lancement manuel depuis l'onglet Actions
+    inputs:
+      force:
+        description: "Recraper tous les restaurants (forcé)"
+        required: false
+        default: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: glovo-update
+  cancel-in-progress: false
+
+jobs:
+  scrape-and-import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Enable pnpm via corepack
+        run: corepack enable
+
+      - name: Install dependencies (pnpm)
+        run: pnpm install --frozen-lockfile=false
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Debug — check scraped stores
+        run: |
+          echo "Stores files:"
+          find data/scraped/stores -maxdepth 1 -name "*.json" | wc -l
+          echo "Scraper files:"
+          ls scripts/scraper/
+          echo "Import files:"
+          ls scripts/import/
+
+      - name: Scrape all Glovo restaurants (Oujda)
+        env:
+          SCRAPE_FORCE: ${{ inputs.force || 'true' }}
+        run: node scripts/scraper/run.js --city=oujda --force || echo "SCRAPE_EXIT=$?"
+
+      - name: Import scraped data into MongoDB Atlas
+        run: node scripts/import/run-import.js
+
+      - name: Verify import
+        run: node scripts/import/verify.js || echo "VERIFY_HAD_WARNINGS"
+
+      - name: Commit scraped data + images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ public/
+          git commit -m "chore: auto-update Glovo data ($(date -u +%Y-%m-%d))" -m "Auto-scraped from Glovo (Oujda) and imported into MongoDB Atlas." || echo "NO_CHANGES_TO_COMMIT"
+          git push
